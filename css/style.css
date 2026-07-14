@@ -45,9 +45,9 @@ html, body {
 }
 
 .wrap {
-  max-width: 1320px;
+  width: 100%;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 32px;
 }
 
 .site-header {
@@ -367,6 +367,29 @@ html, body {
 }
 
 .feedback-card { margin: 8px 0 32px; }
+
+.feedback-summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.feedback-summary::-webkit-details-marker { display: none; }
+
+.feedback-summary::after {
+  content: "+";
+  flex: 0 0 auto;
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: var(--ink-soft);
+}
+.feedback-card[open] .feedback-summary::after { content: "−"; }
+
+.feedback-card .detail-line { margin-top: 12px; }
 
 #feedback-form {
   margin-top: 12px;
