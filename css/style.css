@@ -218,6 +218,12 @@ html, body {
   border-bottom: 1px solid currentColor;
 }
 
+.part-pill a.btn {
+  color: var(--paper);
+  border-bottom: none;
+  font-size: 1rem;
+}
+
 .card-links {
   display: flex;
   flex-wrap: wrap;
