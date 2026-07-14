@@ -135,6 +135,49 @@ html, body {
   cursor: pointer;
 }
 
+/* Fixed colors (not theme variables) so this always reads as a dark
+   button with white text, regardless of light/dark mode. */
+.btn-cta {
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 12px 20px;
+  border: 1px solid #1b2430;
+  border-radius: var(--radius);
+  background: #1b2430;
+  color: #ffffff !important;
+  text-decoration: none !important;
+  cursor: pointer;
+}
+.btn-cta:hover { background: #2a3646; border-color: #2a3646; }
+
+.small-note {
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+}
+
+.subtle-link {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.img-thumb-link {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.img-thumb {
+  display: block;
+  max-width: 260px;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  cursor: zoom-in;
+  transition: opacity 0.15s ease;
+}
+.img-thumb:hover { opacity: 0.85; }
+
 .hint {
   color: var(--ink-soft);
   font-size: 0.9rem;
@@ -218,11 +261,6 @@ html, body {
   border-bottom: 1px solid currentColor;
 }
 
-.part-pill a.btn {
-  color: var(--paper);
-  border-bottom: none;
-  font-size: 1rem;
-}
 
 .card-links {
   display: flex;
@@ -239,12 +277,14 @@ html, body {
 }
 
 .thumb-btn {
+  display: inline-block;
   border: 1px solid var(--line);
   background: var(--paper);
   color: var(--ink-soft);
   border-radius: 6px;
   padding: 4px 8px;
   font-size: 0.78rem;
+  text-decoration: none;
   cursor: pointer;
 }
 

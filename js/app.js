@@ -89,7 +89,7 @@
         return `
         <div class="part-pill">
           <span class="num">Part ${n}</span>
-          <button class="thumb-btn" data-preview="${localImageUrl(n)}">Preview</button>
+          <a class="thumb-btn" href="${localImageUrl(n)}" target="_blank" rel="noopener" data-preview="${localImageUrl(n)}">Preview</a>
           <a href="${officialPdfUrl(n)}" target="_blank" rel="noopener">Official PDF ↗</a>
         </div>`;
       })
@@ -205,7 +205,7 @@
         <p class="detail-line">Accepted entries: ${part.acceptedEntries} · Historical-only: ${part.historicalOnlyEntries} · Needs review: ${part.needsReview}</p>
         <div class="part-pill-row">
           <div class="part-pill">
-            <button class="thumb-btn" data-preview="${localImageUrl(part.partNumber)}">Preview page</button>
+            <a class="thumb-btn" href="${localImageUrl(part.partNumber)}" target="_blank" rel="noopener" data-preview="${localImageUrl(part.partNumber)}">Preview page</a>
             <a href="${part.officialPdfUrl}" target="_blank" rel="noopener">Download official PDF ↗</a>
           </div>
         </div>
@@ -242,7 +242,7 @@
           <p class="roads-list">${roadsList}</p>
           <div class="part-pill-row">
             <div class="part-pill">
-              <button class="thumb-btn" data-preview="${localImageUrl(part.partNumber)}">Preview</button>
+              <a class="thumb-btn" href="${localImageUrl(part.partNumber)}" target="_blank" rel="noopener" data-preview="${localImageUrl(part.partNumber)}">Preview</a>
               <a href="${part.officialPdfUrl}" target="_blank" rel="noopener">PDF ↗</a>
             </div>
           </div>
@@ -309,11 +309,14 @@
     const lightbox = el("lightbox");
     const img = el("lightbox-img");
     document.addEventListener("click", (e) => {
-      const btn = e.target.closest(".thumb-btn");
-      if (btn) {
-        img.src = btn.dataset.preview;
-        lightbox.hidden = false;
-      }
+      const btn = e.target.closest(".thumb-btn, .img-thumb-link");
+      if (!btn) return;
+      // Let ctrl/cmd/shift/middle-click fall through to the real href
+      // (open in new tab / background tab) instead of hijacking it.
+      if (e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) return;
+      e.preventDefault();
+      img.src = btn.dataset.preview;
+      lightbox.hidden = false;
     });
     el("lightbox-close").addEventListener("click", () => {
       lightbox.hidden = true;
