@@ -45,7 +45,7 @@ html, body {
 }
 
 .wrap {
-  max-width: 920px;
+  max-width: 1320px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -78,6 +78,26 @@ html, body {
 }
 
 .disclaimer a { color: var(--accent); }
+
+.handy-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-top: 12px;
+  font-size: 0.85rem;
+}
+
+.handy-links-label {
+  color: var(--ink-soft);
+  font-weight: 600;
+}
+
+.handy-links a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
 
 .tabs {
   display: flex;

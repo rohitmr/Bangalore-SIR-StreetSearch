@@ -347,7 +347,7 @@
 
   // ---------- Feedback form ----------
 
-  const FEEDBACK_ENDPOINT = "https://formsubmit.co/ajax/rohit@trellisys.net";
+  const FEEDBACK_ENDPOINT = "https://formsubmit.co/ajax/4b95fd3d9fb62ab4a5daeaa88caacfea";
 
   function setupFeedbackForm() {
     const form = el("feedback-form");
