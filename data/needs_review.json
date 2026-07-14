@@ -1,0 +1,19 @@
+[
+  {
+    "Part Number": "155",
+    "Part Code": "A0870155",
+    "Sequence": "1",
+    "Kannada OCR": "2೨ ಹಏುಸ್‌ ಏ ರಸ್ತೆ",
+    "Verified Road / Locality": null,
+    "Specific Road Detail": null,
+    "Verification Status": "Needs review",
+    "Confidence": null,
+    "Verification Basis": "Source reads approximately 'B House A Road'",
+    "Map / Area Check": "No reliable current or official match found",
+    "Source Type": "visual-only",
+    "Source URL": "https://www.google.com/maps/search/?api=1&query=B%20House%20A%20Road%20Bengaluru%2C%20Bengaluru",
+    "Google Maps Search": "https://www.google.com/maps/search/?api=1&query=B%20House%20A%20Road%20Bengaluru%2C%20Bengaluru",
+    "Source Image": "A0870155.png",
+    "Notes": "Readable as 'B House A Road', but the historical expansion/location is not independently confirmed."
+  }
+]

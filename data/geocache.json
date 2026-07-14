@@ -1,0 +1,1484 @@
+{
+  "A.D. Block, Vyalikaval": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "A.N. Block, Vyalikaval": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Achayya Shetty Layout": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Achuttaraya Modaliar Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Adi Kabir Ashram": {
+    "lat": 13.0139863,
+    "lon": 77.5966551,
+    "displayName": "JC Nagar Main Road, Jaya Chamarajendra Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "Adi Kabir Ashram, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Ahmed Sait Road": {
+    "lat": 12.9984378,
+    "lon": 77.6138286,
+    "displayName": "Ahmed Sait Road, Sindhi Colony, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Ahmed Sait Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Akkamma Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Andanappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Anjaneya Temple Street": {
+    "lat": 12.9688749,
+    "lon": 77.5831205,
+    "displayName": "Anjaneya Temple Street, Ganigarpet, Dharmaraya Swamy Temple Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560002, India",
+    "queryUsed": "Anjaneya Temple Street, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Ankappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Annayappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Assaye Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Atmananda Colony": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "B. Kempanna & Brothers Layout": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "BDA Houses": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Bellary Road": {
+    "lat": 13.025335,
+    "lon": 77.5852191,
+    "displayName": "Bellary Road, Ramakrishna Layout, Bhoopasandra, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "Bellary Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Benson Cross Road": {
+    "lat": 12.9976601,
+    "lon": 77.6032444,
+    "displayName": "Benson Cross Road, Williams Town, Benson Town, Jayamahal, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Benson Cross Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Benson Road": {
+    "lat": 12.995633,
+    "lon": 77.6043646,
+    "displayName": "Benson Road, Williams Town, Benson Town, Jayamahal, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Benson Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Bhanumathi Garden": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Bilal Nagar": {
+    "lat": 12.984955,
+    "lon": 77.6022466,
+    "displayName": "Bilal Bakery, Chandni Chowk Road, Vasanth Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India",
+    "queryUsed": "Bilal Nagar, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Binny Mill Houses": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Boardline Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Bore Bank Road": {
+    "lat": 12.997345,
+    "lon": 77.6074399,
+    "displayName": "Bore Bank Road, Williams Town, Benson Town, Jayamahal, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Bore Bank Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Buddha Vihar Road": {
+    "lat": 12.9987632,
+    "lon": 77.6189427,
+    "displayName": "Buddha Vihar Road, Lazar Layout, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Buddha Vihar Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "BWSSB Quarters": {
+    "lat": 13.0099859,
+    "lon": 77.5656904,
+    "displayName": "BWSSB Quarters, Malleswaram, Malleshwaram, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "BWSSB Quarters, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Bydarahalli Streets": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "CBI Quarters": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "CBI Road": {
+    "lat": 13.0264888,
+    "lon": 77.5928965,
+    "displayName": "CBI Road, HMT Layout, Ganga Nagar, Ganganagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "CBI Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Cedar Grove Apartments": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Cemetery Huts (Muthappa Block area)": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Chaluvaraya Modaliar Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Channa Krishnappa Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Chinnappa Garden": {
+    "lat": 13.0049027,
+    "lon": 77.5986993,
+    "displayName": "Chinnappa Garden, Munireddypalya, Ramaswamy Palya, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Chinnappa Garden, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Chowdaiah Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Chunchappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Church Compound Huts": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Clive Land Town": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Clive Land Town / K.R. Wodeyar Nagar": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Corporation Colony": {
+    "lat": 12.9822565,
+    "lon": 77.6295796,
+    "displayName": "Corporation Colony, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Corporation Colony, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "CPV Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "D. N. Ramaiah Layout": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Davis Road": {
+    "lat": 13.0030229,
+    "lon": 77.6218058,
+    "displayName": "Davis Road, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
+    "queryUsed": "Davis Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Dhanakoti Lane": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Dinnur": {
+    "lat": 13.0268586,
+    "lon": 77.5985884,
+    "displayName": "Dinnur, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Dinnur, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Dinnur Main Road": {
+    "lat": 13.0243638,
+    "lon": 77.5962411,
+    "displayName": "Dinnur Main Road, R.T Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "Dinnur Main Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Dinnur-Sultanpalya Main Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Dodda Beerappa Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Dodda Venkatappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Doordarshan Kendra Staff Quarters": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "ESI Hospital Staff Quarters": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Ex-Servicemen Colony": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Ganganagar": {
+    "lat": 13.0275463,
+    "lon": 77.5905718,
+    "displayName": "Ganganagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Ganganagar, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Gangappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Geeta Mandir Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Giddappa Block": {
+    "lat": 13.0214345,
+    "lon": 77.5903223,
+    "displayName": "3rd Cross, Giddappa Block, Krishnappa Block, Gangenahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "Giddappa Block, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Golappa Hatti": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Gopalappa Layout": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Gospel Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Hains Road": {
+    "lat": 12.9925987,
+    "lon": 77.6071913,
+    "displayName": "Hains Road, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India",
+    "queryUsed": "Hains Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Hall Road": {
+    "lat": 13.0051563,
+    "lon": 77.6144409,
+    "displayName": "Hall Road, Sagayapura, Richards Town, Sagayapuram, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Hall Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Harijana Colony": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Harris Road": {
+    "lat": 12.9994445,
+    "lon": 77.6093812,
+    "displayName": "Harris Road, Netaji Road, Pottery Town, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Harris Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Hebbal Mill": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "HGH Layout": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "HMT Layout / HMT Colony, RT Nagar": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Hutchins Road": {
+    "lat": 13.0048574,
+    "lon": 77.6232065,
+    "displayName": "Hutchins Main Road, D'Costa Square, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
+    "queryUsed": "Hutchins Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Isaac Saheb Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "ITI Layout": {
+    "lat": 13.004908,
+    "lon": 77.6046672,
+    "displayName": "ITI Layout, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "ITI Layout, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Jabbar Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Jayamahal Extension": {
+    "lat": 13.0011064,
+    "lon": 77.5969579,
+    "displayName": "Jayamahal Extension, Jayamahal, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Jayamahal Extension, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Jayamahal Road": {
+    "lat": 12.9981496,
+    "lon": 77.5955368,
+    "displayName": "Jayamahal Road, Rajamahal, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560006, India",
+    "queryUsed": "Jayamahal Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Jeremiah Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "John Armstrong Road": {
+    "lat": 13.0039117,
+    "lon": 77.6155762,
+    "displayName": "John Armstrong Road, Sagayapura, Richards Town, Sagayapuram, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "John Armstrong Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Judges Colony": {
+    "lat": 13.0242561,
+    "lon": 77.5923117,
+    "displayName": "Judges Colony, Krishnappa Block, Gangenahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "Judges Colony, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "K. V. Narayana Huts (Ambedkar Slum)": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Kandaswamy Mudaliar Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Kausar Nagar": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Kemp Road": {
+    "lat": 12.994969,
+    "lon": 77.6071971,
+    "displayName": "Kemp Road, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Kemp Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Kempaiah Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Kenchappa Road": {
+    "lat": 12.9993606,
+    "lon": 77.6181168,
+    "displayName": "Kenchappa Road, Lazar Layout, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Kenchappa Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Krishnamma Garden": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Krishnappa Block": {
+    "lat": 13.0201254,
+    "lon": 77.5900049,
+    "displayName": "Krishnappa Block, Gangenahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "Krishnappa Block, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Kumaraswamy Naidu Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Lakshmaiah Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Lakshmidevamma Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Lancer Road": {
+    "lat": 13.0120935,
+    "lon": 77.593834,
+    "displayName": "Mysore Lancer's Haifa Memorial, CQAL Road, Gangenahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560006, India",
+    "queryUsed": "Lancer Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Lazar Road": {
+    "lat": 13.0010037,
+    "lon": 77.6203081,
+    "displayName": "Lazar Road, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Lazar Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Leev Colony (historical name)": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Lingappa Thota": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Madhavaraya Mudaliar Road": {
+    "lat": 13.0005332,
+    "lon": 77.6160546,
+    "displayName": "MM Road, Lazar Layout, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Madhavaraya Mudaliar Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Maheshwaramma Temple Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Maiganda Deva Mudaliar Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Maistry Marappa Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Marappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Marappa Thota": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Masjid Street": {
+    "lat": 12.9750172,
+    "lon": 77.6228951,
+    "displayName": "Jamia Masjid Street, Someshwarpura, Halasuru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Masjid Street, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Matadahalli": {
+    "lat": 13.01346,
+    "lon": 77.5935361,
+    "displayName": "Matadahalli, CQAL Road, MLA Layout, Gangenahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "Matadahalli, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Matadahalli Extension (EWS)": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Meanee Avenue Road": {
+    "lat": 12.9877922,
+    "lon": 77.6181631,
+    "displayName": "Saint John's Church Road, Kothandram Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "Meanee Avenue Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Mestri Venkatappa Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Millers Road": {
+    "lat": 12.9922779,
+    "lon": 77.594615,
+    "displayName": "Millers Road, Kaverappa Layout, Vasanth Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560052, India",
+    "queryUsed": "Millers Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Moore Road": {
+    "lat": 12.9988477,
+    "lon": 77.6126726,
+    "displayName": "Moore Road, Sindhi Colony, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Moore Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Mosque Road": {
+    "lat": 13.0020511,
+    "lon": 77.6161762,
+    "displayName": "Mosque Road, Sagayapura, Richards Town, Sagayapuram, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Mosque Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Motuchary Bande Palya": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Muddamma Garden": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Muni Veerappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Muni Venkataram Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Munimarappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Muninanjappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Muniramanna Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Munireddy Palya Main Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Munireddy Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Muniswamappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Muniswamappa Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Murugesh Mudaliar Road": {
+    "lat": 12.9991226,
+    "lon": 77.6158763,
+    "displayName": "Murugesh Mudaliar Road, Lazar Layout, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Murugesh Mudaliar Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Muthappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Nagappa Street": {
+    "lat": 12.996863,
+    "lon": 77.5782526,
+    "displayName": "Nagappa Street, Basappa Garden, Seshadripuram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India",
+    "queryUsed": "Nagappa Street, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Nandi Durga Road": {
+    "lat": 13.0044949,
+    "lon": 77.5948453,
+    "displayName": "Nandi Durga Road, Chinnappa Garden, JC Nagar, Ramaswamy Palya, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Nandi Durga Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Nandi Durga Road Extension": {
+    "lat": 12.9995832,
+    "lon": 77.5999398,
+    "displayName": "Nandi Durga Road, Jayamahal Extension, Jayamahal, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Nandi Durga Road Extension, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Nandi View Layout": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Nandi View Layout (Dinnur)": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Nanjappa Thota": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Narayanappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Netaji Road": {
+    "lat": 12.992329,
+    "lon": 77.6043322,
+    "displayName": "Netaji Road, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Netaji Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Netaji Road Huts": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "New Bagalur Layout": {
+    "lat": 13.0079918,
+    "lon": 77.6184726,
+    "displayName": "New Bagalur Layout, Richards Town, Sagayapuram, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
+    "queryUsed": "New Bagalur Layout, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "New Bamboo Bazaar Road": {
+    "lat": 12.9925945,
+    "lon": 77.605951,
+    "displayName": "New Bamboo Bazaar Road, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India",
+    "queryUsed": "New Bamboo Bazaar Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "NTI Compound": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Old Bagalur Layout": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Old Tumkur Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "P&T Colony, RT Nagar": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Palace Compound": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Palace Guttahalli": {
+    "lat": 12.999489,
+    "lon": 77.5843469,
+    "displayName": "Palace Guttahalli, Sankey Road, Lower Palace Orchard, Guttahalli, Rajamahal, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560006, India",
+    "queryUsed": "Palace Guttahalli, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Papanna Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Paranjyothi Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Patel Chalavappa Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Patel Gundappa": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Pemmaiah Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Pemmegowda Road / Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Pillai Road": {
+    "lat": 12.9706973,
+    "lon": 77.6071349,
+    "displayName": "Chef Pillai, 70, Brigade Road, Arab Lines, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560025, India",
+    "queryUsed": "Pillai Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Pillanna Garden": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Pillappa Compound": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Police Quarters": {
+    "lat": 12.9883249,
+    "lon": 77.6004488,
+    "displayName": "Shivaji Nagar Police Quarters, Benson Town, Jayamahal, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Police Quarters, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Pottery Road": {
+    "lat": 13.0016953,
+    "lon": 77.6180807,
+    "displayName": "Pottery Road, Sagayapura, Richards Town, Sagayapuram, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Pottery Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Pottery Road Multi-storey Buildings": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Pottery Town": {
+    "lat": 13.001385,
+    "lon": 77.6079476,
+    "displayName": "Pottery Town, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Pottery Town, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Pottery Town Layout": {
+    "lat": 13.0000427,
+    "lon": 77.620479,
+    "displayName": "India Emporium, Pottery Road, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Pottery Town Layout, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Promenade Road": {
+    "lat": 12.9950356,
+    "lon": 77.609211,
+    "displayName": "Promenade Road, Cleveland Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Promenade Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "R. Sonappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Rahamath Nagar": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Rajappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Rajmahal Vilas": {
+    "lat": 13.0083963,
+    "lon": 77.5798773,
+    "displayName": "State Bank of India, 397, 13th Cross Sadashivanagar, Upper Palace Orchard, Sadashivanagar, Sadashiva Nagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560080, India",
+    "queryUsed": "Rajmahal Vilas, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Rama Bai Colony": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Ramakrishnappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Ramalingeshwara Temple Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Ramaswamy Temple Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Rathan Singh Road": {
+    "lat": 13.0017068,
+    "lon": 77.6149818,
+    "displayName": "Rathan Singh Road, Lazar Layout, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Rathan Singh Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "RBI Colony": {
+    "lat": 13.0287777,
+    "lon": 77.5885498,
+    "displayName": "RBI Colony, Ganga Nagar, Ganganagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560024, India",
+    "queryUsed": "RBI Colony, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Reading Room Street": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Robertson Road": {
+    "lat": 12.9980187,
+    "lon": 77.6133123,
+    "displayName": "Robertson Road, Sindhi Colony, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Robertson Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Roger Road": {
+    "lat": 12.9693297,
+    "lon": 77.5970558,
+    "displayName": "Roger Dubuis, Lavelle Road, D'Souza Layout, Shanthala Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Roger Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "RT Nagar 1st Block": {
+    "lat": 13.0227204,
+    "lon": 77.595715,
+    "displayName": "RT Nagar, Dinnur, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "RT Nagar 1st Block, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "RT Nagar 2nd Block": {
+    "lat": 13.0227204,
+    "lon": 77.595715,
+    "displayName": "RT Nagar, Dinnur, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "RT Nagar 2nd Block, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "S.K. Garden": {
+    "lat": 12.9984097,
+    "lon": 77.6057238,
+    "displayName": "S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "S.K. Garden, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "S.K. Garden Huts": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Sadashivanagar": {
+    "lat": 13.0110193,
+    "lon": 77.5808641,
+    "displayName": "Sadashivanagar, Sadashiva Nagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560080, India",
+    "queryUsed": "Sadashivanagar, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Sagayapuram": {
+    "lat": 13.0058493,
+    "lon": 77.616539,
+    "displayName": "Sagayapuram, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Sagayapuram, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Saunders Road": {
+    "lat": 12.9961444,
+    "lon": 77.6113902,
+    "displayName": "Saunders Road, Cleveland Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Saunders Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Shastri Layout": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Sonappa Garden": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Spencer Road": {
+    "lat": 12.99647,
+    "lon": 77.6094126,
+    "displayName": "Spencer Road, Cleveland Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Spencer Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "St. John Church Road": {
+    "lat": 12.9908176,
+    "lon": 77.6135651,
+    "displayName": "Saint John's Church Road, Sindhi Colony, Cleveland Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "St. John Church Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Standage Road": {
+    "lat": 12.9996446,
+    "lon": 77.6154384,
+    "displayName": "Standage Road, Lazar Layout, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Standage Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Stephens Cross Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Stephens Road": {
+    "lat": 12.9982146,
+    "lon": 77.6165974,
+    "displayName": "Stephens Road, Sindhi Colony, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Stephens Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Sultanji Gunta Road": {
+    "lat": 12.9878408,
+    "lon": 77.6089583,
+    "displayName": "AM Road, Bharathi Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Sultanji Gunta Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Sultanpalya": {
+    "lat": 13.0266392,
+    "lon": 77.6039706,
+    "displayName": "Sultanpalya, Sulthanpalya Main Road, Varalakshmi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "Sultanpalya, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Thimmaiah Garden": {
+    "lat": 12.9901871,
+    "lon": 77.6054757,
+    "displayName": "Thimmaiah Road, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India",
+    "queryUsed": "Thimmaiah Garden, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Thimmaiah Road": {
+    "lat": 12.9898294,
+    "lon": 77.6101762,
+    "displayName": "Thimmaiah Road, Bharathi Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Thimmaiah Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Thirumala Rao Garden": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Tulasiram Das Mutt Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Upparahalli Venkatappa Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Vasanthappa Block": {
+    "lat": 13.0258705,
+    "lon": 77.588633,
+    "displayName": "Vasanthappa Block, Ganga Nagar, Ganganagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India",
+    "queryUsed": "Vasanthappa Block, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Vasanthappa Thota": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Veerabhadra Mudaliar Garden Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Venkatarangapuram": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Viviani Road": {
+    "lat": 13.0036422,
+    "lon": 77.6156972,
+    "displayName": "Viviani Road, Sagayapura, Richards Town, Sagayapuram, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Viviani Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Vyalikaval": {
+    "lat": 13.0042636,
+    "lon": 77.5751704,
+    "displayName": "Vyalikaval, Kodandarampura, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India",
+    "queryUsed": "Vyalikaval, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Waheb Garden": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Ware Road": {
+    "lat": 12.9940826,
+    "lon": 77.6145012,
+    "displayName": "Ware Road, Sindhi Colony, Cleveland Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Ware Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Wheeler Road": {
+    "lat": 12.996034,
+    "lon": 77.6172578,
+    "displayName": "Wheeler Road, Cox Town, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Wheeler Road, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "Williams Town": {
+    "lat": 12.9991567,
+    "lon": 77.6067556,
+    "displayName": "Williams Town, Benson Town, Jayamahal, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Williams Town, Bengaluru, Karnataka, India",
+    "resolved": true
+  },
+  "A K Colony": {
+    "lat": 12.9641406,
+    "lon": 77.5581551,
+    "displayName": "K H Ranganath Colony, Jagajeevanram Nagara, Rayapuram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560026, India",
+    "queryUsed": "A K Colony, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "Alpine Apartments": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Anjaneya Swamy Temple Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "BSA Road": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Dena Bank Colony": {
+    "lat": 12.9600676,
+    "lon": 77.6447244,
+    "displayName": "Dena Bank, Ramaiah Street, Corporation Colony, Kodihalli, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560017, India",
+    "queryUsed": "Dena Bank Colony, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "Gandhi Grama": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Ganesh Block": {
+    "lat": 12.9893267,
+    "lon": 77.5559106,
+    "displayName": "Om Ganesh Video Vision, 10th Main Road, Rajajinagar 3rd Block, Rajajinagar, Rajajinagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560010, India",
+    "queryUsed": "Ganesh Block, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "Hennur Road": {
+    "lat": 13.032117,
+    "lon": 77.6363075,
+    "displayName": "Hennur Road, HBR Layout 4th Block, Hennur, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560043, India",
+    "queryUsed": "Hennur Road, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "K. Swamy Road": {
+    "lat": 12.9650741,
+    "lon": 77.5798241,
+    "displayName": "United India Insurance company, SP Road, Ganigarpet, Dharmaraya Swamy Temple Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560078, India",
+    "queryUsed": "K. Swamy Road, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "Kempegowda Colony": {
+    "lat": 12.9605997,
+    "lon": 77.6401168,
+    "displayName": "Domlur Service Road, Domlur 1st Stage, Domlur, Domluru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560071, India",
+    "queryUsed": "Kempegowda Colony, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "M K Palya": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Muneshwara Block": {
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Muneshwara Temple Main Road": {
+    "lat": 13.045132,
+    "lon": 77.5704228,
+    "displayName": "Shri Jade Muneshwara Temple, 1st Main Road, Dollars Colony, Nagashettyhalli, Geddalahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560094, India",
+    "queryUsed": "Muneshwara Temple Main Road, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "Muneshwara Temple Road": {
+    "lat": 12.9655717,
+    "lon": 77.6383382,
+    "displayName": "Muneshwara Temple Service Road, Domlur 2nd Stage, Domlur, Domluru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Muneshwara Temple Road, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "P K Colony": {
+    "lat": 12.9641406,
+    "lon": 77.5581551,
+    "displayName": "K H Ranganath Colony, Jagajeevanram Nagara, Rayapuram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560026, India",
+    "queryUsed": "P K Colony, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "Railway Quarters": {
+    "lat": 13.0263126,
+    "lon": 77.5523544,
+    "displayName": "Railway Quarters, J.P PARK, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Railway Quarters, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "Rayappa Road": {
+    "lat": 13.0149729,
+    "lon": 77.6382499,
+    "displayName": "Saint Rayappa Road, KFSC Layout, Kammanahalli, HRBR Layout, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560043, India",
+    "queryUsed": "Rayappa Road, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  },
+  "Veeranna Garden": {
+    "lat": 13.0349383,
+    "lon": 77.6372442,
+    "displayName": "Veeranna Garden, HBR Layout 4th Block, Hennur, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Veeranna Garden, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "geocode result was outside plausible constituency radius; suppressed"
+  }
+}

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Jayamahal 2002 Electoral Roll Finder</title>
+<meta name="description" content="Find your 2002 electoral roll part number for Jayamahal Assembly Constituency (A087), Bengaluru — search by road, browse the map, or look up by part number." />
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <h1>Jayamahal 2002 Electoral Roll Finder</h1>
+    <p class="tagline">Find the correct 2002 electoral-roll <strong>part number</strong> for your road in the former Jayamahal Assembly Constituency (A087), Bengaluru — then jump straight to the official PDF.</p>
+    <p class="disclaimer">This is an independent, community-built lookup tool. It is not run by the Election Commission or CEO Karnataka. All electoral roll PDFs are linked directly from <a href="https://ceo.karnataka.gov.in/voter_list.html" target="_blank" rel="noopener">ceo.karnataka.gov.in</a>. Road-to-part mappings were reconstructed by OCR and manual verification and may contain errors — always confirm against the linked PDF page before relying on it.</p>
+  </div>
+</header>
+
+<nav class="tabs wrap" role="tablist">
+  <button class="tab-btn active" data-tab="search" role="tab" aria-selected="true">🔍 Search by road</button>
+  <button class="tab-btn" data-tab="map" role="tab" aria-selected="false">🗺️ Browse the map</button>
+  <button class="tab-btn" data-tab="part" role="tab" aria-selected="false">🔢 Look up by part number</button>
+  <button class="tab-btn" data-tab="browse" role="tab" aria-selected="false">📄 Browse all parts</button>
+</nav>
+
+<main class="wrap">
+
+  <!-- SEARCH TAB -->
+  <section id="tab-search" class="tab-panel active">
+    <div class="search-box">
+      <input id="search-input" type="text" placeholder="Type a road, layout, colony, cross, or landmark name…" autocomplete="off" />
+      <div id="search-suggestions" class="suggestions"></div>
+    </div>
+    <p class="hint">Tip: try current names, old/historical names, or just part of a name (e.g. "Vyalikaval", "4th Cross", "RBI Colony"). Spelling doesn't need to be exact.</p>
+    <div id="search-results" class="results"></div>
+  </section>
+
+  <!-- MAP TAB -->
+  <section id="tab-map" class="tab-panel">
+    <p class="hint">Pins show approximate locations of roads/localities in the 2002 index (geocoded automatically — treat placement as indicative, not exact). Click a pin for its part number and PDF link.</p>
+    <div id="map"></div>
+  </section>
+
+  <!-- PART NUMBER LOOKUP TAB -->
+  <section id="tab-part" class="tab-panel">
+    <div class="search-box">
+      <input id="part-input" type="number" min="1" max="197" placeholder="Enter a part number (1–197)" />
+      <button id="part-go" class="btn">Go</button>
+    </div>
+    <div id="part-result" class="results"></div>
+  </section>
+
+  <!-- BROWSE ALL TAB -->
+  <section id="tab-browse" class="tab-panel">
+    <p class="hint">All 197 parts of the Jayamahal (A087) 2002 electoral roll, with the roads/localities recorded in each and a link to the original PDF.</p>
+    <div id="browse-list" class="part-grid"></div>
+  </section>
+
+</main>
+
+<footer class="site-footer wrap">
+  <p>Data: OCR + manual verification of the 2002 electoral roll for AC 087 (Jayamahal). Source PDFs: <a href="https://ceo.karnataka.gov.in/uploads/BBMP/AC%2087/" target="_blank" rel="noopener">ceo.karnataka.gov.in</a>. Map tiles © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors.</p>
+</footer>
+
+<div id="lightbox" class="lightbox" hidden>
+  <div class="lightbox-inner">
+    <button id="lightbox-close" class="lightbox-close">✕</button>
+    <img id="lightbox-img" src="" alt="Electoral roll page preview" />
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

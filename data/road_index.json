@@ -1,0 +1,3107 @@
+[
+  {
+    "road": "A K Colony",
+    "parts": [
+      97,
+      98
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=A%20K%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "A.D. Block, Vyalikaval",
+    "parts": [
+      170
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 90,
+    "status": "Includes historical source-only name",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Historical block label; not clearly retained as a current map locality",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=AD%20Block%20Vyalikaval%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=A.D.%20Block%2C%20Vyalikaval%2C%20Bengaluru"
+  },
+  {
+    "road": "A.N. Block, Vyalikaval",
+    "parts": [
+      170
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 90,
+    "status": "Includes historical source-only name",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Historical block label; not clearly retained as a current map locality",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=AN%20Block%20Vyalikaval%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=A.N.%20Block%2C%20Vyalikaval%2C%20Bengaluru"
+  },
+  {
+    "road": "Achayya Shetty Layout",
+    "parts": [
+      84
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Achayya%20Shetty%20Layout%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Achayya%20Shetty%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "Achuttaraya Modaliar Road",
+    "parts": [
+      125
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Achuttaraya%20Modaliar%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Adi Kabir Ashram",
+    "parts": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "partCount": 4,
+    "matchedEntries": 5,
+    "minConfidence": 86,
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 8th Cross Roads | 1st, 2nd Main Roads | 2nd to 4th Main Roads | 5th, 6th Main Roads | 9th, 10th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Adi%20Kabir%20Ashram%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Adi%20Kabir%20Ashram%2C%20Bengaluru"
+  },
+  {
+    "road": "Ahmed Sait Road",
+    "parts": [
+      194
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ahmed%20Sait%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Akkamma Block",
+    "parts": [
+      40
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 2nd Cross Road",
+    "mapAreaCheck": "Akkamma Block and its numbered crosses are current RT Nagar address labels | Akkamma Block numbered-cross sequence",
+    "evidenceUrl": "https://pincode.net.in/gopalappa-layout-1st-and-2nd-cross-r-t-nagar-bangalore-north-karnataka-560032",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Akkamma%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Alpine Apartments",
+    "parts": [
+      65
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Alpine%20Apartments%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Alpine%20Apartments%2C%20Bengaluru"
+  },
+  {
+    "road": "Andanappa Block",
+    "parts": [
+      22
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 4th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Andanappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Anjaneya Swamy Temple Block",
+    "parts": [
+      100
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Anjaneya%20Swamy%20Temple%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Anjaneya Temple Street",
+    "parts": [
+      3
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Anjaneya%20Temple%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Ankappa Block",
+    "parts": [
+      5
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ankappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Annayappa Block",
+    "parts": [
+      8
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 3rd Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Annayappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Assaye Road",
+    "parts": [
+      197
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Assaye%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Atmananda Colony",
+    "parts": [
+      32,
+      33
+    ],
+    "partCount": 2,
+    "matchedEntries": 4,
+    "minConfidence": 90,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Main Road | 2nd, 3rd, 4th Cross Roads | 5th Main Road",
+    "mapAreaCheck": "Fits the same Ganesh Block / Atmananda Colony sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Atmananda%20Colony%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Atmananda%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "B. Kempanna & Brothers Layout",
+    "parts": [
+      179
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Main Road | 2nd Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=B.%20Kempanna%20%26%20Brothers%20Layout%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=B.%20Kempanna%20%26%20Brothers%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "BDA Houses",
+    "parts": [
+      28,
+      29
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=BDA%20Houses%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=BDA%20Houses%2C%20Bengaluru"
+  },
+  {
+    "road": "Bellary Road",
+    "parts": [
+      56,
+      58,
+      66,
+      67,
+      88
+    ],
+    "partCount": 5,
+    "matchedEntries": 5,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Bellary%20Road%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bellary%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Benson Cross Road",
+    "parts": [
+      109,
+      110
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Benson%20Cross%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Benson Road",
+    "parts": [
+      109,
+      110,
+      115
+    ],
+    "partCount": 3,
+    "matchedEntries": 3,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Benson%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Bhanumathi Garden",
+    "parts": [
+      57
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Bhanumathi%20Garden%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bhanumathi%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "Bilal Nagar",
+    "parts": [
+      146
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Bilal%20Nagar%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bilal%20Nagar%2C%20Bengaluru"
+  },
+  {
+    "road": "Binny Mill Houses",
+    "parts": [
+      69
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Binny%20Mill%20Houses%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Binny%20Mill%20Houses%2C%20Bengaluru"
+  },
+  {
+    "road": "Boardline Road",
+    "parts": [
+      124
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Boardline%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Bore Bank Road",
+    "parts": [
+      110
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bore%20Bank%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "BSA Road",
+    "parts": [
+      156
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=BSA%20Road%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=BSA%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Buddha Vihar Road",
+    "parts": [
+      130
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Buddha%20Vihar%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "BWSSB Quarters",
+    "parts": [
+      1,
+      44,
+      45
+    ],
+    "partCount": 3,
+    "matchedEntries": 3,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=BWSSB%20Quarters%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=BWSSB%20Quarters%2C%20Bengaluru"
+  },
+  {
+    "road": "Bydarahalli Streets",
+    "parts": [
+      114,
+      115
+    ],
+    "partCount": 2,
+    "matchedEntries": 4,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bydarahalli%20Streets%2C%20Bengaluru"
+  },
+  {
+    "road": "CBI Quarters",
+    "parts": [
+      58
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=CBI%20Quarters%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=CBI%20Quarters%2C%20Bengaluru"
+  },
+  {
+    "road": "CBI Road",
+    "parts": [
+      60
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=CBI%20Road%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=CBI%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Cedar Grove Apartments",
+    "parts": [
+      65
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Cedar%20Grove%20Apartments%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Cedar%20Grove%20Apartments%2C%20Bengaluru"
+  },
+  {
+    "road": "Cemetery Huts (Muthappa Block area)",
+    "parts": [
+      81
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 90,
+    "status": "Includes historical source-only name",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Historical huts beside the cemetery; not retained as a current map label",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Muthappa%20Block%20Cemetery%20RT%20Nagar%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Cemetery%20Huts%20%28Muthappa%20Block%20area%29%2C%20Bengaluru"
+  },
+  {
+    "road": "Chaluvaraya Modaliar Road",
+    "parts": [
+      124
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Chaluvaraya%20Modaliar%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Channa Krishnappa Street",
+    "parts": [
+      171
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Channa%20Krishnappa%20Street%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Channa%20Krishnappa%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Chinnappa Garden",
+    "parts": [
+      100,
+      101,
+      103,
+      104,
+      105,
+      106
+    ],
+    "partCount": 6,
+    "matchedEntries": 14,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "11th Cross Road | 12th Cross Road | 13th Cross Road | 14th Cross Road | 1st Main Road | 1st, 9th Main Roads | 2nd Main Road | 3rd Main Road | 4th Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Chinnappa%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "Chowdaiah Road",
+    "parts": [
+      177
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Chowdaiah%20Road%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Chowdaiah%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Chunchappa Block",
+    "parts": [
+      22,
+      24
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 4th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Chunchappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Church Compound Huts",
+    "parts": [
+      140
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 90,
+    "status": "Includes historical source-only name",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Historical rear-side huts by the church compound; not a current map label",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Church%20Compound%20New%20Bagalur%20Layout%20Bengaluru%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Church%20Compound%20Huts%2C%20Bengaluru"
+  },
+  {
+    "road": "Clive Land Town",
+    "parts": [
+      185,
+      189
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Clive%20Land%20Town%2C%20Bengaluru"
+  },
+  {
+    "road": "Clive Land Town / K.R. Wodeyar Nagar",
+    "parts": [
+      191,
+      192
+    ],
+    "partCount": 2,
+    "matchedEntries": 6,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": "B Street | C Street | Central Street | E Street | F Street | G Street",
+    "mapAreaCheck": "Official B,C,D,E,F,G and Central Streets group | Official Central Street entry within the group | Official F Street within the B–G/Central street group | Official G Street within the B–G/Central street group",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Clive%20Land%20Town%20/%20K.R.%20Wodeyar%20Nagar%2C%20Bengaluru"
+  },
+  {
+    "road": "Corporation Colony",
+    "parts": [
+      155,
+      158
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 4th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Corporation%20Colony%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Corporation%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "CPV Block",
+    "parts": [
+      76,
+      77
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "2nd, 3rd, 4th, 5th Main Roads | 5th Cross Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=CPV%20Block%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=CPV%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "D. N. Ramaiah Layout",
+    "parts": [
+      179
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=D.%20N.%20Ramaiah%20Layout%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=D.%20N.%20Ramaiah%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "Davis Road",
+    "parts": [
+      162
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current Davis Road, Richards Town",
+    "evidenceUrl": "https://bangaloremirror.indiatimes.com/bangalore/civic/my-voice-bangalore-mirror-richards-town-wants-authorities-to-snap-out-of-civic-neglect/articleshow/123338868.cms",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Davis%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Dena Bank Colony",
+    "parts": [
+      67
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Dena%20Bank%20Colony%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dena%20Bank%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "Dhanakoti Lane",
+    "parts": [
+      182
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dhanakoti%20Lane%2C%20Bengaluru"
+  },
+  {
+    "road": "Dinnur",
+    "parts": [
+      36,
+      37,
+      39
+    ],
+    "partCount": 3,
+    "matchedEntries": 12,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 2nd Cross Road | 3rd Cross Road | 4th A Main Road | 4th B Main Road | 4th Cross Road | 5th Cross Road | 5th Cross Road (Dinnur / Muninanjappa Block sequence) | 6th Cross Road | 7th Cross Road | 7th Cross Road (Dinnur); 1st Cross Road (Muninanjappa Block) | 8th Cross Road",
+    "mapAreaCheck": "Both localities are in the same source sequence | Current Dinnur road sequence | Dinnur is current; numbered main roads are consistent with the part | Matches the surrounding locality and road-number sequence | Number is 5th, not 34th",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dinnur%2C%20Bengaluru"
+  },
+  {
+    "road": "Dinnur Main Road",
+    "parts": [
+      35,
+      36,
+      37,
+      41,
+      42
+    ],
+    "partCount": 5,
+    "matchedEntries": 11,
+    "minConfidence": 90,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Main Road | 2nd Main Road | 3rd Main Road | 4th Main Road | 5th Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dinnur%20Main%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Dinnur-Sultanpalya Main Road",
+    "parts": [
+      42
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dinnur-Sultanpalya%20Main%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Dodda Beerappa Street",
+    "parts": [
+      173
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Dodda%20Beerappa%20Street%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dodda%20Beerappa%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Dodda Venkatappa Block",
+    "parts": [
+      40
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 92,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Historical block name within the Dinnur/Kausar Nagar part",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Dodda%20Venkatappa%20Block%20RT%20Nagar%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dodda%20Venkatappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Doordarshan Kendra Staff Quarters",
+    "parts": [
+      1
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Doordarshan%20Kendra%20Staff%20Quarters%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Doordarshan%20Kendra%20Staff%20Quarters%2C%20Bengaluru"
+  },
+  {
+    "road": "ESI Hospital Staff Quarters",
+    "parts": [
+      28
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=ESI%20Hospital%20Staff%20Quarters%2C%20Bengaluru"
+  },
+  {
+    "road": "Ex-Servicemen Colony",
+    "parts": [
+      41,
+      42
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ex-Servicemen%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "Gandhi Grama",
+    "parts": [
+      122
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gandhi%20Grama%2C%20Bengaluru"
+  },
+  {
+    "road": "Ganesh Block",
+    "parts": [
+      31,
+      32
+    ],
+    "partCount": 2,
+    "matchedEntries": 3,
+    "minConfidence": 90,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Main Road | 1st to 5th Cross Roads; 6th Cross Road; 3rd Main Road | 5th Main Road",
+    "mapAreaCheck": "Fits the same Ganesh Block / Atmananda Colony sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Atmananda%20Colony%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ganesh%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Ganganagar",
+    "parts": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      64,
+      73
+    ],
+    "partCount": 11,
+    "matchedEntries": 18,
+    "minConfidence": 86,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 1st, 2nd, 3rd Cross Roads | 2nd Cross Road | 2nd Main Road | 3rd Cross Road | 4th Cross Road | 5th Cross Road | 5th Main Road | 6th Cross Road | 6th Main Road | 7th, 8th, 9th, 10th Cross Roads",
+    "mapAreaCheck": "Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ganganagar%2C%20Bengaluru"
+  },
+  {
+    "road": "Gangappa Block",
+    "parts": [
+      64
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 2nd, 3rd Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Gangappa%20Block%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gangappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Geeta Mandir Block",
+    "parts": [
+      99
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Geeta%20Mandir%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Giddappa Block",
+    "parts": [
+      79
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 2nd, 3rd, 4th, 5th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Giddappa%20Block%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Giddappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Golappa Hatti",
+    "parts": [
+      170
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Golappa%20Hatti%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Golappa%20Hatti%2C%20Bengaluru"
+  },
+  {
+    "road": "Gopalappa Layout",
+    "parts": [
+      54
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current Gopalappa Layout, RT Nagar 560032",
+    "evidenceUrl": "https://pincode.net.in/gopalappa-layout-1st-and-2nd-cross-r-t-nagar-bangalore-north-karnataka-560032",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gopalappa%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "Gospel Street",
+    "parts": [
+      134
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Gospel%20Street%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gospel%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Hains Road",
+    "parts": [
+      181,
+      182,
+      185
+    ],
+    "partCount": 3,
+    "matchedEntries": 5,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 2nd Road | 3rd Cross Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Hains%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Hall Road",
+    "parts": [
+      159
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current Hall Road, Richards Town/Sagayapura",
+    "evidenceUrl": "https://brai.in/wp-content/uploads/2018/01/Halsur.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Hall%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Harijana Colony",
+    "parts": [
+      20,
+      51,
+      169
+    ],
+    "partCount": 3,
+    "matchedEntries": 6,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 2nd Cross Road | 3rd Cross Road | 4th Cross Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Harijana%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "Harris Road",
+    "parts": [
+      110,
+      115
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Harris%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Hebbal Mill",
+    "parts": [
+      61,
+      69,
+      70,
+      73,
+      74,
+      75,
+      76,
+      80
+    ],
+    "partCount": 8,
+    "matchedEntries": 13,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st B Main Road | 1st C Main Road | 1st D Main Road | 1st Main Road | 1st, 2nd, 3rd, 4th, 5th Cross Roads | 2nd Main Road | 2nd, 3rd, 4th, 5th Main Roads | 3rd Main Road | 4th Main Road | 5th Main Road",
+    "mapAreaCheck": "Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Hebbal%20Mill%2C%20Bengaluru"
+  },
+  {
+    "road": "Hennur Road",
+    "parts": [
+      133
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Hennur%20Road%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Hennur%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "HGH Layout",
+    "parts": [
+      58,
+      63,
+      67,
+      68
+    ],
+    "partCount": 4,
+    "matchedEntries": 8,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 1st Main Road | 2nd Main Road | 2nd, 3rd, 4th, 5th Cross Roads | 3rd Main Road | 4th Main Road | 5th Main Road",
+    "mapAreaCheck": "Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=HGH%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "HMT Layout / HMT Colony, RT Nagar",
+    "parts": [
+      43,
+      44,
+      45,
+      49,
+      50,
+      54
+    ],
+    "partCount": 6,
+    "matchedEntries": 10,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "5th Main Road | 6th Main Road | 7th Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=HMT%20Layout%20/%20HMT%20Colony%2C%20RT%20Nagar%2C%20Bengaluru"
+  },
+  {
+    "road": "Hutchins Road",
+    "parts": [
+      159
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current Hutchins Road in the same Bengaluru East road set",
+    "evidenceUrl": "https://brai.in/wp-content/uploads/2018/01/Halsur.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Hutchins%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Isaac Saheb Street",
+    "parts": [
+      2
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Isaac%20Saheb%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "ITI Layout",
+    "parts": [
+      102
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "ITI Layout is a current Bengaluru locality label",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=ITI%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "Jabbar Block",
+    "parts": [
+      174
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th Main Roads | 1st, 3rd Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Jabbar%20Block%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jabbar%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Jayamahal Extension",
+    "parts": [
+      107,
+      108
+    ],
+    "partCount": 2,
+    "matchedEntries": 3,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 32nd, 2nd, 3rd, 4th Main Roads | 5th Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayamahal%20Extension%2C%20Bengaluru"
+  },
+  {
+    "road": "Jayamahal Road",
+    "parts": [
+      2,
+      107
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 32nd, 2nd, 3rd, 4th Main Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayamahal%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Jeremiah Road",
+    "parts": [
+      196
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jeremiah%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "John Armstrong Road",
+    "parts": [
+      159
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current John Armstrong Road, Richards Town",
+    "evidenceUrl": "https://www.onefivenine.com/india/villages/Bangalore/Bangalore/John-Armstrong-Road-Richards-Town",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=John%20Armstrong%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Judges Colony",
+    "parts": [
+      51
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current Judges Colony/KHM Block, Ganganagar",
+    "evidenceUrl": "https://www.onefivenine.com/india/villages/Bangalore/Bangalore/Judges-Colony-Ganga-Nagar",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Judges%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "K. Swamy Road",
+    "parts": [
+      159
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "K. Swamy Road appears in the official guidance-value road list",
+    "evidenceUrl": "https://brai.in/wp-content/uploads/2018/01/Halsur.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=K.%20Swamy%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "K. V. Narayana Huts (Ambedkar Slum)",
+    "parts": [
+      65
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Includes historical source-only name",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Historical micro-locality between Alpine and Cedar Grove Apartments; not a current map label",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=K%20V%20Narayana%20Huts%20Ganganagar%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=K.%20V.%20Narayana%20Huts%20%28Ambedkar%20Slum%29%2C%20Bengaluru"
+  },
+  {
+    "road": "Kandaswamy Mudaliar Road",
+    "parts": [
+      159
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Listed in the current/historical official road register",
+    "evidenceUrl": "https://brai.in/wp-content/uploads/2018/01/Halsur.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kandaswamy%20Mudaliar%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Kausar Nagar",
+    "parts": [
+      38,
+      40
+    ],
+    "partCount": 2,
+    "matchedEntries": 7,
+    "minConfidence": 86,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 1st Main Road | 1st to 5th Cross Roads | 2nd Main Road | 3rd Main Road | 4th Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Kausar%20Nagar%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kausar%20Nagar%2C%20Bengaluru"
+  },
+  {
+    "road": "Kemp Road",
+    "parts": [
+      183
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kemp%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Kempaiah Block",
+    "parts": [
+      6,
+      7,
+      166
+    ],
+    "partCount": 3,
+    "matchedEntries": 6,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 1st Main Road | 1st to 7th Cross Roads | 24th, 5th Cross Roads | 8th Cross Road",
+    "mapAreaCheck": "Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kempaiah%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Kempegowda Colony",
+    "parts": [
+      71
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20Colony%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kempegowda%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "Kenchappa Road",
+    "parts": [
+      127,
+      128,
+      130
+    ],
+    "partCount": 3,
+    "matchedEntries": 3,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kenchappa%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Krishnamma Garden",
+    "parts": [
+      8,
+      97
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 3rd Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Krishnamma%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "Krishnappa Block",
+    "parts": [
+      77,
+      78,
+      79
+    ],
+    "partCount": 3,
+    "matchedEntries": 4,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "10th Cross Road | 6th Cross Road | 7th Cross Road | 8th, 9th Roads",
+    "mapAreaCheck": "Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Krishnappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Kumaraswamy Naidu Road",
+    "parts": [
+      126
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kumaraswamy%20Naidu%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Lakshmaiah Block",
+    "parts": [
+      56,
+      57
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Lakshmaiah%20Block%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Lakshmaiah%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Lakshmidevamma Block",
+    "parts": [
+      71,
+      72
+    ],
+    "partCount": 2,
+    "matchedEntries": 9,
+    "minConfidence": 86,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 1st, 2nd, 3rd Main Roads | 2nd Cross Road | 3rd Cross Road | 3rd Main Road | 3rd, 4th and 5th Cross Roads | 4th Cross Road | 4th Main Road | N Cross",
+    "mapAreaCheck": "Historical lettered cross within Lakshmidevamma Block | Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Lakshmidevamma%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Lancer Road",
+    "parts": [
+      20
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Lancer%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Lazar Road",
+    "parts": [
+      130,
+      161
+    ],
+    "partCount": 2,
+    "matchedEntries": 3,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Lazar%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Leev Colony (historical name)",
+    "parts": [
+      58
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 88,
+    "status": "Includes historical source-only name",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Placed in the roll between HGH Layout and Ganganagar; not found as a current map label",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Leev%20Colony%20Ganganagar%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Leev%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "Lingappa Thota",
+    "parts": [
+      30
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Lingappa%20Thota%2C%20Bengaluru"
+  },
+  {
+    "road": "M K Palya",
+    "parts": [
+      130
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=M%20K%20Palya%2C%20Bengaluru"
+  },
+  {
+    "road": "Madhavaraya Mudaliar Road",
+    "parts": [
+      127
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Madhavaraya%20Mudaliar%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Maheshwaramma Temple Street",
+    "parts": [
+      4
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Maheshwaramma%20Temple%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Maiganda Deva Mudaliar Road",
+    "parts": [
+      128
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Maiganda%20Deva%20Mudaliar%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Maistry Marappa Street",
+    "parts": [
+      2
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Maistry%20Marappa%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Marappa Block",
+    "parts": [
+      89
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Marappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Marappa Thota",
+    "parts": [
+      91,
+      92,
+      93,
+      100
+    ],
+    "partCount": 4,
+    "matchedEntries": 4,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 2nd, 3rd Cross Roads | 4th, 5th, 6th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Marappa%20Thota%2C%20Bengaluru"
+  },
+  {
+    "road": "Masjid Street",
+    "parts": [
+      2,
+      124,
+      177,
+      196
+    ],
+    "partCount": 4,
+    "matchedEntries": 5,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Masjid%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Matadahalli",
+    "parts": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "partCount": 6,
+    "matchedEntries": 8,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 4th Cross Roads | 1st, 2nd Main Roads | 3rd Main Road | 4th Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Matadahalli%2C%20Bengaluru"
+  },
+  {
+    "road": "Matadahalli Extension (EWS)",
+    "parts": [
+      50
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Matadahalli/Matadahalli Layout is current in RT Nagar",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Matadahalli%20Extension%20%28EWS%29%2C%20Bengaluru"
+  },
+  {
+    "road": "Meanee Avenue Road",
+    "parts": [
+      184
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Meanee%20Avenue%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Mestri Venkatappa Street",
+    "parts": [
+      4
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mestri%20Venkatappa%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Millers Road",
+    "parts": [
+      110,
+      112
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Millers%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Moore Road",
+    "parts": [
+      124,
+      186,
+      187
+    ],
+    "partCount": 3,
+    "matchedEntries": 4,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Moore%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Mosque Road",
+    "parts": [
+      195
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current Mosque Road in Fraser Town",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mosque%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Motuchary Bande Palya",
+    "parts": [
+      182
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Motuchary%20Bande%20Palya%2C%20Bengaluru"
+  },
+  {
+    "road": "Muddamma Garden",
+    "parts": [
+      10,
+      11
+    ],
+    "partCount": 2,
+    "matchedEntries": 3,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 1st, 4th Cross Roads | 2nd, 4th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muddamma%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "Muneshwara Block",
+    "parts": [
+      179,
+      180
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 97,
+    "status": "Verified",
+    "numberedRoadDetails": "1st and 2nd Cross Roads | 3rd Cross Road",
+    "mapAreaCheck": "Matches the surrounding locality and road-number sequence",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muneshwara%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Muneshwara Temple Main Road",
+    "parts": [
+      20
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muneshwara%20Temple%20Main%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Muneshwara Temple Road",
+    "parts": [
+      192
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Official Muneshwara Temple Road entry",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muneshwara%20Temple%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Muni Veerappa Block",
+    "parts": [
+      171,
+      172
+    ],
+    "partCount": 2,
+    "matchedEntries": 3,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "2nd Cross Road | 3rd Cross Road | 4th, 1st Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Muni%20Veerappa%20Block%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muni%20Veerappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Muni Venkataram Block",
+    "parts": [
+      96
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 2nd Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muni%20Venkataram%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Munimarappa Block",
+    "parts": [
+      93
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Official BBMP road/locality list",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Munimarappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Muninanjappa Block",
+    "parts": [
+      39
+    ],
+    "partCount": 1,
+    "matchedEntries": 6,
+    "minConfidence": 92,
+    "status": "Verified",
+    "numberedRoadDetails": "2nd Cross Road | 3rd Cross Road | 3rd and 2nd Cross Roads | 4th Cross Road | 5th Cross Road (Dinnur / Muninanjappa Block sequence) | 7th Cross Road (Dinnur); 1st Cross Road (Muninanjappa Block)",
+    "mapAreaCheck": "Both localities are in the same source sequence | Fits the descending 5th-to-1st Cross sequence in the source image | Matches the surrounding locality and road-number sequence | Number is 5th, not 34th",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muninanjappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Muniramanna Block",
+    "parts": [
+      61
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current Muniramanna Block, Ganganagar",
+    "evidenceUrl": "https://www.onefivenine.com/india/villages/Bangalore/Bangalore/Muniramanna-Block-Ganga-Nagar",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muniramanna%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Munireddy Palya Main Road",
+    "parts": [
+      1
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Munireddy%20Palya%20Main%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Munireddy Street",
+    "parts": [
+      3
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Munireddy%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Muniswamappa Block",
+    "parts": [
+      90
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Muniswamappa%20Block%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muniswamappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Muniswamappa Street",
+    "parts": [
+      2
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muniswamappa%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Murugesh Mudaliar Road",
+    "parts": [
+      129
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Murugesh%20Mudaliar%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Muthappa Block",
+    "parts": [
+      81
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Muthappa%20Block%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muthappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Nagappa Street",
+    "parts": [
+      180
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Nagappa%20Street%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nagappa%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Nandi Durga Road",
+    "parts": [
+      105,
+      106,
+      107,
+      111
+    ],
+    "partCount": 4,
+    "matchedEntries": 4,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 6th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nandi%20Durga%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Nandi Durga Road Extension",
+    "parts": [
+      111
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 90,
+    "status": "Verified",
+    "numberedRoadDetails": "4th, 5th, 6th, 7th, 8th Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nandi%20Durga%20Road%20Extension%2C%20Bengaluru"
+  },
+  {
+    "road": "Nandi View Layout",
+    "parts": [
+      41
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Nandi%20View%20Layout%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nandi%20View%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "Nandi View Layout (Dinnur)",
+    "parts": [
+      42
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Nandi View Layout remains a current RT Nagar/Dinnur locality",
+    "evidenceUrl": "https://dwello.in/locations/ex-servicemen-colony-rt-nagar-bengaluru-overview",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nandi%20View%20Layout%20%28Dinnur%29%2C%20Bengaluru"
+  },
+  {
+    "road": "Nanjappa Thota",
+    "parts": [
+      189
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nanjappa%20Thota%2C%20Bengaluru"
+  },
+  {
+    "road": "Narayanappa Block",
+    "parts": [
+      9,
+      44,
+      45
+    ],
+    "partCount": 3,
+    "matchedEntries": 3,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Narayanappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Netaji Road",
+    "parts": [
+      126,
+      190
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Netaji%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Netaji Road Huts",
+    "parts": [
+      126
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 92,
+    "status": "Includes historical source-only name",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Historical huts attached to Netaji Road",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Netaji%20Road%20Frazer%20Town%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Netaji%20Road%20Huts%2C%20Bengaluru"
+  },
+  {
+    "road": "New Bagalur Layout",
+    "parts": [
+      134,
+      135,
+      137,
+      138,
+      139,
+      140,
+      145
+    ],
+    "partCount": 7,
+    "matchedEntries": 22,
+    "minConfidence": 86,
+    "status": "Verified",
+    "numberedRoadDetails": "10th Main Road | 10th, 11th, 12th Main Roads | 12th, 13th, 3rd Cross Roads | 14th Cross Road | 14th Main Road | 15th Cross Road | 16th Main Road | 18th to 21st Main Roads | 1st Main Road | 1st and 2nd Cross Roads | 2nd, 3rd Main Roads | 4th, 5th, 6th, 7th, 8th, 9th Main Roads | 5th, 7th, 8th Cross Roads | 6th Main Road | 7th Main Road | 7th and 8th Cross Roads | 8th Main Road | 8th, 9th, 11th Main Roads | 9th Cross Road | 9th Main Road and 5th Main Road",
+    "mapAreaCheck": "Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=New%20Bagalur%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "New Bamboo Bazaar Road",
+    "parts": [
+      181
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=New%20Bamboo%20Bazaar%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "NTI Compound",
+    "parts": [
+      177
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=NTI%20Compound%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=NTI%20Compound%2C%20Bengaluru"
+  },
+  {
+    "road": "Old Bagalur Layout",
+    "parts": [
+      131,
+      132,
+      136,
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "partCount": 8,
+    "matchedEntries": 15,
+    "minConfidence": 86,
+    "status": "Verified",
+    "numberedRoadDetails": "10th to 17th Cross Roads | 12th Main Road at 4th B Cross | 13th, 4th Main Roads | 18th Cross Road | 19th Cross Road | 1st to 9th Cross Roads | 20th Cross Road | 21st Cross Road | 22nd Cross Road | 23rd to 26th Cross Roads | 27th, 28th, 29th Roads | 30th Cross Road | 4th A Cross at 12th Main Road | 8th Cross Road",
+    "mapAreaCheck": "Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Old%20Bagalur%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "Old Tumkur Road",
+    "parts": [
+      84,
+      85
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Tumkur%20Road%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Old%20Tumkur%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "P K Colony",
+    "parts": [
+      157
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 4th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=P%20K%20Colony%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=P%20K%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "P&T Colony, RT Nagar",
+    "parts": [
+      44,
+      45
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=P%26T%20Colony%2C%20RT%20Nagar%2C%20Bengaluru"
+  },
+  {
+    "road": "Palace Compound",
+    "parts": [
+      177
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Palace%20Compound%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Palace%20Compound%2C%20Bengaluru"
+  },
+  {
+    "road": "Palace Guttahalli",
+    "parts": [
+      169,
+      173,
+      175,
+      176,
+      177,
+      178,
+      180
+    ],
+    "partCount": 7,
+    "matchedEntries": 9,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Main Road | 2nd Main Road | 3rd, 4th Main Roads | 5th Main Road | 6th Main Road | 7th Main Road | 8th Main Road | 9th Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Palace%20Guttahalli%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Palace%20Guttahalli%2C%20Bengaluru"
+  },
+  {
+    "road": "Papanna Block",
+    "parts": [
+      55,
+      61,
+      62
+    ],
+    "partCount": 3,
+    "matchedEntries": 3,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 2nd, 3rd, 4th Cross Roads | 5th, 6th, 7th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Papanna%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Paranjyothi Road",
+    "parts": [
+      196
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Paranjyothi%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Patel Chalavappa Street",
+    "parts": [
+      4
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Patel%20Chalavappa%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Patel Gundappa",
+    "parts": [
+      92
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 2nd and 3rd Cross Roads",
+    "mapAreaCheck": "Patel Gundappa 1st–3rd Cross roads appear in the official list",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Patel%20Gundappa%2C%20Bengaluru"
+  },
+  {
+    "road": "Pemmaiah Block",
+    "parts": [
+      5
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pemmaiah%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Pemmegowda Road / Street",
+    "parts": [
+      96,
+      99
+    ],
+    "partCount": 2,
+    "matchedEntries": 3,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pemmegowda%20Road%20/%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Pillai Road",
+    "parts": [
+      162
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Pillai%20Road%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pillai%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Pillanna Garden",
+    "parts": [
+      149
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "7th to 10th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Pillanna%20Garden%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pillanna%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "Pillappa Compound",
+    "parts": [
+      97
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 95,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Pillappa Compound appears in Hebbal-area address records",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Pillappa%20Compound%20Hebbal%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pillappa%20Compound%2C%20Bengaluru"
+  },
+  {
+    "road": "Police Quarters",
+    "parts": [
+      26
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Police Quarters is a current locality label near Rahamath Nagar/RT Nagar",
+    "evidenceUrl": "https://www.nobroker.in/semi-furnished-flats-for-rent-in-police_quarters_bangalore",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Police%20Quarters%2C%20Bengaluru"
+  },
+  {
+    "road": "Pottery Road",
+    "parts": [
+      160,
+      161
+    ],
+    "partCount": 2,
+    "matchedEntries": 4,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Pottery%20Road%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pottery%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Pottery Road Multi-storey Buildings",
+    "parts": [
+      160
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": "B Block | D Block",
+    "mapAreaCheck": "Historical multi-storey housing blocks on Pottery Road",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Pottery%20Road%20B%20Block%20Bengaluru%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pottery%20Road%20Multi-storey%20Buildings%2C%20Bengaluru"
+  },
+  {
+    "road": "Pottery Town",
+    "parts": [
+      118,
+      122
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pottery%20Town%2C%20Bengaluru"
+  },
+  {
+    "road": "Pottery Town Layout",
+    "parts": [
+      118
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pottery%20Town%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "Promenade Road",
+    "parts": [
+      184
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Promenade%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "R. Sonappa Block",
+    "parts": [
+      95
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=R.%20Sonappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Rahamath Nagar",
+    "parts": [
+      23,
+      25,
+      26,
+      27,
+      28
+    ],
+    "partCount": 5,
+    "matchedEntries": 9,
+    "minConfidence": 96,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 3rd Cross Road | 4th and 5th Cross Roads | 5th Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Rahamath%20Nagar%2C%20Bengaluru"
+  },
+  {
+    "road": "Railway Quarters",
+    "parts": [
+      113
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Railway%20Quarters%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Railway%20Quarters%2C%20Bengaluru"
+  },
+  {
+    "road": "Rajappa Block",
+    "parts": [
+      89
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Rajappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Rajmahal Vilas",
+    "parts": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "partCount": 4,
+    "matchedEntries": 12,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "10th to 15th Main Roads | 1st to 6th Cross Roads | 5th Cross Road | 6th Cross Road | 6th, 10th Cross Roads | 7th Cross Road | 8th to 12th Cross Roads | 8th to 14th Main Roads | 8th, 10th Main Roads",
+    "mapAreaCheck": "Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Rajmahal%20Vilas%2C%20Bengaluru"
+  },
+  {
+    "road": "Rama Bai Colony",
+    "parts": [
+      144
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "3rd, 2nd, 1st Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Rama%20Bai%20Colony%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Rama%20Bai%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "Ramakrishnappa Block",
+    "parts": [
+      90
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramakrishnappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Ramalingeshwara Temple Road",
+    "parts": [
+      193
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramalingeshwara%20Temple%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Ramaswamy Temple Street",
+    "parts": [
+      3
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramaswamy%20Temple%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Rathan Singh Road",
+    "parts": [
+      125
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Rathan%20Singh%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Rayappa Road",
+    "parts": [
+      125
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Rayappa%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "RBI Colony",
+    "parts": [
+      55
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current RBI Colony, Ganganagar",
+    "evidenceUrl": "https://housing.com/rbi-colony-ganganagar-bengaluru-overview-Puoo0vzrf5r02rns",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=RBI%20Colony%2C%20Bengaluru"
+  },
+  {
+    "road": "Reading Room Street",
+    "parts": [
+      1
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Reading%20Room%20Street%2C%20Bengaluru"
+  },
+  {
+    "road": "Robertson Road",
+    "parts": [
+      189,
+      194,
+      195
+    ],
+    "partCount": 3,
+    "matchedEntries": 3,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Robertson%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Roger Road",
+    "parts": [
+      162
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Roger%20Road%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Roger%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "RT Nagar 1st Block",
+    "parts": [
+      47,
+      48
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=RT%20Nagar%201st%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "RT Nagar 2nd Block",
+    "parts": [
+      44,
+      45,
+      46
+    ],
+    "partCount": 3,
+    "matchedEntries": 3,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=RT%20Nagar%202nd%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "S.K. Garden",
+    "parts": [
+      102,
+      119,
+      120,
+      121
+    ],
+    "partCount": 4,
+    "matchedEntries": 9,
+    "minConfidence": 90,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 1st Main Road | 2nd Cross Road | 2nd Main Road | 3rd Main Road | 4th Main Road | 5th Main Road | 6th Main Road",
+    "mapAreaCheck": "Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=S.K.%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "S.K. Garden Huts",
+    "parts": [
+      121
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 91,
+    "status": "Includes historical source-only name",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Historical huts within S.K. Garden; not a separate current map label",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=SK%20Garden%20Bengaluru%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=S.K.%20Garden%20Huts%2C%20Bengaluru"
+  },
+  {
+    "road": "Sadashivanagar",
+    "parts": [
+      86,
+      87,
+      88,
+      165
+    ],
+    "partCount": 4,
+    "matchedEntries": 32,
+    "minConfidence": 86,
+    "status": "Verified",
+    "numberedRoadDetails": "13th Cross Road | 15th Cross Road | 16th Cross Road | 17th Cross Road | 18th Cross Road | 1st Cross Road | 1st Main Road | 2nd Cross Road | 2nd Main Road | 2nd, 5th Cross Roads | 3rd Cross Road | 4th Main Road | 4th Road | 6th Road | 8th Cross Road | 8th Main Road",
+    "mapAreaCheck": "Current Sadashivanagar numbered-road grid | Matches the surrounding locality and road-number sequence | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sadashivanagar%2C%20Bengaluru"
+  },
+  {
+    "road": "Sagayapuram",
+    "parts": [
+      145,
+      147,
+      148,
+      150,
+      151,
+      152,
+      153,
+      154,
+      163,
+      164
+    ],
+    "partCount": 10,
+    "matchedEntries": 20,
+    "minConfidence": 86,
+    "status": "Verified",
+    "numberedRoadDetails": "12th Cross Road | 13th Cross Road | 14th Road | 15th Cross Road | 16th, 17th Cross Roads | 18th Cross Road | 19th, 20th Cross Roads | 1st Cross Road | 1st Main Road | 2nd Cross Road | 2nd Main Road | 3rd Cross Road | 3rd Main Road | 4th Cross Road | 4th Main Road | 5th Cross Road | 5th, 11th Main Roads | 6th Main Road | 7th Cross Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Sagayapuram%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sagayapuram%2C%20Bengaluru"
+  },
+  {
+    "road": "Saunders Road",
+    "parts": [
+      186
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Saunders%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Shastri Layout",
+    "parts": [
+      81
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Shastri%20Layout%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Shastri%20Layout%2C%20Bengaluru"
+  },
+  {
+    "road": "Sonappa Garden",
+    "parts": [
+      94
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st, 2nd, 3rd, 4th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sonappa%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "Spencer Road",
+    "parts": [
+      185
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Spencer%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "St. John Church Road",
+    "parts": [
+      183,
+      196
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=St.%20John%20Church%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Standage Road",
+    "parts": [
+      129
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Standage%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Stephens Cross Road",
+    "parts": [
+      195
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": "House numbers 1–7",
+    "mapAreaCheck": "Official/current Stephens Road Cross",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Stephens%20Cross%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Stephens Road",
+    "parts": [
+      128
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current Stephens Road in the Fraser Town/Richards Town area",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Stephens%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Sultanji Gunta Road",
+    "parts": [
+      181
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sultanji%20Gunta%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Sultanpalya",
+    "parts": [
+      33,
+      34
+    ],
+    "partCount": 2,
+    "matchedEntries": 8,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Main Road | 1st to 6th Cross Roads | 1st, 3rd Main Roads | 2nd Cross Road | 2nd Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Sultanpalya%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sultanpalya%2C%20Bengaluru"
+  },
+  {
+    "road": "Thimmaiah Garden",
+    "parts": [
+      29,
+      30
+    ],
+    "partCount": 2,
+    "matchedEntries": 3,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 6th Cross Roads; Main Road | 7th to 11th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Thimmaiah%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "Thimmaiah Road",
+    "parts": [
+      182
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Thimmaiah%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Thirumala Rao Garden",
+    "parts": [
+      106
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 99,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Current addresses use Thirumala Rao Garden near Nandi Durga Road",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Thirumala%20Rao%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "Tulasiram Das Mutt Road",
+    "parts": [
+      193
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Tulasiram%20Das%20Mutt%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Upparahalli Venkatappa Block",
+    "parts": [
+      96,
+      97
+    ],
+    "partCount": 2,
+    "matchedEntries": 3,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 2nd Cross Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Upparahalli%20Venkatappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Vasanthappa Block",
+    "parts": [
+      54,
+      63
+    ],
+    "partCount": 2,
+    "matchedEntries": 3,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "5th Cross Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Vasanthappa%20Block%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Vasanthappa%20Block%2C%20Bengaluru"
+  },
+  {
+    "road": "Vasanthappa Thota",
+    "parts": [
+      59,
+      60
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Vasanthappa%20Thota%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Vasanthappa%20Thota%2C%20Bengaluru"
+  },
+  {
+    "road": "Veerabhadra Mudaliar Garden Road",
+    "parts": [
+      193
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Veerabhadra%20Mudaliar%20Garden%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Veeranna Garden",
+    "parts": [
+      192,
+      193
+    ],
+    "partCount": 2,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Veeranna%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "Venkatarangapuram",
+    "parts": [
+      166,
+      168,
+      169
+    ],
+    "partCount": 3,
+    "matchedEntries": 8,
+    "minConfidence": 86,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Main Road | 2nd Main Road | 3rd, 4th, 5th Main Roads | 4th Cross Road | 5th Cross Road | 6th Cross Road",
+    "mapAreaCheck": "Historical/current Venkatarangapuram locality | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Venkatarangapuram%20Bengaluru%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Venkatarangapuram%2C%20Bengaluru"
+  },
+  {
+    "road": "Viviani Road",
+    "parts": [
+      162
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Viviani%20Road%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Viviani%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Vyalikaval",
+    "parts": [
+      167,
+      170
+    ],
+    "partCount": 2,
+    "matchedEntries": 4,
+    "minConfidence": 94,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Main Road | 2nd Main Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://www.google.com/maps/search/?api=1&query=Vyalikaval%2C%20Bengaluru",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Vyalikaval%2C%20Bengaluru"
+  },
+  {
+    "road": "Waheb Garden",
+    "parts": [
+      123
+    ],
+    "partCount": 1,
+    "matchedEntries": 1,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Waheb%20Garden%2C%20Bengaluru"
+  },
+  {
+    "road": "Ware Road",
+    "parts": [
+      188
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": "Official Ware Road entry | Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ware%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Wheeler Road",
+    "parts": [
+      197
+    ],
+    "partCount": 1,
+    "matchedEntries": 2,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st Cross Road | 2nd Cross Road",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Wheeler%20Road%2C%20Bengaluru"
+  },
+  {
+    "road": "Williams Town",
+    "parts": [
+      115,
+      116,
+      117
+    ],
+    "partCount": 3,
+    "matchedEntries": 4,
+    "minConfidence": 98,
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 7th Cross Roads | 1st, 2nd Main Roads | 8th to 11th Cross Roads",
+    "mapAreaCheck": "Previously verified against the BBMP/current-area dictionary",
+    "evidenceUrl": "https://bbmptax.karnataka.gov.in/documents/Old%20BBMP%20links/2008-09-Zonal%20Classifications/Residential/Jayamahal.pdf",
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Williams%20Town%2C%20Bengaluru"
+  }
+]
