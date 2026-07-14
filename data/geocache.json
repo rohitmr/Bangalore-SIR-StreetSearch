@@ -56,11 +56,12 @@
     "resolved": false
   },
   "Anjaneya Temple Street": {
-    "lat": 12.9688749,
-    "lon": 77.5831205,
-    "displayName": "Anjaneya Temple Street, Ganigarpet, Dharmaraya Swamy Temple Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560002, India",
-    "queryUsed": "Anjaneya Temple Street, Bengaluru, Karnataka, India",
-    "resolved": true
+    "lat": 13.007842,
+    "lon": 77.593767,
+    "displayName": "Anjaneya Temple Street, Bengaluru (manually verified)",
+    "queryUsed": null,
+    "resolved": true,
+    "manual": true
   },
   "Ankappa Block": {
     "lat": 12.9995,
@@ -266,11 +267,13 @@
     "resolved": false
   },
   "Corporation Colony": {
-    "lat": 12.9822565,
-    "lon": 77.6295796,
-    "displayName": "Corporation Colony, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
-    "queryUsed": "Corporation Colony, Bengaluru, Karnataka, India",
-    "resolved": true
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "manual": true,
+    "note": "geocode result was in a different, unrelated neighborhood; suppressed pending manual verification"
   },
   "CPV Block": {
     "lat": 12.9995,
@@ -665,11 +668,12 @@
     "resolved": false
   },
   "Masjid Street": {
-    "lat": 12.9750172,
-    "lon": 77.6228951,
-    "displayName": "Jamia Masjid Street, Someshwarpura, Halasuru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
-    "queryUsed": "Masjid Street, Bengaluru, Karnataka, India",
-    "resolved": true
+    "lat": 13.0072594,
+    "lon": 77.5929853,
+    "displayName": "Masjid Road, Bengaluru (manually verified)",
+    "queryUsed": null,
+    "resolved": true,
+    "manual": true
   },
   "Matadahalli": {
     "lat": 13.01346,
@@ -686,11 +690,13 @@
     "resolved": false
   },
   "Meanee Avenue Road": {
-    "lat": 12.9877922,
-    "lon": 77.6181631,
-    "displayName": "Saint John's Church Road, Kothandram Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
-    "queryUsed": "Meanee Avenue Road, Bengaluru, Karnataka, India",
-    "resolved": true
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "manual": true,
+    "note": "geocode result was in a different, unrelated neighborhood; suppressed pending manual verification"
   },
   "Mestri Venkatappa Street": {
     "lat": 12.9995,
@@ -812,11 +818,13 @@
     "resolved": false
   },
   "Nagappa Street": {
-    "lat": 12.996863,
-    "lon": 77.5782526,
-    "displayName": "Nagappa Street, Basappa Garden, Seshadripuram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India",
-    "queryUsed": "Nagappa Street, Bengaluru, Karnataka, India",
-    "resolved": true
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "manual": true,
+    "note": "geocode result was in a different, unrelated neighborhood; suppressed pending manual verification"
   },
   "Nandi Durga Road": {
     "lat": 13.0044949,
@@ -973,11 +981,13 @@
     "resolved": false
   },
   "Pillai Road": {
-    "lat": 12.9706973,
-    "lon": 77.6071349,
-    "displayName": "Chef Pillai, 70, Brigade Road, Arab Lines, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560025, India",
-    "queryUsed": "Pillai Road, Bengaluru, Karnataka, India",
-    "resolved": true
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "manual": true,
+    "note": "geocode result was in a different, unrelated neighborhood; suppressed pending manual verification"
   },
   "Pillanna Garden": {
     "lat": 12.9995,
@@ -1120,11 +1130,12 @@
     "resolved": true
   },
   "Roger Road": {
-    "lat": 12.9693297,
-    "lon": 77.5970558,
-    "displayName": "Roger Dubuis, Lavelle Road, D'Souza Layout, Shanthala Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
-    "queryUsed": "Roger Road, Bengaluru, Karnataka, India",
-    "resolved": true
+    "lat": 13.0031047,
+    "lon": 77.6118269,
+    "displayName": "Rogers Road, Richards Town, Bengaluru (manually verified)",
+    "queryUsed": null,
+    "resolved": true,
+    "manual": true
   },
   "RT Nagar 1st Block": {
     "lat": 13.0227204,
@@ -1225,11 +1236,13 @@
     "resolved": true
   },
   "Sultanji Gunta Road": {
-    "lat": 12.9878408,
-    "lon": 77.6089583,
-    "displayName": "AM Road, Bharathi Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
-    "queryUsed": "Sultanji Gunta Road, Bengaluru, Karnataka, India",
-    "resolved": true
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "manual": true,
+    "note": "geocode result was in a different, unrelated neighborhood; suppressed pending manual verification"
   },
   "Sultanpalya": {
     "lat": 13.0266392,
@@ -1246,11 +1259,13 @@
     "resolved": true
   },
   "Thimmaiah Road": {
-    "lat": 12.9898294,
-    "lon": 77.6101762,
-    "displayName": "Thimmaiah Road, Bharathi Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
-    "queryUsed": "Thimmaiah Road, Bengaluru, Karnataka, India",
-    "resolved": true
+    "lat": 12.9995,
+    "lon": 77.5985,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "manual": true,
+    "note": "geocode result was in a different, unrelated neighborhood; suppressed pending manual verification"
   },
   "Thirumala Rao Garden": {
     "lat": 12.9995,
