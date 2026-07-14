@@ -57,25 +57,40 @@
 
   // ---------- Tabs ----------
 
+  function activateTab(tabName, opts = {}) {
+    const target = document.querySelector(`.tab-btn[data-tab="${tabName}"]`);
+    if (!target) return;
+    document.querySelectorAll(".tab-btn").forEach((b) => {
+      b.classList.remove("active");
+      b.setAttribute("aria-selected", "false");
+    });
+    target.classList.add("active");
+    target.setAttribute("aria-selected", "true");
+    document.querySelectorAll(".tab-panel").forEach((p) => p.classList.remove("active"));
+    el("tab-" + tabName).classList.add("active");
+    if (tabName === "map") {
+      initMapIfNeeded();
+    }
+    if (tabName === "browse" && !el("browse-list").dataset.rendered) {
+      renderBrowseAll();
+    }
+    if (!opts.fromHashChange) {
+      const url = tabName === "search" ? location.pathname + location.search : "#" + tabName;
+      history.replaceState(null, "", url);
+    }
+  }
+
   function setupTabs() {
-    const buttons = document.querySelectorAll(".tab-btn");
-    buttons.forEach((btn) => {
-      btn.addEventListener("click", () => {
-        buttons.forEach((b) => {
-          b.classList.remove("active");
-          b.setAttribute("aria-selected", "false");
-        });
-        btn.classList.add("active");
-        btn.setAttribute("aria-selected", "true");
-        document.querySelectorAll(".tab-panel").forEach((p) => p.classList.remove("active"));
-        el("tab-" + btn.dataset.tab).classList.add("active");
-        if (btn.dataset.tab === "map") {
-          initMapIfNeeded();
-        }
-        if (btn.dataset.tab === "browse" && !el("browse-list").dataset.rendered) {
-          renderBrowseAll();
-        }
+    document.querySelectorAll(".tab-btn").forEach((btn) => {
+      btn.addEventListener("click", (e) => {
+        // Middle-click / ctrl / cmd click: let the browser open it in a new tab as normal.
+        if (e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) return;
+        e.preventDefault();
+        activateTab(btn.dataset.tab);
       });
+    });
+    window.addEventListener("hashchange", () => {
+      activateTab(location.hash.slice(1) || "search", { fromHashChange: true });
     });
   }
 
@@ -342,6 +357,10 @@
     } catch (err) {
       el("search-results").innerHTML = `<p class="no-results">Could not load data files. If you're running this locally, serve the folder with a local web server (e.g. <code>python3 -m http.server</code>) rather than opening index.html directly.</p>`;
       console.error(err);
+    }
+    const initialTab = location.hash.slice(1);
+    if (initialTab && document.querySelector(`.tab-btn[data-tab="${initialTab}"]`)) {
+      activateTab(initialTab, { fromHashChange: true });
     }
   }
 
