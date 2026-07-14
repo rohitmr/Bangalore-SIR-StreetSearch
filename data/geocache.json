@@ -134,11 +134,12 @@
     "resolved": false
   },
   "Bilal Nagar": {
-    "lat": 12.984955,
-    "lon": 77.6022466,
-    "displayName": "Bilal Bakery, Chandni Chowk Road, Vasanth Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India",
-    "queryUsed": "Bilal Nagar, Bengaluru, Karnataka, India",
-    "resolved": true
+    "lat": 13.0088466,
+    "lon": 77.6160222,
+    "displayName": "Bilal Nagar, Bengaluru (manually verified)",
+    "queryUsed": null,
+    "resolved": true,
+    "manual": true
   },
   "Binny Mill Houses": {
     "lat": 12.9995,
