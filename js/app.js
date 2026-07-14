@@ -35,9 +35,9 @@
 
   async function loadData() {
     const [roadIndex, partSummary, geocache] = await Promise.all([
-      fetch("data/road_index.json").then((r) => r.json()),
-      fetch("data/part_summary.json").then((r) => r.json()),
-      fetch("data/geocache.json").then((r) => r.json()).catch(() => ({})),
+      fetch("data/road_index.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("data/part_summary.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("data/geocache.json", { cache: "no-store" }).then((r) => r.json()).catch(() => ({})),
     ]);
     state.roadIndex = roadIndex;
     state.partSummary = partSummary;
@@ -345,6 +345,54 @@
     });
   }
 
+  // ---------- Feedback form ----------
+
+  const FEEDBACK_ENDPOINT = "https://formsubmit.co/ajax/rohit@trellisys.net";
+
+  function setupFeedbackForm() {
+    const form = el("feedback-form");
+    const status = el("feedback-status");
+    const submitBtn = el("feedback-submit");
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const name = el("feedback-name").value.trim();
+      const email = el("feedback-email").value.trim();
+      const message = el("feedback-message").value.trim();
+      if (!message) return;
+
+      submitBtn.disabled = true;
+      status.textContent = "Sending…";
+      status.className = "small-note";
+
+      try {
+        const resp = await fetch(FEEDBACK_ENDPOINT, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", Accept: "application/json" },
+          body: JSON.stringify({
+            name: name || "(not provided)",
+            email: email || "(not provided)",
+            message,
+            _subject: "Jayamahal Electoral Roll Finder — feedback",
+            page: location.href,
+          }),
+        });
+        if (!resp.ok) throw new Error("Request failed");
+        status.textContent = "Thanks — your feedback was sent!";
+        status.className = "small-note success";
+        form.reset();
+      } catch (err) {
+        console.error(err);
+        status.innerHTML = `Couldn't send that automatically. Please <a href="mailto:rohit@trellisys.net?subject=${encodeURIComponent(
+          "Jayamahal Electoral Roll Finder — feedback"
+        )}&body=${encodeURIComponent(message)}" class="subtle-link">email it instead</a>.`;
+        status.className = "small-note error";
+      } finally {
+        submitBtn.disabled = false;
+      }
+    });
+  }
+
   // ---------- Init ----------
 
   async function init() {
@@ -352,6 +400,7 @@
     setupSearch();
     setupPartLookup();
     setupLightbox();
+    setupFeedbackForm();
     try {
       await loadData();
     } catch (err) {

@@ -82,6 +82,24 @@
 
 </main>
 
+<section class="wrap">
+  <div class="card feedback-card">
+    <h3>Found a mistake, or have a suggestion?</h3>
+    <p class="detail-line">This index was built from OCR and manual verification, so errors are expected — e.g. a road pinned in the wrong part of the city, a missing road, or a wrong part number. Let us know and we'll fix it.</p>
+    <form id="feedback-form">
+      <div class="feedback-row">
+        <input type="text" id="feedback-name" name="name" placeholder="Your name (optional)" autocomplete="name" />
+        <input type="email" id="feedback-email" name="email" placeholder="Your email (optional, if you'd like a reply)" autocomplete="email" />
+      </div>
+      <textarea id="feedback-message" name="message" rows="4" placeholder="e.g. &quot;Rogers Road pin is in the wrong place&quot; or &quot;Part 45 should also include XYZ Street&quot;" required></textarea>
+      <div class="feedback-row feedback-submit-row">
+        <button type="submit" id="feedback-submit" class="btn-cta">Send feedback</button>
+        <span id="feedback-status" class="small-note" role="status" aria-live="polite"></span>
+      </div>
+    </form>
+  </div>
+</section>
+
 <footer class="site-footer wrap">
   <p>Data: OCR + manual verification of the 2002 electoral roll for AC 087 (Jayamahal). Source PDFs: <a href="https://ceo.karnataka.gov.in/uploads/BBMP/AC%2087/" target="_blank" rel="noopener">ceo.karnataka.gov.in</a>. Map tiles © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors.</p>
 </footer>
