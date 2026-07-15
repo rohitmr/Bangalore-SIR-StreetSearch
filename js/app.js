@@ -2,10 +2,11 @@
   "use strict";
 
   const state = {
-    roadIndex: [],
-    partSummary: [],
-    partByNumber: new Map(),
-    geocache: {},
+    constituencies: [],       // registry from data/constituencies.json, each gets .hasData after load attempts
+    constituencyById: new Map(),
+    roadIndex: [],             // merged across constituencies, each row tagged with constituencyId/constituencyName
+    partByKey: new Map(),      // key: `${constituencyId}#${partNumber}`
+    geocache: {},               // geocache[constituencyId][road] = {lat, lon, ...}
     fuse: null,
     map: null,
     mapInitialized: false,
@@ -21,30 +22,90 @@
     return "status-verified";
   }
 
-  function officialPdfUrl(partNumber) {
-    const code = "A087" + String(partNumber).padStart(4, "0");
-    return `https://ceo.karnataka.gov.in/uploads/BBMP/AC%2087/${code}.pdf`;
+  const PDF_MIRROR_BASE = "https://bbmp-sir-2002.s3.us-east-1.amazonaws.com";
+
+  function officialPdfUrl(partNumber, constituencyId) {
+    const code = constituencyId + String(partNumber).padStart(4, "0");
+    return `${PDF_MIRROR_BASE}/${constituencyId}-PDFs/${code}.pdf`;
   }
 
-  function localImageUrl(partNumber) {
-    const code = "A087" + String(partNumber).padStart(4, "0");
+  function localImageUrl(partNumber, constituencyId) {
+    const code = constituencyId + String(partNumber).padStart(4, "0");
     return `images/${code}.png`;
+  }
+
+  function parseRoadKey(key) {
+    const idx = key.indexOf("#");
+    return { constituencyId: key.slice(0, idx), road: key.slice(idx + 1) };
+  }
+
+  // ---------- Constituency selects ----------
+
+  function constituencyOptionsHtml(selectedId) {
+    return state.constituencies
+      .map((c) => {
+        const label = c.hasData ? `${c.name} (${c.id})` : `${c.name} (${c.id}) — coming soon`;
+        const selected = c.id === selectedId ? "selected" : "";
+        return `<option value="${c.id}" ${selected}>${label}</option>`;
+      })
+      .join("");
+  }
+
+  function defaultConstituencyId() {
+    const withData = state.constituencies.find((c) => c.hasData);
+    return (withData || state.constituencies[0]).id;
   }
 
   // ---------- Data loading ----------
 
-  async function loadData() {
-    const [roadIndex, partSummary, geocache] = await Promise.all([
-      fetch("data/road_index.json", { cache: "no-store" }).then((r) => r.json()),
-      fetch("data/part_summary.json", { cache: "no-store" }).then((r) => r.json()),
-      fetch("data/geocache.json", { cache: "no-store" }).then((r) => r.json()).catch(() => ({})),
-    ]);
-    state.roadIndex = roadIndex;
-    state.partSummary = partSummary;
-    state.geocache = geocache;
-    partSummary.forEach((p) => state.partByNumber.set(p.partNumber, p));
+  async function fetchJson(path) {
+    const resp = await fetch(path, { cache: "no-store" });
+    if (!resp.ok) throw new Error(`${path}: ${resp.status}`);
+    return resp.json();
+  }
 
-    state.fuse = new Fuse(roadIndex, {
+  async function loadConstituencyData(c) {
+    try {
+      const [roadIndex, partSummary] = await Promise.all([
+        fetchJson(`data/${c.id}/road_index.json`),
+        fetchJson(`data/${c.id}/part_summary.json`),
+      ]);
+      let geocache = {};
+      try {
+        geocache = await fetchJson(`data/${c.id}/geocache.json`);
+      } catch (e) {
+        geocache = {};
+      }
+      return { roadIndex, partSummary, geocache };
+    } catch (e) {
+      return null;
+    }
+  }
+
+  async function loadData() {
+    state.constituencies = await fetchJson("data/constituencies.json");
+    state.constituencies.forEach((c) => state.constituencyById.set(c.id, c));
+
+    const results = await Promise.all(state.constituencies.map(loadConstituencyData));
+
+    results.forEach((result, i) => {
+      const c = state.constituencies[i];
+      if (!result) {
+        c.hasData = false;
+        return;
+      }
+      c.hasData = true;
+      result.roadIndex.forEach((road) => {
+        state.roadIndex.push({ ...road, constituencyId: c.id, constituencyName: c.name });
+      });
+      result.partSummary.forEach((part) => {
+        const tagged = { ...part, constituencyId: c.id, constituencyName: c.name };
+        state.partByKey.set(`${c.id}#${part.partNumber}`, tagged);
+      });
+      state.geocache[c.id] = result.geocache;
+    });
+
+    state.fuse = new Fuse(state.roadIndex, {
       keys: [
         { name: "road", weight: 0.7 },
         { name: "numberedRoadDetails", weight: 0.3 },
@@ -53,6 +114,22 @@
       ignoreLocation: true,
       minMatchCharLength: 2,
     });
+
+    populateConstituencySelects();
+  }
+
+  function populateConstituencySelects() {
+    const defaultId = defaultConstituencyId();
+
+    const searchFilter = el("search-constituency-filter");
+    searchFilter.innerHTML = `<option value="">All constituencies</option>${constituencyOptionsHtml(null)}`;
+
+    const partSelect = el("part-constituency-select");
+    partSelect.innerHTML = constituencyOptionsHtml(defaultId);
+    updatePartInputRange(defaultId);
+
+    const browseSelect = el("browse-constituency-select");
+    browseSelect.innerHTML = constituencyOptionsHtml(defaultId);
   }
 
   // ---------- Tabs ----------
@@ -71,8 +148,8 @@
     if (tabName === "map") {
       initMapIfNeeded();
     }
-    if (tabName === "browse" && !el("browse-list").dataset.rendered) {
-      renderBrowseAll();
+    if (tabName === "browse" && state.constituencyById.size) {
+      renderBrowseAll(el("browse-constituency-select").value);
     }
     if (!opts.fromHashChange) {
       const url = tabName === "search" ? location.pathname + location.search : "#" + tabName;
@@ -99,19 +176,20 @@
   function partPillsHtml(road) {
     return road.parts
       .map((n) => {
-        const part = state.partByNumber.get(n);
-        const code = part ? part.partCode : "A087" + String(n).padStart(4, "0");
+        const part = state.partByKey.get(`${road.constituencyId}#${n}`);
+        const code = part ? part.partCode : road.constituencyId + String(n).padStart(4, "0");
         return `
         <div class="part-pill">
           <span class="num">Part ${n}</span>
-          <a class="thumb-btn" href="${localImageUrl(n)}" target="_blank" rel="noopener" data-preview="${localImageUrl(n)}">Preview</a>
-          <a href="${officialPdfUrl(n)}" target="_blank" rel="noopener">Official PDF ↗</a>
+          <a class="thumb-btn" href="${localImageUrl(n, road.constituencyId)}" target="_blank" rel="noopener" data-preview="${localImageUrl(n, road.constituencyId)}">Preview</a>
+          <a href="${officialPdfUrl(n, road.constituencyId)}" target="_blank" rel="noopener">Official PDF ↗</a>
         </div>`;
       })
       .join("");
   }
 
   function roadCardHtml(road) {
+    const constituencyBadge = `<span class="badge constituency">${road.constituencyName} (${road.constituencyId})</span>`;
     const confBadge =
       road.minConfidence != null
         ? `<span class="badge confidence">Confidence ${road.minConfidence}%</span>`
@@ -125,17 +203,21 @@
     const mapCheck = road.mapAreaCheck
       ? `<p class="detail-line">${road.mapAreaCheck}</p>`
       : "";
+    const clusterZone = road.clusterZone
+      ? `<p class="detail-line"><strong>Cluster zone:</strong> ${road.clusterZone}</p>`
+      : "";
     const links = `
       <div class="card-links">
         ${road.googleMapsSearch ? `<a href="${road.googleMapsSearch}" target="_blank" rel="noopener">Search on Google Maps ↗</a>` : ""}
         ${road.evidenceUrl ? `<a href="${road.evidenceUrl}" target="_blank" rel="noopener">Verification source ↗</a>` : ""}
       </div>`;
     return `
-      <div class="card" data-road="${encodeURIComponent(road.road)}">
+      <div class="card" data-road-key="${encodeURIComponent(road.constituencyId + "#" + road.road)}">
         <h3>${road.road}</h3>
-        <div class="badge-row">${statusBadge}${confBadge}</div>
+        <div class="badge-row">${constituencyBadge}${statusBadge}${confBadge}</div>
         ${numbered}
         ${mapCheck}
+        ${clusterZone}
         <div class="part-pill-row">${partPillsHtml(road)}</div>
         ${links}
       </div>`;
@@ -161,9 +243,9 @@
       .slice(0, 8)
       .map((r) => {
         const road = r.item;
-        return `<div class="suggestion-item" data-road="${encodeURIComponent(road.road)}">
+        return `<div class="suggestion-item" data-road-key="${encodeURIComponent(road.constituencyId + "#" + road.road)}">
           ${road.road}
-          <div class="parts-mini">Part${road.parts.length > 1 ? "s" : ""} ${road.parts.join(", ")}</div>
+          <div class="parts-mini">${road.constituencyName} (${road.constituencyId}) · Part${road.parts.length > 1 ? "s" : ""} ${road.parts.join(", ")}</div>
         </div>`;
       })
       .join("");
@@ -173,26 +255,40 @@
   function setupSearch() {
     const input = el("search-input");
     const box = el("search-suggestions");
+    const filterSelect = el("search-constituency-filter");
+    let lastQuery = "";
 
-    input.addEventListener("input", () => {
-      const q = input.value.trim();
+    const runSearch = () => {
+      const q = lastQuery;
       if (!q) {
         renderSuggestions([]);
         renderSearchResults([]);
         return;
       }
-      const results = state.fuse.search(q, { limit: 20 });
+      let results = state.fuse.search(q, { limit: 50 });
+      const filterValue = filterSelect.value;
+      if (filterValue) {
+        results = results.filter((r) => r.item.constituencyId === filterValue);
+      }
       renderSuggestions(results);
       renderSearchResults(results.map((r) => r.item));
+    };
+
+    input.addEventListener("input", () => {
+      lastQuery = input.value.trim();
+      runSearch();
     });
+
+    filterSelect.addEventListener("change", runSearch);
 
     box.addEventListener("click", (e) => {
       const item = e.target.closest(".suggestion-item");
       if (!item) return;
-      const roadName = decodeURIComponent(item.dataset.road);
+      const { constituencyId, road: roadName } = parseRoadKey(decodeURIComponent(item.dataset.roadKey));
       input.value = roadName;
+      lastQuery = roadName;
       renderSuggestions([]);
-      const road = state.roadIndex.find((r) => r.road === roadName);
+      const road = state.roadIndex.find((r) => r.constituencyId === constituencyId && r.road === roadName);
       renderSearchResults(road ? [road] : []);
     });
 
@@ -205,9 +301,12 @@
 
   // ---------- Part number lookup tab ----------
 
-  function partCardHtml(part) {
+  function partCardHtml(part, constituency) {
+    if (!constituency.hasData) {
+      return `<p class="no-results">Data for ${constituency.name} (${constituency.id}) isn't available yet — check back soon.</p>`;
+    }
     if (!part) {
-      return `<p class="no-results">No part with that number (valid range: 1–197).</p>`;
+      return `<p class="no-results">No part with that number (valid range: 1–${constituency.partCount}).</p>`;
     }
     const roadsList = part.roads
       ? part.roads.split("|").map((s) => s.trim()).join(", ")
@@ -217,36 +316,55 @@
         <h3>Part ${part.partNumber} <span class="detail-line" style="display:inline">(${part.partCode})</span></h3>
         <p class="detail-line"><strong>Roads / localities in this part:</strong> ${roadsList}</p>
         ${part.numberedRoadDetails ? `<p class="detail-line"><strong>Numbered roads:</strong> ${part.numberedRoadDetails}</p>` : ""}
+        ${part.clusterZone ? `<p class="detail-line"><strong>Cluster zone:</strong> ${part.clusterZone}</p>` : ""}
         <p class="detail-line">Accepted entries: ${part.acceptedEntries} · Historical-only: ${part.historicalOnlyEntries} · Needs review: ${part.needsReview}</p>
         <div class="part-pill-row">
           <div class="part-pill">
-            <a class="thumb-btn" href="${localImageUrl(part.partNumber)}" target="_blank" rel="noopener" data-preview="${localImageUrl(part.partNumber)}">Preview page</a>
+            <a class="thumb-btn" href="${localImageUrl(part.partNumber, constituency.id)}" target="_blank" rel="noopener" data-preview="${localImageUrl(part.partNumber, constituency.id)}">Preview page</a>
             <a href="${part.officialPdfUrl}" target="_blank" rel="noopener">Download official PDF ↗</a>
           </div>
         </div>
       </div>`;
   }
 
+  function updatePartInputRange(constituencyId) {
+    const c = state.constituencyById.get(constituencyId);
+    const input = el("part-input");
+    input.max = c.partCount;
+    input.placeholder = `Enter a part number (1–${c.partCount})`;
+  }
+
   function setupPartLookup() {
     const input = el("part-input");
     const btn = el("part-go");
+    const select = el("part-constituency-select");
     const run = () => {
+      const constituency = state.constituencyById.get(select.value);
       const n = parseInt(input.value, 10);
-      const part = state.partByNumber.get(n);
-      el("part-result").innerHTML = partCardHtml(part);
+      const part = constituency.hasData ? state.partByKey.get(`${constituency.id}#${n}`) : null;
+      el("part-result").innerHTML = partCardHtml(part, constituency);
     };
     btn.addEventListener("click", run);
     input.addEventListener("keydown", (e) => {
       if (e.key === "Enter") run();
     });
+    select.addEventListener("change", () => {
+      updatePartInputRange(select.value);
+      if (input.value) run();
+    });
   }
 
   // ---------- Browse all tab ----------
 
-  function renderBrowseAll() {
+  function renderBrowseAll(constituencyId) {
     const container = el("browse-list");
-    container.dataset.rendered = "1";
-    container.innerHTML = state.partSummary
+    const c = state.constituencyById.get(constituencyId);
+    if (!c.hasData) {
+      container.innerHTML = `<p class="no-results">Data for ${c.name} (${c.id}) isn't available yet — check back soon.</p>`;
+      return;
+    }
+    const parts = [...state.partByKey.values()].filter((p) => p.constituencyId === constituencyId);
+    container.innerHTML = parts
       .map((part) => {
         const roadsList = part.roads
           ? part.roads.split("|").map((s) => s.trim()).join(", ")
@@ -257,13 +375,18 @@
           <p class="roads-list">${roadsList}</p>
           <div class="part-pill-row">
             <div class="part-pill">
-              <a class="thumb-btn" href="${localImageUrl(part.partNumber)}" target="_blank" rel="noopener" data-preview="${localImageUrl(part.partNumber)}">Preview</a>
+              <a class="thumb-btn" href="${localImageUrl(part.partNumber, constituencyId)}" target="_blank" rel="noopener" data-preview="${localImageUrl(part.partNumber, constituencyId)}">Preview</a>
               <a href="${part.officialPdfUrl}" target="_blank" rel="noopener">PDF ↗</a>
             </div>
           </div>
         </div>`;
       })
       .join("");
+  }
+
+  function setupBrowseAll() {
+    const select = el("browse-constituency-select");
+    select.addEventListener("change", () => renderBrowseAll(select.value));
   }
 
   // ---------- Map tab ----------
@@ -275,7 +398,7 @@
     }
     state.mapInitialized = true;
 
-    const map = L.map("map").setView([12.9995, 77.5985], 14);
+    const map = L.map("map").setView([12.9716, 77.5946], 11);
     state.map = map;
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 19,
@@ -286,7 +409,7 @@
     let unresolved = 0;
 
     state.roadIndex.forEach((road) => {
-      const g = state.geocache[road.road];
+      const g = state.geocache[road.constituencyId]?.[road.road];
       if (!g) return;
       if (!g.resolved) {
         unresolved++;
@@ -296,10 +419,10 @@
       const partsHtml = road.parts
         .map(
           (n) =>
-            `Part ${n} — <a href="${officialPdfUrl(n)}" target="_blank" rel="noopener">PDF</a>`
+            `Part ${n} — <a href="${officialPdfUrl(n, road.constituencyId)}" target="_blank" rel="noopener">PDF</a>`
         )
         .join("<br>");
-      marker.bindPopup(`<strong>${road.road}</strong><br>${partsHtml}`);
+      marker.bindPopup(`<strong>${road.road}</strong> <span class="badge constituency">${road.constituencyName}</span><br>${partsHtml}`);
       bounds.push([g.lat, g.lon]);
     });
 
@@ -373,7 +496,7 @@
             name: name || "(not provided)",
             email: email || "(not provided)",
             message,
-            _subject: "Jayamahal Electoral Roll Finder — feedback",
+            _subject: "BBMP SIR 2002 Electoral Roll Finder — feedback",
             page: location.href,
           }),
         });
@@ -384,7 +507,7 @@
       } catch (err) {
         console.error(err);
         status.innerHTML = `Couldn't send that automatically. Please <a href="mailto:rohit@trellisys.net?subject=${encodeURIComponent(
-          "Jayamahal Electoral Roll Finder — feedback"
+          "BBMP SIR 2002 Electoral Roll Finder — feedback"
         )}&body=${encodeURIComponent(message)}" class="subtle-link">email it instead</a>.`;
         status.className = "small-note error";
       } finally {
@@ -399,6 +522,7 @@
     setupTabs();
     setupSearch();
     setupPartLookup();
+    setupBrowseAll();
     setupLightbox();
     setupFeedbackForm();
     try {

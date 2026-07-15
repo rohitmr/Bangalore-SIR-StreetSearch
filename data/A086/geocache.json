@@ -1,0 +1,2426 @@
+{
+  "100 Feet Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "A No. 1st Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Abdul Hafeez Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Aga Abbas Ali Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Ananthan Nair Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Annaiah Reddy Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Annaswamy Mudaliar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Appajappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Appanna Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Armstrong Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Arunachalam Mudaliar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Ashoka Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "B No. Streets": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Bachammal Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Balaji Koil Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Balaji Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Banaswadi Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Banaswadi Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Banaswadi Road Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Baweecherry Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Baweecherry Street Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "BDA Colony": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "BDA Flats": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "BDA Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Bettayappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Bharathinagar A Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Bharathinagar B Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Bharathinagar C Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Bharathinagar D Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Bharathinagar E Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Bhaskar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Binnamangala 1st Stage": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Binnamangala 2nd Stage": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Binnamangala Hutting Colony": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Binnamangala Village": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Bradshaw Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Buddha Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Buddha Vihar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Burial Ground": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Canara Block Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Carlston Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Casirona Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Cement Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Channappa Lane": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Chikkadarappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Chinnappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Clarkspet A Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Clarkspet B Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Clarkspet C Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "CMH Hospital": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "CMH Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Cooks Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Corporation Colony": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Corporation Gangmen Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Corporation Hospital Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Corporation Lane": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Corporation School Compound": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "D No. 1st Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "D No. 4th Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "D No. 6th Street Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "D No. Streets": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "D'Costa Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "D'Costa Square": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Damodar Mudaliar Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Dasappa Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Davis Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Devaraja Mudaliar Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Dhanraj Heera Chand Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Dhanraj Kothari Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Dhobi Ghat": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Dhobi Ghat Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Dodda Kunte": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Dodda Kunte Extension": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Dorai Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Double Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Driver Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Dwaraka Apartments": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "E No. 1st Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "E No. Streets": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Engappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "ESI Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Fruit Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "G. Muniyappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Ganesh Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Gangadhara Chetty Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Gangmen Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Gondal Maharaj Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Gover Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Gover Road Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Govindappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Gowli Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Gujaraj Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Gurumurthy Lane": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Haines Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "HAL 2nd Stage": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Hanumaiah Reddy Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Harijan Seva Sangha": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Heera Chand Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Hennur Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "High Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "High Street Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Home Guard Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Hutchins Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Huts": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Indiranagar": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Indiranagar 1st Stage": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Indiranagar 2nd Stage": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "ITC Colony": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "ITC Main Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jagannath Chetty Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jayabharathi Nagar": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jayaraj Nagar": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Jayaraj Nagar A Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jayaraj Nagar B Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jayaraj Nagar C Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jayaraj Nagar D Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jayaraj Nagar E Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jayaraj Nagar F Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jayaraj Nagar G Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jayaraj Nagar H Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Jeevanahalli": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "K No. 3rd Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "K No. 4th Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "K No. 5th Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "K. Kamaraj Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Kadiranapalya": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kalappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kaliyamma Koil Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Kallahalli": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kamaraj Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Kandaswamy Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "KEB Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kempanna Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kempanna Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kensington Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "KHB Binnamangala 2nd Stage": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "KHB Buildings": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "KHB Colony": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Klein Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kodandarama Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kodandarampalya": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kolar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Kondappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kondappa Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Krishnappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Krishnappa Lane": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Kulume Siddanna Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Lakshmipuram": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Lal Bahadur Shastri Nagar": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Lazar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Lazar Road Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Lewis Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "M. Lakshmaiah Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "M.G. Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "M.M. Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Mackan Compound": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Mackan Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Macpherson Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Madhava Mudaliar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Madhava Mudaliar Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Mamundi Pillai Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Manavarthi Kaval": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Marwadi Bazaar Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Masjid Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Meanee Avenue Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Memorial Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Miller Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Mounaguru Mutt Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "MSO Colony": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Muddamma Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Muddappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Muddappa Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Munigappa Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Munikalappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Muninarayanappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Muniramappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Munivenkatappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Muniyellappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Muniyellappa Thota": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Munshi Galli": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Murphy Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Murphy Town": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Murphy Town A Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Muthyalamma G Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Muthyalamma K Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Muthyalamma Streets": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Muthyalamma Temple Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "N No. 2nd Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "N No. 3rd Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "N No. 8th Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "N No. Streets": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Nala Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Nanjakondappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Nanjundappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Narayan Pillai Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Neelakanta Mudaliar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Nehrupuram": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "New Andhra Block": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "New Binnamangala": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "New Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "NGEF Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "O No. 4th Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "O No. 5th Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "O No. 6th Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "O.P.M. Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Old Car Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Old Madras Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Old Madras Road Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Old Market Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Osborne Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Osborne Road 1st Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Osborne Road Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "P No. 1st Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "P No. 2nd Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "P No. 3rd Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "P No. Streets": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "P.K. Colony": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Palani Mudaliar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Parashuram Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Pettigrew Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Phool Chand Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Police Lane A Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Police Lane B Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Police Lane C Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Police Lane D Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Police Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Poluramma Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Pottery Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Priyadarshini Apartments": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "PTC Colony": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Purushothaman Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Puttarangappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Q No. 1st Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Q No. 2nd Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Q No. 3rd Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Q No. 4th Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "R Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Raghavappa Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Ramachandra Mudaliar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Ramachandrappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Ramakrishna Mutt Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Ramakrishnappa Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Ramarijay Apartments": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Ramya Apartments Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Ramya Residency": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Rangamma Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "S No. Streets": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "S.S. Building": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Sadashiva Mudaliar Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Sangam Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Sangam Road Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Sanjeevappa Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Saraswathamma Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Satyanarayana Temple Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Satyanarayana Temple Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Scott Lane": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Shivan Chetty Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Someshwara Slum Area": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Sri Krishna Temple Compound": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Sri Rama Temple Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "St. John's Church Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "St. John's Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Subbaiah Reddy Block": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Subbaiah Reddy Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Subbaraju Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Sundar Mudaliar Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Sundaramurthy Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "T No. 1st Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Tamarai Kannan Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Tambuchetty Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "TB Hospital Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Telephone Exchange": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Temple Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Tennant Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Thayappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Thimmaiah Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Thimmaiah Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Thimmarayappa Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Tiruvenkata Swamy Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Tode Lane": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Ulsoor Bazaar Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Ulsoor New Street Cross": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Ulsoor Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Ulsoor Tank Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Ulsoor Village Survey Nos. 118-120": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Varadaraj Garden": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Veerapillai Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+  },
+  "Venkataram Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Venkataramanappa Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Visvesvaraya Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Vivekananda Nagar": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "W No. 1st Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "W No. 2nd Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Water Board Compound": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Water Board Quarters": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Webbs Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Wheeler Road": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Wheeler Road Layout": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Yellamma Koil C No. 1st Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Yellamma Koil C No. 2nd Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Yellamma Koil F No. 1st Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  },
+  "Yellamma Koil F No. 2nd Street": {
+    "lat": 12.987,
+    "lon": 77.626,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false,
+    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+  }
+}

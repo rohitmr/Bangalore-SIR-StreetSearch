@@ -1,0 +1,14 @@
+[
+  { "id": "A076", "acNumber": 76, "name": "Malleshwaram", "partCount": 196, "pdfFolder": "AC 76" },
+  { "id": "A077", "acNumber": 77, "name": "Rajaji Nagar", "partCount": 313, "pdfFolder": "AC 77" },
+  { "id": "A078", "acNumber": 78, "name": "Gandhi Nagar", "partCount": 115, "pdfFolder": "AC 78" },
+  { "id": "A079", "acNumber": 79, "name": "Chickpet", "partCount": 109, "pdfFolder": "AC 79" },
+  { "id": "A080", "acNumber": 80, "name": "Binnypet", "partCount": 352, "pdfFolder": "AC 80" },
+  { "id": "A081", "acNumber": 81, "name": "Chamrajpet", "partCount": 123, "pdfFolder": "AC 81" },
+  { "id": "A082", "acNumber": 82, "name": "Basavanagudi", "partCount": 196, "pdfFolder": "AC 82" },
+  { "id": "A083", "acNumber": 83, "name": "Jayanagar", "partCount": 294, "pdfFolder": "AC 83" },
+  { "id": "A084", "acNumber": 84, "name": "Shanti Nagar", "partCount": 182, "pdfFolder": "AC 84" },
+  { "id": "A085", "acNumber": 85, "name": "Shivajinagar", "partCount": 104, "pdfFolder": "AC 85" },
+  { "id": "A086", "acNumber": 86, "name": "Bharathinagar", "partCount": 134, "pdfFolder": "AC 86" },
+  { "id": "A087", "acNumber": 87, "name": "Jayamahal", "partCount": 197, "pdfFolder": "AC 87" }
+]

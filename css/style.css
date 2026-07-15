@@ -147,6 +147,26 @@ html, body {
   color: var(--ink);
 }
 
+.const-select {
+  flex: 0 0 auto;
+  font-size: 0.95rem;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--card);
+  color: var(--ink);
+  max-width: 220px;
+}
+
+.result-filter-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 4px 0 16px;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+}
+
 .btn {
   font-size: 1rem;
   padding: 12px 20px;
@@ -261,6 +281,7 @@ html, body {
 .badge.status-review, .badge.status-historical { background: var(--amber-soft); color: var(--amber); }
 .badge.status-excluded { background: var(--red-soft); color: var(--red); }
 .badge.confidence { background: var(--accent-soft); color: var(--accent); }
+.badge.constituency { background: var(--line); color: var(--ink); }
 
 .part-pill-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
 
@@ -436,5 +457,6 @@ html, body {
 @media (max-width: 600px) {
   .site-header h1 { font-size: 1.3rem; }
   .search-box { flex-direction: column; }
+  .search-box .const-select { max-width: none; width: 100%; }
   .feedback-row input { min-width: 0; width: 100%; }
 }

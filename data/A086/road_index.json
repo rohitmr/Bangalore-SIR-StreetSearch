@@ -1,0 +1,4980 @@
+[
+  {
+    "road": "100 Feet Road",
+    "parts": [
+      126,
+      128,
+      129
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "1st, 6th, 7th, 10th, 11th and 12th Cross Roads | 5th, 6th, 7th, 9th and 10th Cross Roads | Multiple numbered Main and Cross Roads; exact sequence retained in raw OCR",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=100%20Feet%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "A No. 1st Street",
+    "parts": [
+      84
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "B No. 1st, 3rd and 6th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=A%20No.%201st%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Abdul Hafeez Road",
+    "parts": [
+      28,
+      30
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One compound-road name is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Abdul%20Hafeez%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Aga Abbas Ali Road",
+    "parts": [
+      79
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Aga%20Abbas%20Ali%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Ananthan Nair Road",
+    "parts": [
+      108,
+      109,
+      110
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Murphy Town 2nd, 5th and 10th Crosses; Sadashiva Mudaliar Road 2nd to 4th Crosses | Sadashiva Mudaliar Road 1st, 2nd and 4th Crosses; Ananthan Nair Road 2nd, 5th and 7th Crosses | Sadashiva Mudaliar Road 7th and 8th Crosses; Murphy Town 9th Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ananthan%20Nair%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Annaiah Reddy Road",
+    "parts": [
+      102,
+      103
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 6th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Annaiah%20Reddy%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Annaswamy Mudaliar Road",
+    "parts": [
+      78,
+      82
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One first road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Annaswamy%20Mudaliar%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Appajappa Garden",
+    "parts": [
+      36
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Appajappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Appanna Garden",
+    "parts": [
+      37
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Appanna%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Armstrong Road",
+    "parts": [
+      71
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One Q-numbered cross is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Armstrong%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Arunachalam Mudaliar Road",
+    "parts": [
+      48,
+      63
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "S No. 4th, 5th, 6th and 7th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Arunachalam%20Mudaliar%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Ashoka Road",
+    "parts": [
+      7
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ashoka%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "B No. Streets",
+    "parts": [
+      84,
+      85
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "B No. 1st, 3rd and 6th Streets | B No. 4th and 5th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=B%20No.%20Streets%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Bachammal Road",
+    "parts": [
+      27
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bachammal%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Balaji Koil Street",
+    "parts": [
+      73
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Balaji%20Koil%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Balaji Layout",
+    "parts": [
+      6
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Hutchins Road 2nd and 3rd Crosses; Tennant Road Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Balaji%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Banaswadi Layout",
+    "parts": [
+      12
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "2nd and 4th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Banaswadi%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Banaswadi Road",
+    "parts": [
+      1,
+      12
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "2nd and 4th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Banaswadi%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Banaswadi Road Layout",
+    "parts": [
+      12
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "2nd and 4th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Banaswadi%20Road%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Baweecherry Street",
+    "parts": [
+      54
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Baweecherry%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Baweecherry Street Cross",
+    "parts": [
+      54
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Baweecherry%20Street%20Cross%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "BDA Colony",
+    "parts": [
+      17
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=BDA%20Colony%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "BDA Flats",
+    "parts": [
+      39
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=BDA%20Flats%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "BDA Quarters",
+    "parts": [
+      38,
+      40
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Locality OCR appears to reference Kallahalli; needs confirmation",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=BDA%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Bettayappa Garden",
+    "parts": [
+      17
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bettayappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Bharathinagar A Street",
+    "parts": [
+      62
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bharathinagar%20A%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Bharathinagar B Street",
+    "parts": [
+      61
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "E Street 3rd Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bharathinagar%20B%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Bharathinagar C Street",
+    "parts": [
+      61
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "E Street 3rd Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bharathinagar%20C%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Bharathinagar D Street",
+    "parts": [
+      61
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "E Street 3rd Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bharathinagar%20D%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Bharathinagar E Street",
+    "parts": [
+      59,
+      61
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "E Street 1st, 2nd and 3rd Cross Roads | E Street 3rd Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bharathinagar%20E%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Bhaskar Road",
+    "parts": [
+      112
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bhaskar%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Binnamangala 1st Stage",
+    "parts": [
+      125,
+      126,
+      127,
+      129,
+      131,
+      132
+    ],
+    "partCount": "6",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 3rd Main Roads | 5th, 6th, 7th, 9th and 10th Cross Roads | 9A Main Road | 9A and 10th Main Roads | Multiple numbered Main and Cross Roads; exact sequence retained in raw OCR",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Binnamangala%201st%20Stage%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Binnamangala 2nd Stage",
+    "parts": [
+      122,
+      124
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "13th, 14th, 17th, 17C, 17D and 17E Cross Roads; Blocks 1 and 2 | 17th, 17F and 17B Cross Roads; 6B Main Road; 4th to 7th Main Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Binnamangala%202nd%20Stage%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Binnamangala Hutting Colony",
+    "parts": [
+      132
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 3rd Main Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Binnamangala%20Hutting%20Colony%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Binnamangala Village",
+    "parts": [
+      131
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Binnamangala%20Village%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Bradshaw Street",
+    "parts": [
+      48
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Bradshaw%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Buddha Road",
+    "parts": [
+      9
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "4th and 5th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Buddha%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Buddha Vihar Road",
+    "parts": [
+      27
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Buddha%20Vihar%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Burial Ground",
+    "parts": [
+      69,
+      70
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "P No. 3rd Street 1st Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Burial%20Ground%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Canara Block Road",
+    "parts": [
+      130
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "2nd, 10th, 11th and 12th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Canara%20Block%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Carlston Road",
+    "parts": [
+      1
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Carlston%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Casirona Street",
+    "parts": [
+      57
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Casirona%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Cement Road",
+    "parts": [
+      112
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Cement%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Channappa Lane",
+    "parts": [
+      18
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "ITC Colony 1st to 5th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Channappa%20Lane%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Chikkadarappa Garden",
+    "parts": [
+      6
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Hutchins Road 2nd and 3rd Crosses; Tennant Road Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Chikkadarappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Chinnappa Garden",
+    "parts": [
+      19
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "ITC Main Road 6th and 7th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Chinnappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Clarkspet A Street",
+    "parts": [
+      71
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One Q-numbered cross is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Clarkspet%20A%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Clarkspet B Street",
+    "parts": [
+      71
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One Q-numbered cross is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Clarkspet%20B%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Clarkspet C Street",
+    "parts": [
+      71
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One Q-numbered cross is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Clarkspet%20C%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "CMH Hospital",
+    "parts": [
+      127
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "9A Main Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=CMH%20Hospital%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "CMH Road",
+    "parts": [
+      113,
+      114,
+      115,
+      121,
+      124,
+      125,
+      128
+    ],
+    "partCount": "7",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "17th, 17F and 17B Cross Roads; 6B Main Road; 4th to 7th Main Roads | 18A, 18B and 19th Cross Roads | 1st Main Road; 11th, 11A, 12th, 13th, 14th and 15th Cross Roads | 1st, 6th, 7th, 10th, 11th and 12th Cross Roads | 9A and 10th Main Roads | 9th, 10th and 11th Main Roads; 17C, 17D and 17E Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar | Lakshmipuram / LBS Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=CMH%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Cooks Road",
+    "parts": [
+      56
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One numbered street is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Cooks%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Corporation Colony",
+    "parts": [
+      41
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Corporation%20Colony%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Corporation Gangmen Quarters",
+    "parts": [
+      64
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "P No. 3rd Street 2nd Cross; P No. 2nd Street 3rd Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Corporation%20Gangmen%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Corporation Hospital Quarters",
+    "parts": [
+      53
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Corporation%20Hospital%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Corporation Lane",
+    "parts": [
+      35
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Corporation%20Lane%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Corporation School Compound",
+    "parts": [
+      109
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Sadashiva Mudaliar Road 7th and 8th Crosses; Murphy Town 9th Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Corporation%20School%20Compound%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "D No. 1st Street",
+    "parts": [
+      88
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=D%20No.%201st%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "D No. 4th Street",
+    "parts": [
+      90
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=D%20No.%204th%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "D No. 6th Street Cross",
+    "parts": [
+      90
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=D%20No.%206th%20Street%20Cross%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "D No. Streets",
+    "parts": [
+      91
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Old Car Street 1st to 4th Crosses; D No. 3rd and 4th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=D%20No.%20Streets%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "D'Costa Layout",
+    "parts": [
+      7
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=D%27Costa%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "D'Costa Square",
+    "parts": [
+      7
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=D%27Costa%20Square%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Damodar Mudaliar Street",
+    "parts": [
+      95
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Ramakrishna Mutt Road 1st and 2nd Crosses",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Damodar%20Mudaliar%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Dasappa Layout",
+    "parts": [
+      30
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One compound-road name is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dasappa%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Davis Road",
+    "parts": [
+      2,
+      3
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Hutchins Road 2nd Cross; Hutchins Road 3rd Cross; Hutchins Main Road up to Davis Road",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Davis%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Devaraja Mudaliar Street",
+    "parts": [
+      76
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Devaraja%20Mudaliar%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Dhanraj Heera Chand Layout",
+    "parts": [
+      31
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One garden name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dhanraj%20Heera%20Chand%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Dhanraj Kothari Road",
+    "parts": [
+      30
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One compound-road name is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dhanraj%20Kothari%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Dhobi Ghat",
+    "parts": [
+      78,
+      97
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "1st Main Road; 1st to 7th Cross Roads | One first road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dhobi%20Ghat%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Dhobi Ghat Road",
+    "parts": [
+      98
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "7th Main Road; 1st to 7th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dhobi%20Ghat%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Dodda Kunte",
+    "parts": [
+      29,
+      31,
+      32,
+      33
+    ],
+    "partCount": "4",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "House-number section; remaining OCR insufficient | One garden name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dodda%20Kunte%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Dodda Kunte Extension",
+    "parts": [
+      28
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dodda%20Kunte%20Extension%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Dorai Garden",
+    "parts": [
+      104
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One 6th Cross reference is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dorai%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Double Road",
+    "parts": [
+      122,
+      123,
+      125,
+      130
+    ],
+    "partCount": "4",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "13th, 14th, 17th, 17C, 17D and 17E Cross Roads; Blocks 1 and 2 | 13th, 15th and 16th Cross Roads; 3rd, 4th and 5th Main Roads | 2nd, 10th, 11th and 12th Cross Roads | 9A and 10th Main Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Double%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Driver Quarters",
+    "parts": [
+      50
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "A, B and C Blocks",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Driver%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Dwaraka Apartments",
+    "parts": [
+      128
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "1st, 6th, 7th, 10th, 11th and 12th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dwaraka%20Apartments%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "E No. 1st Street",
+    "parts": [
+      85
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "B No. 4th and 5th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=E%20No.%201st%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "E No. Streets",
+    "parts": [
+      89
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "E No. 1st to 4th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=E%20No.%20Streets%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Engappa Garden",
+    "parts": [
+      37
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Engappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "ESI Quarters",
+    "parts": [
+      107
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=ESI%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Fruit Street",
+    "parts": [
+      60,
+      68,
+      71
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One Q-numbered cross is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Fruit%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "G. Muniyappa Garden",
+    "parts": [
+      36
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=G.%20Muniyappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Ganesh Garden",
+    "parts": [
+      20
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ganesh%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Gangadhara Chetty Road",
+    "parts": [
+      79
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gangadhara%20Chetty%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Gangmen Quarters",
+    "parts": [
+      2,
+      50,
+      106,
+      108,
+      109,
+      110,
+      111
+    ],
+    "partCount": "7",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "A, B and C Blocks | Murphy Town 2nd, 5th and 10th Crosses; Sadashiva Mudaliar Road 2nd to 4th Crosses | One Jayaraj Nagar street identifier is unclear | Sadashiva Mudaliar Road 1st, 2nd and 4th Crosses; Ananthan Nair Road 2nd, 5th and 7th Crosses | Sadashiva Mudaliar Road 6th and 7th Crosses; Murphy Town 7th and 9th Crosses; one final fragment is illegible | Sadashiva Mudaliar Road 7th and 8th Crosses; Murphy Town 9th Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden | Murphy Town / Jayaraj Nagar | North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gangmen%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Gondal Maharaj Layout",
+    "parts": [
+      30
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One compound-road name is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gondal%20Maharaj%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Gover Road",
+    "parts": [
+      26
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gover%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Gover Road Cross",
+    "parts": [
+      26
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gover%20Road%20Cross%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Govindappa Garden",
+    "parts": [
+      31,
+      37
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One garden name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Govindappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Gowli Street",
+    "parts": [
+      84
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "B No. 1st, 3rd and 6th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gowli%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Gujaraj Garden",
+    "parts": [
+      35
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gujaraj%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Gurumurthy Lane",
+    "parts": [
+      91
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "Old Car Street 1st to 4th Crosses; D No. 3rd and 4th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gurumurthy%20Lane%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Haines Road",
+    "parts": [
+      48,
+      53,
+      62
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Haines%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "HAL 2nd Stage",
+    "parts": [
+      127
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "9A Main Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=HAL%202nd%20Stage%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Hanumaiah Reddy Road",
+    "parts": [
+      94
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Hanumaiah%20Reddy%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Harijan Seva Sangha",
+    "parts": [
+      118
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Lakshmipuram / LBS Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Harijan%20Seva%20Sangha%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Heera Chand Layout",
+    "parts": [
+      24
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One additional layout name is illegible",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Heera%20Chand%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Hennur Road",
+    "parts": [
+      3
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Hutchins Road 2nd Cross; Hutchins Road 3rd Cross; Hutchins Main Road up to Davis Road",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Hennur%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "High Street",
+    "parts": [
+      1
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=High%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "High Street Cross",
+    "parts": [
+      1
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=High%20Street%20Cross%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Home Guard Quarters",
+    "parts": [
+      82
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Home%20Guard%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Hutchins Road",
+    "parts": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "partCount": "5",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "3rd Cross; 4th Cross; 5th C Cross; 6th Cross; 6th B Cross; Main Road | 4th Cross; 5th Cross; 5th B/C; 6th Cross; 6th B; Main Road | Hutchins Road 2nd Cross; Hutchins Road 3rd Cross; Hutchins Main Road up to Davis Road | Hutchins Road 2nd and 3rd Crosses; Tennant Road Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Hutchins%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Huts",
+    "parts": [
+      101
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "5th, 6th and 7th Main Roads; numbered Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Huts%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Indiranagar",
+    "parts": [
+      127,
+      131,
+      132
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "1st to 3rd Main Roads | 9A Main Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Indiranagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Indiranagar 1st Stage",
+    "parts": [
+      128,
+      129,
+      130
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "1st, 6th, 7th, 10th, 11th and 12th Cross Roads | 2nd, 10th, 11th and 12th Cross Roads | 5th, 6th, 7th, 9th and 10th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Indiranagar%201st%20Stage%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Indiranagar 2nd Stage",
+    "parts": [
+      121,
+      123
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "13th, 15th and 16th Cross Roads; 3rd, 4th and 5th Main Roads | 9th, 10th and 11th Main Roads; 17C, 17D and 17E Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Indiranagar%202nd%20Stage%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "ITC Colony",
+    "parts": [
+      18
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "ITC Colony 1st to 5th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=ITC%20Colony%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "ITC Main Road",
+    "parts": [
+      19
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "ITC Main Road 6th and 7th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=ITC%20Main%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jagannath Chetty Layout",
+    "parts": [
+      34
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jagannath%20Chetty%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jayabharathi Nagar",
+    "parts": [
+      8,
+      9,
+      10,
+      13,
+      14
+    ],
+    "partCount": "5",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "2nd Main Road; 3rd Cross Road | 4th and 5th Cross Roads | 7th B Cross Road | 7th Cross and 7th B Cross | Jayabharathi Nagar 16th Cross; Vivekananda Nagar 3rd and 4th Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayabharathi%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jayaraj Nagar",
+    "parts": [
+      106
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One Jayaraj Nagar street identifier is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayaraj%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Jayaraj Nagar A Cross",
+    "parts": [
+      107
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayaraj%20Nagar%20A%20Cross%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jayaraj Nagar B Cross",
+    "parts": [
+      107
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayaraj%20Nagar%20B%20Cross%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jayaraj Nagar C Cross",
+    "parts": [
+      107
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayaraj%20Nagar%20C%20Cross%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jayaraj Nagar D Cross",
+    "parts": [
+      107
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayaraj%20Nagar%20D%20Cross%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jayaraj Nagar E Street",
+    "parts": [
+      105
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayaraj%20Nagar%20E%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jayaraj Nagar F Street",
+    "parts": [
+      105
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayaraj%20Nagar%20F%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jayaraj Nagar G Street",
+    "parts": [
+      105
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayaraj%20Nagar%20G%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jayaraj Nagar H Street",
+    "parts": [
+      106
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One Jayaraj Nagar street identifier is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jayaraj%20Nagar%20H%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Jeevanahalli",
+    "parts": [
+      16,
+      18,
+      19,
+      21,
+      25
+    ],
+    "partCount": "5",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "House-number section 1-29 | ITC Colony 1st to 5th Cross Roads | ITC Main Road 6th and 7th Cross Roads | Jeevanahalli 4th and 7th Cross Roads | PTC Colony Main Road and 1st to 5th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jeevanahalli%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "K No. 3rd Street",
+    "parts": [
+      66
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=K%20No.%203rd%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "K No. 4th Street",
+    "parts": [
+      66
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=K%20No.%204th%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "K No. 5th Street",
+    "parts": [
+      53
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=K%20No.%205th%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "K. Kamaraj Road",
+    "parts": [
+      60,
+      71,
+      72,
+      75
+    ],
+    "partCount": "4",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "N No. 5th, 7th, 9th and 10th Streets | One Q-numbered cross is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=K.%20Kamaraj%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Kadiranapalya",
+    "parts": [
+      43,
+      44
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Source name clear; current spelling/geocode needs confirmation",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kadiranapalya%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kalappa Garden",
+    "parts": [
+      37
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kalappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kaliyamma Koil Street",
+    "parts": [
+      85
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "B No. 4th and 5th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kaliyamma%20Koil%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Kallahalli",
+    "parts": [
+      39
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kallahalli%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kamaraj Road",
+    "parts": [
+      57
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kamaraj%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Kandaswamy Garden",
+    "parts": [
+      17
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kandaswamy%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "KEB Quarters",
+    "parts": [
+      78
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One first road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=KEB%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kempanna Garden",
+    "parts": [
+      36
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kempanna%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kempanna Road",
+    "parts": [
+      10
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "7th B Cross Road",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kempanna%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kensington Road",
+    "parts": [
+      38,
+      40
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "Locality OCR appears to reference Kallahalli; needs confirmation",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kensington%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "KHB Binnamangala 2nd Stage",
+    "parts": [
+      123
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "13th, 15th and 16th Cross Roads; 3rd, 4th and 5th Main Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=KHB%20Binnamangala%202nd%20Stage%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "KHB Buildings",
+    "parts": [
+      122
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "13th, 14th, 17th, 17C, 17D and 17E Cross Roads; Blocks 1 and 2",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=KHB%20Buildings%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "KHB Colony",
+    "parts": [
+      121
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "9th, 10th and 11th Main Roads; 17C, 17D and 17E Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=KHB%20Colony%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Klein Street",
+    "parts": [
+      2
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Klein%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kodandarama Garden",
+    "parts": [
+      22
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "1st Stage; Main Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kodandarama%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kodandarampalya",
+    "parts": [
+      19
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "ITC Main Road 6th and 7th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kodandarampalya%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kolar Road",
+    "parts": [
+      45,
+      112,
+      133
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "Quarters designation is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden | Binnamangala / Indiranagar | Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kolar%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Kondappa Garden",
+    "parts": [
+      36
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kondappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kondappa Road",
+    "parts": [
+      20
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kondappa%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Krishnappa Garden",
+    "parts": [
+      21
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Jeevanahalli 4th and 7th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Krishnappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Krishnappa Lane",
+    "parts": [
+      17
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Krishnappa%20Lane%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Kulume Siddanna Garden",
+    "parts": [
+      112
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kulume%20Siddanna%20Garden%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Lakshmipuram",
+    "parts": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "partCount": "7",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "16th, 17th and 18th Cross Roads | 18A, 18B and 19th Cross Roads | 1st Main Road; 11th, 11A, 12th, 13th, 14th and 15th Cross Roads | 1st Main Road; 1st to 9th Cross Roads; southern side | Lakshmipuram 10th Cross; Parashuram Garden 1st to 3rd Crosses",
+    "mapAreaCheck": null,
+    "clusterZone": "Lakshmipuram / LBS Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Lakshmipuram%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Lal Bahadur Shastri Nagar",
+    "parts": [
+      120
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 7th numbered roads; Main/Cross wording requires source recheck",
+    "mapAreaCheck": null,
+    "clusterZone": "Lakshmipuram / LBS Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Lal%20Bahadur%20Shastri%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Lazar Road",
+    "parts": [
+      1,
+      2
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Lazar%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Lazar Road Cross",
+    "parts": [
+      2
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Lazar%20Road%20Cross%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Lewis Road",
+    "parts": [
+      1
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Lewis%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "M. Lakshmaiah Road",
+    "parts": [
+      95
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "Ramakrishna Mutt Road 1st and 2nd Crosses",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=M.%20Lakshmaiah%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "M.G. Road",
+    "parts": [
+      78
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One first road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=M.G.%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "M.M. Road",
+    "parts": [
+      28
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=M.M.%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Mackan Compound",
+    "parts": [
+      69,
+      70
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "P No. 3rd Street 1st Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mackan%20Compound%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Mackan Road",
+    "parts": [
+      46,
+      58,
+      66,
+      70
+    ],
+    "partCount": "4",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mackan%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Macpherson Road",
+    "parts": [
+      1
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Macpherson%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Madhava Mudaliar Road",
+    "parts": [
+      26
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Madhava%20Mudaliar%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Madhava Mudaliar Street",
+    "parts": [
+      87
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Madhava%20Mudaliar%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Mamundi Pillai Street",
+    "parts": [
+      77
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mamundi%20Pillai%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Manavarthi Kaval",
+    "parts": [
+      131
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Manavarthi%20Kaval%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Marwadi Bazaar Street",
+    "parts": [
+      68
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Marwadi%20Bazaar%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Masjid Street",
+    "parts": [
+      89
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "E No. 1st to 4th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Masjid%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Meanee Avenue Road",
+    "parts": [
+      83
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Meanee%20Avenue%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Memorial Street",
+    "parts": [
+      59
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "E Street 1st, 2nd and 3rd Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Memorial%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Miller Street",
+    "parts": [
+      1
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Miller%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Mounaguru Mutt Road",
+    "parts": [
+      34
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mounaguru%20Mutt%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "MSO Colony",
+    "parts": [
+      12
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "2nd and 4th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=MSO%20Colony%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Muddamma Garden",
+    "parts": [
+      36
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muddamma%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Muddappa Garden",
+    "parts": [
+      17
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muddappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Muddappa Road",
+    "parts": [
+      10
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "7th B Cross Road",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muddappa%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Munigappa Layout",
+    "parts": [
+      11
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One preceding road name is illegible",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Munigappa%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Munikalappa Garden",
+    "parts": [
+      37
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Munikalappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Muninarayanappa Garden",
+    "parts": [
+      20
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muninarayanappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Muniramappa Garden",
+    "parts": [
+      37
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muniramappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Munivenkatappa Garden",
+    "parts": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "partCount": "5",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "11th Cross Road; 8th Main Road | 1st Main Road; 1st to 7th Cross Roads | 3rd, 8th, 9th, 10th Cross Roads; 10th and 12th Main Roads | 5th, 6th and 7th Main Roads; numbered Cross Roads | 7th Main Road; 1st to 7th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Munivenkatappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Muniyellappa Garden",
+    "parts": [
+      37
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muniyellappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Muniyellappa Thota",
+    "parts": [
+      32
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One garden name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muniyellappa%20Thota%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Munshi Galli",
+    "parts": [
+      76
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Munshi%20Galli%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Murphy Road",
+    "parts": [
+      41,
+      42,
+      112
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya | Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Murphy%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Murphy Town",
+    "parts": [
+      108,
+      109,
+      110,
+      111
+    ],
+    "partCount": "4",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "Murphy Town 2nd, 5th and 10th Crosses; Sadashiva Mudaliar Road 2nd to 4th Crosses | Sadashiva Mudaliar Road 1st, 2nd and 4th Crosses; Ananthan Nair Road 2nd, 5th and 7th Crosses | Sadashiva Mudaliar Road 6th and 7th Crosses; Murphy Town 7th and 9th Crosses; one final fragment is illegible | Sadashiva Mudaliar Road 7th and 8th Crosses; Murphy Town 9th Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Murphy%20Town%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Murphy Town A Street",
+    "parts": [
+      104
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One 6th Cross reference is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Murphy%20Town%20A%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Muthyalamma G Street",
+    "parts": [
+      54
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muthyalamma%20G%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Muthyalamma K Street",
+    "parts": [
+      54
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muthyalamma%20K%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Muthyalamma Streets",
+    "parts": [
+      47
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "Muthyalamma A, B, C, E, F, H and K Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muthyalamma%20Streets%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Muthyalamma Temple Street",
+    "parts": [
+      100
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "11th Cross Road; 8th Main Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muthyalamma%20Temple%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "N No. 2nd Street",
+    "parts": [
+      75
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=N%20No.%202nd%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "N No. 3rd Street",
+    "parts": [
+      73
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=N%20No.%203rd%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "N No. 8th Street",
+    "parts": [
+      60
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=N%20No.%208th%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "N No. Streets",
+    "parts": [
+      72
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "N No. 5th, 7th, 9th and 10th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=N%20No.%20Streets%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Nala Road",
+    "parts": [
+      99,
+      112
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "3rd, 8th, 9th, 10th Cross Roads; 10th and 12th Main Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar | Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nala%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Nanjakondappa Garden",
+    "parts": [
+      35
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nanjakondappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Nanjundappa Garden",
+    "parts": [
+      20
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nanjundappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Narayan Pillai Street",
+    "parts": [
+      46,
+      63
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "S No. 4th, 5th, 6th and 7th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Narayan%20Pillai%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Neelakanta Mudaliar Road",
+    "parts": [
+      109
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Sadashiva Mudaliar Road 7th and 8th Crosses; Murphy Town 9th Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Neelakanta%20Mudaliar%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Nehrupuram",
+    "parts": [
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "partCount": "5",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "A, B and C Blocks | House-number section 181-265",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nehrupuram%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "New Andhra Block",
+    "parts": [
+      114
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "18A, 18B and 19th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Lakshmipuram / LBS Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=New%20Andhra%20Block%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "New Binnamangala",
+    "parts": [
+      133,
+      134
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "Final road/locality suffix is faint; no pin assigned",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=New%20Binnamangala%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "New Road",
+    "parts": [
+      21
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Jeevanahalli 4th and 7th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=New%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "NGEF Quarters",
+    "parts": [
+      125
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "9A and 10th Main Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=NGEF%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "O No. 4th Street",
+    "parts": [
+      73
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=O%20No.%204th%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "O No. 5th Street",
+    "parts": [
+      77
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=O%20No.%205th%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "O No. 6th Street",
+    "parts": [
+      60
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=O%20No.%206th%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "O.P.M. Road",
+    "parts": [
+      55
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One preceding road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=O.P.M.%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Old Car Street",
+    "parts": [
+      90,
+      91
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Old Car Street 1st to 4th Crosses; D No. 3rd and 4th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Old%20Car%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Old Madras Road",
+    "parts": [
+      85,
+      94,
+      112
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "B No. 4th and 5th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar | Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Old%20Madras%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Old Madras Road Cross",
+    "parts": [
+      112
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Old%20Madras%20Road%20Cross%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Old Market Road",
+    "parts": [
+      68
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Old%20Market%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Osborne Road",
+    "parts": [
+      83
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Osborne%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Osborne Road 1st Cross",
+    "parts": [
+      82
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Osborne%20Road%201st%20Cross%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Osborne Road Cross",
+    "parts": [
+      82
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Osborne%20Road%20Cross%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "P No. 1st Street",
+    "parts": [
+      73
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=P%20No.%201st%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "P No. 2nd Street",
+    "parts": [
+      77
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=P%20No.%202nd%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "P No. 3rd Street",
+    "parts": [
+      69
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "P No. 3rd Street 1st Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=P%20No.%203rd%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "P No. Streets",
+    "parts": [
+      64
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "P No. 3rd Street 2nd Cross; P No. 2nd Street 3rd Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=P%20No.%20Streets%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "P.K. Colony",
+    "parts": [
+      42
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=P.K.%20Colony%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Palani Mudaliar Road",
+    "parts": [
+      88
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Palani%20Mudaliar%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Parashuram Garden",
+    "parts": [
+      119
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "Lakshmipuram 10th Cross; Parashuram Garden 1st to 3rd Crosses",
+    "mapAreaCheck": null,
+    "clusterZone": "Lakshmipuram / LBS Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Parashuram%20Garden%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Pettigrew Street",
+    "parts": [
+      46,
+      57
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pettigrew%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Phool Chand Layout",
+    "parts": [
+      30
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One compound-road name is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Phool%20Chand%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Police Lane A Street",
+    "parts": [
+      65
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Two numbered-street names are unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Police%20Lane%20A%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Police Lane B Street",
+    "parts": [
+      64
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "P No. 3rd Street 2nd Cross; P No. 2nd Street 3rd Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Police%20Lane%20B%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Police Lane C Street",
+    "parts": [
+      64
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "P No. 3rd Street 2nd Cross; P No. 2nd Street 3rd Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Police%20Lane%20C%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Police Lane D Street",
+    "parts": [
+      64
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "P No. 3rd Street 2nd Cross; P No. 2nd Street 3rd Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Police%20Lane%20D%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Police Quarters",
+    "parts": [
+      27,
+      93
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya | Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Police%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Poluramma Layout",
+    "parts": [
+      34
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Poluramma%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Pottery Road",
+    "parts": [
+      1,
+      2
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pottery%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Priyadarshini Apartments",
+    "parts": [
+      123
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "13th, 15th and 16th Cross Roads; 3rd, 4th and 5th Main Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Priyadarshini%20Apartments%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "PTC Colony",
+    "parts": [
+      16
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "PTC Colony Main Road and 1st to 5th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=PTC%20Colony%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Purushothaman Road",
+    "parts": [
+      93
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Purushothaman%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Puttarangappa Garden",
+    "parts": [
+      36
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Puttarangappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Q No. 1st Street",
+    "parts": [
+      68
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Q%20No.%201st%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Q No. 2nd Street",
+    "parts": [
+      68
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Q%20No.%202nd%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Q No. 3rd Street",
+    "parts": [
+      46,
+      58,
+      62
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Q%20No.%203rd%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Q No. 4th Street",
+    "parts": [
+      67
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "1st to 4th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Q%20No.%204th%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Quarters",
+    "parts": [
+      45
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Quarters designation is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "R Quarters",
+    "parts": [
+      80
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "A to D Blocks",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=R%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Raghavappa Road",
+    "parts": [
+      10
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "7th B Cross Road",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Raghavappa%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Ramachandra Mudaliar Road",
+    "parts": [
+      109
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Sadashiva Mudaliar Road 7th and 8th Crosses; Murphy Town 9th Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramachandra%20Mudaliar%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Ramachandrappa Garden",
+    "parts": [
+      37
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramachandrappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Ramakrishna Mutt Road",
+    "parts": [
+      95,
+      96
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Ramakrishna Mutt Road 1st and 2nd Crosses",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramakrishna%20Mutt%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Ramakrishnappa Road",
+    "parts": [
+      28,
+      30
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One compound-road name is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramakrishnappa%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Ramarijay Apartments",
+    "parts": [
+      128
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "1st, 6th, 7th, 10th, 11th and 12th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramarijay%20Apartments%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Ramya Apartments Road",
+    "parts": [
+      130
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "2nd, 10th, 11th and 12th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramya%20Apartments%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Ramya Residency",
+    "parts": [
+      130
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "2nd, 10th, 11th and 12th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramya%20Residency%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Rangamma Garden",
+    "parts": [
+      35
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Rangamma%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "S No. Streets",
+    "parts": [
+      63
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "S No. 4th, 5th, 6th and 7th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=S%20No.%20Streets%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "S.S. Building",
+    "parts": [
+      50
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "A, B and C Blocks",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=S.S.%20Building%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Sadashiva Mudaliar Road",
+    "parts": [
+      94,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "partCount": "6",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "Murphy Town 2nd, 5th and 10th Crosses; Sadashiva Mudaliar Road 2nd to 4th Crosses | Sadashiva Mudaliar Road 1st, 2nd and 4th Crosses; Ananthan Nair Road 2nd, 5th and 7th Crosses | Sadashiva Mudaliar Road 6th and 7th Crosses; Murphy Town 7th and 9th Crosses; one final fragment is illegible | Sadashiva Mudaliar Road 7th and 8th Crosses; Murphy Town 9th Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar | Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sadashiva%20Mudaliar%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Sangam Road",
+    "parts": [
+      74
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One lettered-street cross is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sangam%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Sangam Road Cross",
+    "parts": [
+      74
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One lettered-street cross is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sangam%20Road%20Cross%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Sanjeevappa Layout",
+    "parts": [
+      12
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "2nd and 4th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sanjeevappa%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Saraswathamma Road",
+    "parts": [
+      10
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "7th B Cross Road",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Saraswathamma%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Satyanarayana Temple Road",
+    "parts": [
+      104
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One 6th Cross reference is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Satyanarayana%20Temple%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Satyanarayana Temple Street",
+    "parts": [
+      102,
+      103
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "1st to 6th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Satyanarayana%20Temple%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Scott Lane",
+    "parts": [
+      46,
+      58
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Scott%20Lane%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Shivan Chetty Garden",
+    "parts": [
+      73,
+      77
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Shivan%20Chetty%20Garden%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Someshwara Slum Area",
+    "parts": [
+      119
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Lakshmipuram 10th Cross; Parashuram Garden 1st to 3rd Crosses",
+    "mapAreaCheck": null,
+    "clusterZone": "Lakshmipuram / LBS Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Someshwara%20Slum%20Area%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Sri Krishna Temple Compound",
+    "parts": [
+      127
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "9A Main Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sri%20Krishna%20Temple%20Compound%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Sri Rama Temple Street",
+    "parts": [
+      21,
+      109
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Jeevanahalli 4th and 7th Cross Roads | Sadashiva Mudaliar Road 7th and 8th Crosses; Murphy Town 9th Road",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya | Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sri%20Rama%20Temple%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "St. John's Church Road",
+    "parts": [
+      46,
+      57
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=St.%20John%27s%20Church%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "St. John's Road",
+    "parts": [
+      75,
+      76,
+      78,
+      81
+    ],
+    "partCount": "4",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One first road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden | Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=St.%20John%27s%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Subbaiah Reddy Block",
+    "parts": [
+      94
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Subbaiah%20Reddy%20Block%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Subbaiah Reddy Road",
+    "parts": [
+      94
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Subbaiah%20Reddy%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Subbaraju Road",
+    "parts": [
+      11
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One preceding road name is illegible",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Subbaraju%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Sundar Mudaliar Street",
+    "parts": [
+      88
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sundar%20Mudaliar%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Sundaramurthy Road",
+    "parts": [
+      28
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sundaramurthy%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "T No. 1st Street",
+    "parts": [
+      56
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One numbered street is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=T%20No.%201st%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Tamarai Kannan Road",
+    "parts": [
+      112
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Tamarai%20Kannan%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Tambuchetty Road",
+    "parts": [
+      28
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Tambuchetty%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "TB Hospital Quarters",
+    "parts": [
+      133
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Binnamangala / Indiranagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=TB%20Hospital%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Telephone Exchange",
+    "parts": [
+      84
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "B No. 1st, 3rd and 6th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Telephone%20Exchange%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Temple Road",
+    "parts": [
+      21
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Jeevanahalli 4th and 7th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Temple%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Tennant Road",
+    "parts": [
+      6
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Hutchins Road 2nd and 3rd Crosses; Tennant Road Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Tennant%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Thayappa Garden",
+    "parts": [
+      104
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One 6th Cross reference is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Thayappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Thimmaiah Garden",
+    "parts": [
+      33,
+      34
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Thimmaiah%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Thimmaiah Road",
+    "parts": [
+      20,
+      48,
+      53,
+      54,
+      55,
+      62
+    ],
+    "partCount": "6",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One preceding road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden | Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Thimmaiah%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Thimmarayappa Garden",
+    "parts": [
+      34
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Thimmarayappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Tiruvenkata Swamy Garden",
+    "parts": [
+      34
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Tiruvenkata%20Swamy%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Tode Lane",
+    "parts": [
+      59
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "E Street 1st, 2nd and 3rd Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Tode%20Lane%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Ulsoor Bazaar Street",
+    "parts": [
+      89
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "E No. 1st to 4th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ulsoor%20Bazaar%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Ulsoor New Street Cross",
+    "parts": [
+      91
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "Old Car Street 1st to 4th Crosses; D No. 3rd and 4th Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ulsoor%20New%20Street%20Cross%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Ulsoor Road",
+    "parts": [
+      78,
+      84
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "B No. 1st, 3rd and 6th Streets | One first road name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ulsoor%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Ulsoor Tank Road",
+    "parts": [
+      86
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One street name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ulsoor%20Tank%20Road%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Ulsoor Village Survey Nos. 118-120",
+    "parts": [
+      104
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": "One 6th Cross reference is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ulsoor%20Village%20Survey%20Nos.%20118-120%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Varadaraj Garden",
+    "parts": [
+      104
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One 6th Cross reference is unclear",
+    "mapAreaCheck": null,
+    "clusterZone": "Murphy Town / Jayaraj Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Varadaraj%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Veerapillai Street",
+    "parts": [
+      75
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Veerapillai%20Street%2C%20Bengaluru",
+    "pinStatus": "Search link only — no coordinate stored"
+  },
+  {
+    "road": "Venkataram Layout",
+    "parts": [
+      11
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One preceding road name is illegible",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Venkataram%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Venkataramanappa Road",
+    "parts": [
+      10
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "7th B Cross Road",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Venkataramanappa%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Visvesvaraya Road",
+    "parts": [
+      9
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "4th and 5th Cross Roads",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Visvesvaraya%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Vivekananda Nagar",
+    "parts": [
+      14,
+      15
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "1st and 2nd Cross Roads | Jayabharathi Nagar 16th Cross; Vivekananda Nagar 3rd and 4th Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Vivekananda%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "W No. 1st Street",
+    "parts": [
+      54
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=W%20No.%201st%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "W No. 2nd Street",
+    "parts": [
+      47
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Muthyalamma A, B, C, E, F, H and K Streets",
+    "mapAreaCheck": null,
+    "clusterZone": "Bharathinagar / Nehrupuram / Shivan Chetty Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=W%20No.%202nd%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Water Board Compound",
+    "parts": [
+      8
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "2nd Main Road; 3rd Cross Road",
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Water%20Board%20Compound%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Water Board Quarters",
+    "parts": [
+      81
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Water%20Board%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Webbs Road",
+    "parts": [
+      27,
+      28
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Webbs%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Wheeler Road",
+    "parts": [
+      1,
+      6,
+      26,
+      28
+    ],
+    "partCount": "4",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "Hutchins Road 2nd and 3rd Crosses; Tennant Road Cross",
+    "mapAreaCheck": null,
+    "clusterZone": "Jeevanahalli / Dodda Kunte / Kadiranapalya | North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Wheeler%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Wheeler Road Layout",
+    "parts": [
+      7
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Wheeler%20Road%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Yellamma Koil C No. 1st Street",
+    "parts": [
+      87
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Yellamma%20Koil%20C%20No.%201st%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Yellamma Koil C No. 2nd Street",
+    "parts": [
+      87
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "92",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Yellamma%20Koil%20C%20No.%202nd%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Yellamma Koil F No. 1st Street",
+    "parts": [
+      86
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One street name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Yellamma%20Koil%20F%20No.%201st%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  },
+  {
+    "road": "Yellamma Koil F No. 2nd Street",
+    "parts": [
+      86
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "84",
+    "status": "Mixed / source-confirmed",
+    "numberedRoadDetails": "One street name is unresolved",
+    "mapAreaCheck": null,
+    "clusterZone": "Ulsoor / Murphy Road edge",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Yellamma%20Koil%20F%20No.%202nd%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed — search link only"
+  }
+]
