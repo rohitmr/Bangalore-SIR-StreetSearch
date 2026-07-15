@@ -64,7 +64,7 @@ html, body {
 .tagline {
   margin: 0 0 12px;
   color: var(--ink-soft);
-  max-width: 62ch;
+  max-width: 162ch;
 }
 
 .disclaimer {
@@ -74,7 +74,7 @@ html, body {
   border: 1px solid var(--line);
   border-radius: var(--radius);
   padding: 10px 14px;
-  max-width: 72ch;
+  max-width: 172ch;
 }
 
 .disclaimer a { color: var(--accent); }
