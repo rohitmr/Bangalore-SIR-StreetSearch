@@ -1,2426 +1,2231 @@
 {
   "100 Feet Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9751791,
+    "lon": 77.6410743,
+    "displayName": "100 Feet Road, Defence Colony, Indiranagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India",
+    "queryUsed": "100 Feet Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.0km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "A No. 1st Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Abdul Hafeez Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Aga Abbas Ali Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.977372,
+    "lon": 77.6176665,
+    "displayName": "Aga Abbas Ali Road, Yellappa Chetty Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "Aga Abbas Ali Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.8km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Ananthan Nair Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Annaiah Reddy Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9797385,
+    "lon": 77.624122,
+    "displayName": "Annaiah Reddy Road, Gupta Layout, Halasuru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Annaiah Reddy Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Annaswamy Mudaliar Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.981372,
+    "lon": 77.6156449,
+    "displayName": "Annaswamy Mudaliar Road, Sivanchetti Gardens, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "Annaswamy Mudaliar Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.1km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Appajappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Appanna Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Armstrong Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9871261,
+    "lon": 77.6115627,
+    "displayName": "Armstrong Road, Sivanchetti Gardens, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Armstrong Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.6km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Arunachalam Mudaliar Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ashoka Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0050006,
+    "lon": 77.621275,
+    "displayName": "Ashoka Road, D'Costa Square, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
+    "queryUsed": "Ashoka Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.5km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "B No. Streets": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Bachammal Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Balaji Koil Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Balaji Layout": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0014635,
+    "lon": 77.6236439,
+    "displayName": "Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Balaji Layout, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Banaswadi Layout": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 13.0185287,
+    "lon": 77.6549166,
+    "displayName": "India carZ, Banaswadi Main Road, Vijaya Bank Colony, HRBR Layout 1st Block, Banaswadi, Bengaluru North City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560043, India",
+    "queryUsed": "Banaswadi Layout, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"India carZ, Banaswadi Main Road, Vijaya Bank Colony, HRBR Layout 1st Block, Banaswadi, Bengaluru North City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560043, India\" but that's 3.7km from its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar) — rejected as a likely wrong-neighborhood match."
   },
   "Banaswadi Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0013063,
+    "lon": 77.6291842,
+    "displayName": "Banaswadi Road, N Thyagaraju Layout, Jeevanahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560033, India",
+    "queryUsed": "Banaswadi Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.4km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Banaswadi Road Layout": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9989045,
+    "lon": 77.6240611,
+    "displayName": "Reliable India Group, Banaswadi Road, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Banaswadi Road Layout, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.4km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Baweecherry Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Baweecherry Street Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "BDA Colony": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9599648,
+    "lon": 77.6503055,
+    "displayName": "State Bank of India, HAL Old Airport Road, NR Colony, Jeevan Bhima Nagar, Kodihalli, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "BDA Colony, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"State Bank of India, HAL Old Airport Road, NR Colony, Jeevan Bhima Nagar, Kodihalli, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560008, India\" but that's 4.7km from its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya) — rejected as a likely wrong-neighborhood match."
   },
   "BDA Flats": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9624754,
+    "lon": 77.6382985,
+    "displayName": "BDA Flats, Domlur, Domluru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "BDA Flats, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"BDA Flats, Domlur, Domluru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India\" but that's 4.0km from its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya) — rejected as a likely wrong-neighborhood match."
   },
   "BDA Quarters": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9875126,
+    "lon": 77.6236995,
+    "displayName": "Kalahalli BDA Quarters, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "BDA Quarters, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.5km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "Bettayappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Bharathinagar A Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Bharathinagar B Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Bharathinagar C Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Bharathinagar D Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Bharathinagar E Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Bhaskar Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9938236,
+    "lon": 77.6151719,
+    "displayName": "Bhaskar Raj and Brothers, Wheeler Road, Sindhi Colony, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Bhaskar Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.0km of its expected cluster zone (Murphy Town / Jayaraj Nagar)."
   },
   "Binnamangala 1st Stage": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Binnamangala 2nd Stage": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9839881,
+    "lon": 77.6416769,
+    "displayName": "Binnamangala, Indiranagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India",
+    "queryUsed": "Binnamangala 2nd Stage, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "Binnamangala Hutting Colony": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9820574,
+    "lon": 77.63933,
+    "displayName": "fcom india, No. 12, second floor, 8th Cross Road - Zain Burj, Binnamangala, Indiranagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India",
+    "queryUsed": "Binnamangala Hutting Colony, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.3km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "Binnamangala Village": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Bradshaw Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9929132,
+    "lon": 77.6085142,
+    "displayName": "Bradshaw Street, Bharathi Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Bradshaw Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.0km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Buddha Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9987632,
+    "lon": 77.6189427,
+    "displayName": "Buddha Vihar Road, Lazar Layout, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Buddha Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.8km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Buddha Vihar Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9987632,
+    "lon": 77.6189427,
+    "displayName": "Buddha Vihar Road, Lazar Layout, Frazer Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Buddha Vihar Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.4km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "Burial Ground": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9544078,
+    "lon": 77.6008779,
+    "displayName": "Hindu Burial Ground, Richmond Town, Shanthinagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Burial Ground, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"Hindu Burial Ground, Richmond Town, Shanthinagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India\" but that's 4.5km from its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden) — rejected as a likely wrong-neighborhood match."
   },
   "Canara Block Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9588744,
+    "lon": 77.6594639,
+    "displayName": "Canara Bank, 4th Main Road, Vinayaka Nagar A Block, Murugeshpalaya, Konena Agrahara, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560017, India",
+    "queryUsed": "Canara Block Road, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"Canara Bank, 4th Main Road, Vinayaka Nagar A Block, Murugeshpalaya, Konena Agrahara, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560017, India\" but that's 3.4km from its expected cluster zone (Binnamangala / Indiranagar) — rejected as a likely wrong-neighborhood match."
   },
   "Carlston Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.998606,
+    "lon": 77.6233436,
+    "displayName": "Carlston Classic, Carleston Road, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Carlston Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.4km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Casirona Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Cement Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9612459,
+    "lon": 77.612561,
+    "displayName": "Cement Line Playground, Mother Teresa Road, Austin Town BDA Layout, Austin Town, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560025, India",
+    "queryUsed": "Cement Road, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"Cement Line Playground, Mother Teresa Road, Austin Town BDA Layout, Austin Town, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560025, India\" but that's 2.7km from its expected cluster zone (Murphy Town / Jayaraj Nagar) — rejected as a likely wrong-neighborhood match."
   },
   "Channappa Lane": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Chikkadarappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Chinnappa Garden": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 13.0030365,
+    "lon": 77.6035146,
+    "displayName": "Chinnappa Garden, Channapa Garden Link Road, Jayamahal Extension, Jayamahal, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India",
+    "queryUsed": "Chinnappa Garden, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"Chinnappa Garden, Channapa Garden Link Road, Jayamahal Extension, Jayamahal, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560046, India\" but that's 3.2km from its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya) — rejected as a likely wrong-neighborhood match."
   },
   "Clarkspet A Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Clarkspet B Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Clarkspet C Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "CMH Hospital": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9775953,
+    "lon": 77.6467794,
+    "displayName": "CMH Hospital, 80 Feet Road, Indiranagar, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560075, India",
+    "queryUsed": "CMH Hospital, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.9km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "CMH Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9784378,
+    "lon": 77.6437558,
+    "displayName": "Chinmaya Mission Hospital Road, Subedar Garden, Thippasandra, Indiranagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India",
+    "queryUsed": "CMH Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.7km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "Cooks Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Corporation Colony": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9822565,
+    "lon": 77.6295796,
+    "displayName": "Corporation Colony, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Corporation Colony, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.8km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "Corporation Gangmen Quarters": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Corporation Hospital Quarters": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Corporation Lane": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Corporation School Compound": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "D No. 1st Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "D No. 4th Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "D No. 6th Street Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "D No. Streets": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "D'Costa Layout": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0015255,
+    "lon": 77.6254644,
+    "displayName": "Union Bank of India, DaCosta Layout 1st Cross, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
+    "queryUsed": "D'Costa Layout, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.1km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "D'Costa Square": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0040769,
+    "lon": 77.6236546,
+    "displayName": "D'Costa Square, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
+    "queryUsed": "D'Costa Square, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.3km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Damodar Mudaliar Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Dasappa Layout": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Davis Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0030229,
+    "lon": 77.6218058,
+    "displayName": "Davis Road, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
+    "queryUsed": "Davis Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.4km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Devaraja Mudaliar Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Dhanraj Heera Chand Layout": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Dhanraj Kothari Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Dhobi Ghat": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9690629,
+    "lon": 77.6123188,
+    "displayName": "Dhobi Ghat, Magrath Road, Corporation Quarters, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560025, India",
+    "queryUsed": "Dhobi Ghat, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.7km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Dhobi Ghat Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9690629,
+    "lon": 77.6123188,
+    "displayName": "Dhobi Ghat, Magrath Road, Corporation Quarters, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560025, India",
+    "queryUsed": "Dhobi Ghat Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.7km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Dodda Kunte": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Dodda Kunte Extension": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Dorai Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Double Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9815467,
+    "lon": 77.6376277,
+    "displayName": "Double Road Park, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Double Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.5km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "Driver Quarters": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Dwaraka Apartments": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9798185,
+    "lon": 77.6405342,
+    "displayName": "Dwaraka Apartments, 5th Main Road, Indiranagar 1st Stage, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India",
+    "queryUsed": "Dwaraka Apartments, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.5km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "E No. 1st Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "E No. Streets": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Engappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "ESI Quarters": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9724296,
+    "lon": 77.6364625,
+    "displayName": "ESI Quarters, Indiranagar, Jogpalya, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "ESI Quarters, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.3km of its expected cluster zone (Murphy Town / Jayaraj Nagar)."
   },
   "Fruit Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9785655,
+    "lon": 77.6276606,
+    "displayName": "Halasuru Fruit and Vegetable Market, Yellamma Koil Street, Hoysala Nagar, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Fruit Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.0km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "G. Muniyappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ganesh Garden": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.978438,
+    "lon": 77.6229537,
+    "displayName": "Sri Panchamukhi Ganesh Temple, Yellamma Koil Street, MV Garden, Halasuru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Ganesh Garden, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.4km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "Gangadhara Chetty Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9788052,
+    "lon": 77.618469,
+    "displayName": "Gangadhar Chetty Road, Yellappa Chetty Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "Gangadhara Chetty Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.7km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Gangmen Quarters": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Gondal Maharaj Layout": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Gover Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Gover Road Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Govindappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Gowli Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Gujaraj Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Gurumurthy Lane": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Haines Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 13.0011925,
+    "lon": 77.6120089,
+    "displayName": "Haines Road, Pottery Town, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Haines Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.2km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "HAL 2nd Stage": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9689409,
+    "lon": 77.6437106,
+    "displayName": "HAL 2nd Stage, Kodihalli, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "HAL 2nd Stage, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.7km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "Hanumaiah Reddy Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9778933,
+    "lon": 77.6267384,
+    "displayName": "Hanumaiah Reddy Road, Dodakattappa, Halasuru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Hanumaiah Reddy Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Harijan Seva Sangha": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Heera Chand Layout": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Hennur Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0079611,
+    "lon": 77.6224302,
+    "displayName": "Hennur Main Road Service Road, St. Thomas Town, Lingarajapuram, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
+    "queryUsed": "Hennur Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.7km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "High Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0005889,
+    "lon": 77.6240792,
+    "displayName": "High Street, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "High Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "High Street Cross": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.001535,
+    "lon": 77.6231415,
+    "displayName": "High Street Cross, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "High Street Cross, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Home Guard Quarters": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Hutchins Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0012694,
+    "lon": 77.6214282,
+    "displayName": "Hutchins Main Road, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Hutchins Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.4km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Huts": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Indiranagar": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9732913,
+    "lon": 77.6404672,
+    "displayName": "Indiranagar, Jogpalya, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Indiranagar, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.2km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "Indiranagar 1st Stage": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.979342,
+    "lon": 77.6391534,
+    "displayName": "Indiranagar 1st Stage, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India",
+    "queryUsed": "Indiranagar 1st Stage, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.6km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "Indiranagar 2nd Stage": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9770856,
+    "lon": 77.63869,
+    "displayName": "Indiranagar 2nd Stage, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Indiranagar 2nd Stage, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.8km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "ITC Colony": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9981729,
+    "lon": 77.6301239,
+    "displayName": "ITC Colony, Jeevanahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "ITC Colony, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "ITC Main Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jagannath Chetty Layout": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jayabharathi Nagar": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jayaraj Nagar": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9810639,
+    "lon": 77.6256751,
+    "displayName": "Jayaraj Nagar, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Jayaraj Nagar, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (Murphy Town / Jayaraj Nagar)."
   },
   "Jayaraj Nagar A Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jayaraj Nagar B Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jayaraj Nagar C Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jayaraj Nagar D Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jayaraj Nagar E Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jayaraj Nagar F Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jayaraj Nagar G Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jayaraj Nagar H Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Jeevanahalli": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9982025,
+    "lon": 77.6322309,
+    "displayName": "Jeevanahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Jeevanahalli, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "K No. 3rd Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "K No. 4th Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "K No. 5th Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9854082,
+    "lon": 77.6031206,
+    "displayName": "C No.5th Street, Vasanth Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India",
+    "queryUsed": "K No. 5th Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.5km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "K. Kamaraj Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9761783,
+    "lon": 77.6083098,
+    "displayName": "Kamaraj Road, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "K. Kamaraj Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.3km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Kadiranapalya": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kalappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kaliyamma Koil Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kallahalli": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kamaraj Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9751348,
+    "lon": 77.6079496,
+    "displayName": "Kamaraj Road, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Kamaraj Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.4km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Kandaswamy Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "KEB Quarters": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kempanna Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kempanna Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0032074,
+    "lon": 77.6340241,
+    "displayName": "Kempanna Road, Maruthi Seva Nagar, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560033, India",
+    "queryUsed": "Kempanna Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.0km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Kensington Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9846156,
+    "lon": 77.6223961,
+    "displayName": "Kensington Road, Kothandram Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "Kensington Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.8km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "KHB Binnamangala 2nd Stage": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "KHB Buildings": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "KHB Colony": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9929941,
+    "lon": 77.6250152,
+    "displayName": "KHB Colony, Cox Town, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "KHB Colony, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.1km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "Klein Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kodandarama Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kodandarampalya": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kolar Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kondappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kondappa Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Krishnappa Garden": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9774564,
+    "lon": 77.6593253,
+    "displayName": "Krishnappa Garden, New Thippasandra, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560093, India",
+    "queryUsed": "Krishnappa Garden, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"Krishnappa Garden, New Thippasandra, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560093, India\" but that's 3.7km from its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya) — rejected as a likely wrong-neighborhood match."
   },
   "Krishnappa Lane": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Kulume Siddanna Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Lakshmipuram": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9775466,
+    "lon": 77.6306777,
+    "displayName": "Lakshmipuram, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Lakshmipuram, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Lakshmipuram / LBS Nagar)."
   },
   "Lal Bahadur Shastri Nagar": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Lazar Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0145465,
+    "lon": 77.637324,
+    "displayName": "Lazar Road, KFSC Layout, Kammanahalli, HRBR Layout, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560043, India",
+    "queryUsed": "Lazar Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.9km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Lazar Road Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Lewis Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0000949,
+    "lon": 77.6236756,
+    "displayName": "Lewis Road, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Lewis Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.3km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "M. Lakshmaiah Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "M.G. Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9737707,
+    "lon": 77.6134753,
+    "displayName": "Mahatma Gandhi Road, Craig Park Layout, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560025, India",
+    "queryUsed": "M.G. Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.3km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "M.M. Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9743212,
+    "lon": 77.6150015,
+    "displayName": "SAGlobal India, Mahatma Gandhi Road, Hanumanthappa Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "M.M. Road, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"SAGlobal India, Mahatma Gandhi Road, Hanumanthappa Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India\" but that's 3.2km from its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya) — rejected as a likely wrong-neighborhood match."
   },
   "Mackan Compound": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Mackan Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.988774,
+    "lon": 77.610393,
+    "displayName": "Mackan Road, Bharathi Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Mackan Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.7km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Macpherson Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Madhava Mudaliar Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Madhava Mudaliar Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Mamundi Pillai Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Manavarthi Kaval": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Marwadi Bazaar Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Masjid Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9750172,
+    "lon": 77.6228951,
+    "displayName": "Jamia Masjid Street, Someshwarpura, Halasuru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Masjid Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.4km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Meanee Avenue Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9877922,
+    "lon": 77.6181631,
+    "displayName": "Saint John's Church Road, Kothandram Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "Meanee Avenue Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.3km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Memorial Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9904457,
+    "lon": 77.6121274,
+    "displayName": "Memorial Street, Bharathi Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Memorial Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.6km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Miller Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Mounaguru Mutt Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "MSO Colony": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9995526,
+    "lon": 77.628189,
+    "displayName": "MSO Colony, Jeevanahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "MSO Colony, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.4km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Muddamma Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Muddappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Muddappa Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0028838,
+    "lon": 77.6333564,
+    "displayName": "Muddappa Road, Maruthi Seva Nagar, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560033, India",
+    "queryUsed": "Muddappa Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.9km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Munigappa Layout": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Munikalappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Muninarayanappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Muniramappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Munivenkatappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Muniyellappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Muniyellappa Thota": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Munshi Galli": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Murphy Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9820421,
+    "lon": 77.6272192,
+    "displayName": "Murphy Road, Corporation Colony, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Murphy Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "Murphy Town": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9802093,
+    "lon": 77.6273767,
+    "displayName": "Hoysala Nagar, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Murphy Town, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Murphy Town / Jayaraj Nagar)."
   },
   "Murphy Town A Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Muthyalamma G Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Muthyalamma K Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Muthyalamma Streets": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Muthyalamma Temple Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9676257,
+    "lon": 77.6396498,
+    "displayName": "Muthyalamma Temple Street, Doopanahalli, Domlur, Domluru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Muthyalamma Temple Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.0km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "N No. 2nd Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "N No. 3rd Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "N No. 8th Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "N No. Streets": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Nala Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9838057,
+    "lon": 77.6125504,
+    "displayName": "Nala Road, Commercial Street Market, Shivajinagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "Nala Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.5km of its expected cluster zone (Murphy Town / Jayaraj Nagar)."
   },
   "Nanjakondappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Nanjundappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Narayan Pillai Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.98899,
+    "lon": 77.6098162,
+    "displayName": "Narayan Pillai Street, Bharathi Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Narayan Pillai Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.8km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Neelakanta Mudaliar Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Nehrupuram": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "New Andhra Block": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "New Binnamangala": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9824081,
+    "lon": 77.6378814,
+    "displayName": "The New Indian Assurance Co.LTD, 2nd Main Road, Binnamangala, Indiranagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India",
+    "queryUsed": "New Binnamangala, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.4km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "New Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9714143,
+    "lon": 77.6563575,
+    "displayName": "State Bank of India, Thippasandra Main Road, Puttappa Layout, New Thippasandra, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560075, India",
+    "queryUsed": "New Road, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"State Bank of India, Thippasandra Main Road, Puttappa Layout, New Thippasandra, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560075, India\" but that's 4.0km from its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya) — rejected as a likely wrong-neighborhood match."
   },
   "NGEF Quarters": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.991706,
+    "lon": 77.6490683,
+    "displayName": "Railway Quarters NGEF, Kasturi Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "NGEF Quarters, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.2km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "O No. 4th Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "O No. 5th Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "O No. 6th Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "O.P.M. Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Old Car Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Old Madras Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9726251,
+    "lon": 77.6200196,
+    "displayName": "Swamy Vivekananda Road, Agaram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560007, India",
+    "queryUsed": "Old Madras Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.8km of its expected cluster zone (Murphy Town / Jayaraj Nagar)."
   },
   "Old Madras Road Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Old Market Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Osborne Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Osborne Road 1st Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Osborne Road Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "P No. 1st Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "P No. 2nd Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "P No. 3rd Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "P No. Streets": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "P.K. Colony": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Palani Mudaliar Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Parashuram Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Pettigrew Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Phool Chand Layout": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Police Lane A Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Police Lane B Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Police Lane C Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Police Lane D Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Police Quarters": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9770696,
+    "lon": 77.6260546,
+    "displayName": "Police Quarters, Halasuru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Police Quarters, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "Poluramma Layout": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Pottery Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0016953,
+    "lon": 77.6180807,
+    "displayName": "Pottery Road, Sagayapura, Richards Town, Sagayapuram, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Pottery Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.8km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Priyadarshini Apartments": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9786609,
+    "lon": 77.6363347,
+    "displayName": "Priyadarshini Apartments, 13th Cross Road, Indiranagar 1st Stage, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India",
+    "queryUsed": "Priyadarshini Apartments, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.8km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "PTC Colony": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Purushothaman Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Puttarangappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Q No. 1st Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Q No. 2nd Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Q No. 3rd Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Q No. 4th Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Quarters": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9944555,
+    "lon": 77.6542777,
+    "displayName": "Karnataka High Court Staff Quarters, Baiyyappanahalli, Krishnaiahnapalya, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Quarters, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"Karnataka High Court Staff Quarters, Baiyyappanahalli, Krishnaiahnapalya, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, India\" but that's 3.2km from its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden) — rejected as a likely wrong-neighborhood match."
   },
   "R Quarters": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9837352,
+    "lon": 77.6157723,
+    "displayName": "RBI Quarters, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "R Quarters, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.2km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Raghavappa Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0025243,
+    "lon": 77.6317005,
+    "displayName": "Raghavappa Road, Maruthi Seva Nagar, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560033, India",
+    "queryUsed": "Raghavappa Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.7km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Ramachandra Mudaliar Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ramachandrappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ramakrishna Mutt Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ramakrishnappa Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0147599,
+    "lon": 77.6314385,
+    "displayName": "Ramakrishnappa Road, KFSC Layout, Kammanahalli, HRBR Layout, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
+    "queryUsed": "Ramakrishnappa Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.8km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "Ramarijay Apartments": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ramya Apartments Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ramya Residency": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.983125,
+    "lon": 77.6392184,
+    "displayName": "Ramya Residency, 1st Main Road, Binnamangala, Indiranagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India",
+    "queryUsed": "Ramya Residency, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.3km of its expected cluster zone (Binnamangala / Indiranagar)."
   },
   "Rangamma Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "S No. Streets": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "S.S. Building": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Sadashiva Mudaliar Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Sangam Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9832845,
+    "lon": 77.6119344,
+    "displayName": "Sangam Road, Commercial Street Market, Shivajinagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "Sangam Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.6km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Sangam Road Cross": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 13.0193181,
+    "lon": 77.6376977,
+    "displayName": "Sangam Mess, 4th Cross Road, Kalyan Nagar, Kalyanagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560043, India",
+    "queryUsed": "Sangam Road Cross, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "note": "Geocoded to \"Sangam Mess, 4th Cross Road, Kalyan Nagar, Kalyanagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560043, India\" but that's 3.8km from its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden) — rejected as a likely wrong-neighborhood match."
   },
   "Sanjeevappa Layout": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Saraswathamma Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Satyanarayana Temple Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Satyanarayana Temple Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9782577,
+    "lon": 77.6232863,
+    "displayName": "Satyanarayana Temple, Sathyanarayana Temple Street, MV Garden, Halasuru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Satyanarayana Temple Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Scott Lane": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Shivan Chetty Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Someshwara Slum Area": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Sri Krishna Temple Compound": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Sri Rama Temple Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.967808,
+    "lon": 77.6391532,
+    "displayName": "Sri Rama Temple Street, Doopanahalli, Domlur, Domluru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Sri Rama Temple Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.9km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "St. John's Church Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9908176,
+    "lon": 77.6135651,
+    "displayName": "Saint John's Church Road, Sindhi Colony, Cleveland Town, Pulakeshi Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "St. John's Church Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.4km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "St. John's Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9836431,
+    "lon": 77.6136597,
+    "displayName": "St. John's Road, Sivanchetti Gardens, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "St. John's Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.4km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Subbaiah Reddy Block": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Subbaiah Reddy Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9778354,
+    "lon": 77.6262357,
+    "displayName": "Subbaiah Reddy Road, Dodakattappa, Halasuru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Subbaiah Reddy Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.2km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Subbaraju Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9755409,
+    "lon": 77.6007492,
+    "displayName": "M L Subbaraju Road, Shanthala Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Subbaraju Road, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"M L Subbaraju Road, Shanthala Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India\" but that's 4.0km from its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar) — rejected as a likely wrong-neighborhood match."
   },
   "Sundar Mudaliar Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Sundaramurthy Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "T No. 1st Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Tamarai Kannan Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.9803891,
+    "lon": 77.6287264,
+    "displayName": "Thamarai Kannan Road, Corporation Colony, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India",
+    "queryUsed": "Tamarai Kannan Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.1km of its expected cluster zone (Murphy Town / Jayaraj Nagar)."
   },
   "Tambuchetty Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "TB Hospital Quarters": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9660689,
+    "lon": 77.6107302,
+    "displayName": "Philomena's Hospital Road, Xavier Layout, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560047, India",
+    "queryUsed": "TB Hospital Quarters, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"Philomena's Hospital Road, Xavier Layout, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560047, India\" but that's 3.9km from its expected cluster zone (Binnamangala / Indiranagar) — rejected as a likely wrong-neighborhood match."
   },
   "Telephone Exchange": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 13.0022856,
+    "lon": 77.6208998,
+    "displayName": "BSNL Telephone Exchange, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Telephone Exchange, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"BSNL Telephone Exchange, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India\" but that's 2.7km from its expected cluster zone (Ulsoor / Murphy Road edge) — rejected as a likely wrong-neighborhood match."
   },
   "Temple Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.994968,
+    "lon": 77.6548198,
+    "displayName": "Temple Road, Sadananda Nagar, Baiyyappanahalli, Krishnaiahnapalya, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560033, India",
+    "queryUsed": "Temple Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.5km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "Tennant Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Thayappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Thimmaiah Garden": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.9901871,
+    "lon": 77.6054757,
+    "displayName": "Thimmaiah Road, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India",
+    "queryUsed": "Thimmaiah Garden, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"Thimmaiah Road, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India\" but that's 3.0km from its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya) — rejected as a likely wrong-neighborhood match."
   },
   "Thimmaiah Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9901871,
+    "lon": 77.6054757,
+    "displayName": "Thimmaiah Road, S.K Garden, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India",
+    "queryUsed": "Thimmaiah Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 2.3km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Thimmarayappa Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Tiruvenkata Swamy Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Tode Lane": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ulsoor Bazaar Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ulsoor New Street Cross": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ulsoor Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9763044,
+    "lon": 77.614883,
+    "displayName": "Halasuru Road, Hanumanthappa Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "Ulsoor Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.1km of its expected cluster zone (Ulsoor / Murphy Road edge)."
   },
   "Ulsoor Tank Road": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Ulsoor Village Survey Nos. 118-120": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Varadaraj Garden": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Veerapillai Street": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Search link only — no coordinate stored\" — no confirmed pin asserted."
+    "lat": 12.9836815,
+    "lon": 77.6087627,
+    "displayName": "Veerapillai Street, Commercial Street Market, Shivajinagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "Veerapillai Street, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.9km of its expected cluster zone (Bharathinagar / Nehrupuram / Shivan Chetty Garden)."
   },
   "Venkataram Layout": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Venkataramanappa Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0025598,
+    "lon": 77.6320731,
+    "displayName": "Venkataramanappa Road, Maruthi Seva Nagar, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560033, India",
+    "queryUsed": "Venkataramanappa Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.7km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Visvesvaraya Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.999655,
+    "lon": 77.6411538,
+    "displayName": "Sir M Visvesvaraya Terminal, Baiyappanahalli Road, Kasturi Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560033, India",
+    "queryUsed": "Visvesvaraya Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.8km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Vivekananda Nagar": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0044245,
+    "lon": 77.6280454,
+    "displayName": "Vivekananda Nagar, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560033, India",
+    "queryUsed": "Vivekananda Nagar, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.4km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "W No. 1st Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "W No. 2nd Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Water Board Compound": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Water Board Quarters": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Webbs Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
+    "lat": 12.973747,
+    "lon": 77.613897,
+    "displayName": "Webbs Junction, Dickenson Road, Hanumanthappa Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India",
+    "queryUsed": "Webbs Road, Bengaluru, Karnataka, India",
     "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "note": "Geocoded to \"Webbs Junction, Dickenson Road, Hanumanthappa Layout, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560042, India\" but that's 3.4km from its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya) — rejected as a likely wrong-neighborhood match."
   },
   "Wheeler Road": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 12.996034,
+    "lon": 77.6172578,
+    "displayName": "Wheeler Road, Cox Town, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Wheeler Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.1km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
   },
   "Wheeler Road Layout": {
-    "lat": 12.987,
-    "lon": 77.626,
-    "displayName": null,
-    "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "lat": 13.0004021,
+    "lon": 77.6233737,
+    "displayName": "State Bank of India, Wheeler Road Extension, Balaji Layout, Cooke Town, Maruthi Seva Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560005, India",
+    "queryUsed": "Wheeler Road Layout, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.3km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
   },
   "Yellamma Koil C No. 1st Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Yellamma Koil C No. 2nd Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Yellamma Koil F No. 1st Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   },
   "Yellamma Koil F No. 2nd Street": {
     "lat": 12.987,
     "lon": 77.626,
     "displayName": null,
     "queryUsed": null,
-    "resolved": false,
-    "note": "Verification pass marked this as \"Suppressed — search link only\" — no confirmed pin asserted."
+    "resolved": false
   }
 }
