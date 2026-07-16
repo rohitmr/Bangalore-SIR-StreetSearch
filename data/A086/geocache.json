@@ -1102,9 +1102,9 @@
     "resolved": false
   },
   "Lazar Road": {
-    "lat": 13.0145465,
-    "lon": 77.637324,
-    "displayName": "Lazar Road, KFSC Layout, Kammanahalli, HRBR Layout, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560043, India",
+    "lat": 13.002129, 
+    "lon": 77.620658,
+    "displayName": "Lazar Road,  Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560043, India",
     "queryUsed": "Lazar Road, Bengaluru, Karnataka, India",
     "resolved": true,
     "note": "Within 1.9km of its expected cluster zone (North-east: Cooke Town / Banaswadi Road / Jayabharathi Nagar)."
@@ -1778,9 +1778,9 @@
     "resolved": false
   },
   "Ramakrishnappa Road": {
-    "lat": 13.0147599,
-    "lon": 77.6314385,
-    "displayName": "Ramakrishnappa Road, KFSC Layout, Kammanahalli, HRBR Layout, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
+    "lat": 12.9946044,
+    "lon": 77.6222053,
+    "displayName": "Ramakrishnappa Road, Cox Town, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560084, India",
     "queryUsed": "Ramakrishnappa Road, Bengaluru, Karnataka, India",
     "resolved": true,
     "note": "Within 1.8km of its expected cluster zone (Jeevanahalli / Dodda Kunte / Kadiranapalya)."
