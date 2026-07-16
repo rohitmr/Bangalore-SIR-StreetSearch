@@ -319,6 +319,17 @@ html, body {
   margin: 4px 0;
 }
 
+.detail-list {
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  margin: 4px 0 12px;
+  padding-left: 20px;
+}
+
+.detail-list li {
+  margin: 4px 0;
+}
+
 .thumb-btn {
   display: inline-block;
   border: 1px solid var(--line);
