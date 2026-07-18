@@ -1,0 +1,402 @@
+{
+  "Akkiyappa Garden": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Anjaneya Block": {
+    "lat": 12.9902032,
+    "lon": 77.5514665,
+    "displayName": "Anjaneya Ganesha Temple, 41st Cross Road, Rajajinagar 3rd Block, Rajajinagar, Rajajinagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560010, India",
+    "queryUsed": "Anjaneya Block, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"Anjaneya Ganesha Temple, 41st Cross Road, Rajajinagar 3rd Block, Rajajinagar, Rajajinagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560010, India\" but that's 7.1km from its expected cluster zone (Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram) — rejected as a likely wrong-neighborhood match."
+  },
+  "Anjaneya Temple Street": {
+    "lat": 12.9688749,
+    "lon": 77.5831205,
+    "displayName": "Anjaneya Temple Street, Ganigarpet, Dharmaraya Swamy Temple Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560002, India",
+    "queryUsed": "Anjaneya Temple Street, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"Anjaneya Temple Street, Ganigarpet, Dharmaraya Swamy Temple Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560002, India\" but that's 3.5km from its expected cluster zone (Malleshwaram core / Link Roads / Guttahalli) — rejected as a likely wrong-neighborhood match."
+  },
+  "B. Ramaiyanagar": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Baiyanna Layout": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "BK Nagar": {
+    "lat": 13.0277828,
+    "lon": 77.5535524,
+    "displayName": "BK Nagar Main Road, Mohan Kumar Nagar, J.P PARK, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560022, India",
+    "queryUsed": "BK Nagar, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (BK Nagar / Mohan Kumar Nagar)."
+  },
+  "Brindavan Nagar": {
+    "lat": 12.9741269,
+    "lon": 77.6086454,
+    "displayName": "Brindavan Hotel, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Brindavan Nagar, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"Brindavan Hotel, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India\" but that's 9.4km from its expected cluster zone (Gokula / HMT / Brindavan Nagar) — rejected as a likely wrong-neighborhood match."
+  },
+  "Coconut Avenue Road": {
+    "lat": 12.9979335,
+    "lon": 77.5731919,
+    "displayName": "Coconut Avenue Road, Dattatreya Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India",
+    "queryUsed": "Coconut Avenue Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.6km of its expected cluster zone (Malleshwaram / Vyalikaval / Sudeendra Nagar)."
+  },
+  "Dattatreya Temple Road": {
+    "lat": 12.9945537,
+    "lon": 77.5766411,
+    "displayName": "Dattatreya Temple Road, Basappa Garden, Seshadripuram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India",
+    "queryUsed": "Dattatreya Temple Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.8km of its expected cluster zone (Malleshwaram core / Link Roads / Guttahalli)."
+  },
+  "Divakar Palya": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "East Link Road": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "East Park Road": {
+    "lat": 13.0074731,
+    "lon": 77.5704105,
+    "displayName": "East Park Road, Sadashivanagar, Sadashiva Nagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560055, India",
+    "queryUsed": "East Park Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.3km of its expected cluster zone (Malleshwaram core / Link Roads / Guttahalli)."
+  },
+  "Gayathri Temple / Layout": {
+    "lat": 13.0390553,
+    "lon": 77.5749031,
+    "displayName": "Sri Gayathri Parishat and Sri Varasiddhi Vinayaka Temple, Beside Ramana Mahashree Heritage Centre, 4th Main Road, NGEF Layout, Sanjay Nagara, Nagashettyhalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560094, India",
+    "queryUsed": "Gayathri Temple / Layout, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"Sri Gayathri Parishat and Sri Varasiddhi Vinayaka Temple, Beside Ramana Mahashree Heritage Centre, 4th Main Road, NGEF Layout, Sanjay Nagara, Nagashettyhalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560094, India\" but that's 3.2km from its expected cluster zone (Yeshwanthpur / Railway / Muneshwara Nagar) — rejected as a likely wrong-neighborhood match."
+  },
+  "Gokula": {
+    "lat": 13.040969,
+    "lon": 77.5562302,
+    "displayName": "Gokula, HMT Ward, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560013, India",
+    "queryUsed": "Gokula, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Gokula / HMT / Brindavan Nagar)."
+  },
+  "Guttahalli": {
+    "lat": 13.0004165,
+    "lon": 77.5803858,
+    "displayName": "Guttahalli, Rajamahal, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India",
+    "queryUsed": "Guttahalli, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Malleshwaram core / Link Roads / Guttahalli)."
+  },
+  "Harijan Colony, Mathikere": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Jai Bharat Industries": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Kamala Nehru Layout": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "KEB Colony": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Mahamadan Block": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Mallenahalli Layout": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Malleshwaram": {
+    "lat": 13.0027353,
+    "lon": 77.5703253,
+    "displayName": "Malleswaram, Malleshwaram, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India",
+    "queryUsed": "Malleshwaram, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Kamala Nehru Layout / Subedarpalya)."
+  },
+  "Maruthi Extension": {
+    "lat": 12.9976424,
+    "lon": 77.5631012,
+    "displayName": "Maruthi Extension, Kuvempu Ward, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560021, India",
+    "queryUsed": "Maruthi Extension, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.0km of its expected cluster zone (Malleshwaram / Vyalikaval / Sudeendra Nagar)."
+  },
+  "Mathikere": {
+    "lat": 13.0333587,
+    "lon": 77.5581786,
+    "displayName": "Mathikere, Brundavana Nagara, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560054, India",
+    "queryUsed": "Mathikere, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Mathikere / MSR Nagar)."
+  },
+  "MES Road": {
+    "lat": 13.0306085,
+    "lon": 77.5404353,
+    "displayName": "Outer Ring Road, Goraguntepalya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560022, India",
+    "queryUsed": "MES Road, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"Outer Ring Road, Goraguntepalya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560022, India\" but that's 4.1km from its expected cluster zone (Muthyalanagar / Bandappa Garden) — rejected as a likely wrong-neighborhood match."
+  },
+  "Mohan Kumar Nagar": {
+    "lat": 13.0310241,
+    "lon": 77.5511385,
+    "displayName": "Mohan Kumar Nagar, J.P PARK, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560054, India",
+    "queryUsed": "Mohan Kumar Nagar, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.4km of its expected cluster zone (BK Nagar / Mohan Kumar Nagar)."
+  },
+  "Muneshwara Block": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Muneshwara Nagar": {
+    "lat": 12.9955654,
+    "lon": 77.5493504,
+    "displayName": "Sri Muneshwara Swamy Temple Road, Manjunath Nagar, Manjunath Nagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560010, India",
+    "queryUsed": "Muneshwara Nagar, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"Sri Muneshwara Swamy Temple Road, Manjunath Nagar, Manjunath Nagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560010, India\" but that's 2.5km from its expected cluster zone (Yeshwanthpur / Railway / Muneshwara Nagar) — rejected as a likely wrong-neighborhood match."
+  },
+  "Muthyalanagar": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Mysore Bank Colony": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Nagappa Street": {
+    "lat": 12.996863,
+    "lon": 77.5782526,
+    "displayName": "Nagappa Street, Basappa Garden, Seshadripuram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India",
+    "queryUsed": "Nagappa Street, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"Nagappa Street, Basappa Garden, Seshadripuram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India\" but that's 8.3km from its expected cluster zone (Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram) — rejected as a likely wrong-neighborhood match."
+  },
+  "Pampa Nagar": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Parsee Garden": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Pipeline": {
+    "lat": 13.0467545,
+    "lon": 77.5209818,
+    "displayName": "Pipeline Road Park, Shettihalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Pipeline, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Kamala Nehru Layout / Subedarpalya)."
+  },
+  "Puttaranganna Layout": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Railway Parallel Road": {
+    "lat": 13.0229263,
+    "lon": 77.552756,
+    "displayName": "Railway Parallel Road, Yeswanthpur, Yeshwanthpura, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560022, India",
+    "queryUsed": "Railway Parallel Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.7km of its expected cluster zone (Yeshwanthpur / Railway / Muneshwara Nagar)."
+  },
+  "Railway Quarters": {
+    "lat": 13.0263126,
+    "lon": 77.5523544,
+    "displayName": "Railway Quarters, J.P PARK, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Railway Quarters, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.0km of its expected cluster zone (Yeshwanthpur / Railway / Muneshwara Nagar)."
+  },
+  "Ramaiah Colony": {
+    "lat": 13.0428994,
+    "lon": 77.5569969,
+    "displayName": "MS Ramaiah Road, Sundar Nagar, Gokula, HMT Ward, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560013, India",
+    "queryUsed": "Ramaiah Colony, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"MS Ramaiah Road, Sundar Nagar, Gokula, HMT Ward, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560013, India\" but that's 4.2km from its expected cluster zone (Muthyalanagar / Bandappa Garden) — rejected as a likely wrong-neighborhood match."
+  },
+  "Ramanujam Apartments": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Ranganathapura": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Rudra Layout": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Sanjay Gandhi Nagar": {
+    "lat": 13.0188496,
+    "lon": 77.5261915,
+    "displayName": "Sanjay Gandhi Nagar, Peenya Inner Ring Road, Peenya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560058, India",
+    "queryUsed": "Sanjay Gandhi Nagar, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"Sanjay Gandhi Nagar, Peenya Inner Ring Road, Peenya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560058, India\" but that's 3.2km from its expected cluster zone (Yeshwanthpur / Railway / Muneshwara Nagar) — rejected as a likely wrong-neighborhood match."
+  },
+  "Sheshadripuram": {
+    "lat": 12.9905771,
+    "lon": 77.5746256,
+    "displayName": "Sheshadripuram Main Road, Nehru Nagar, Gandhinagar, Nehru Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560020, India",
+    "queryUsed": "Sheshadripuram, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"Sheshadripuram Main Road, Nehru Nagar, Gandhinagar, Nehru Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560020, India\" but that's 8.5km from its expected cluster zone (Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram) — rejected as a likely wrong-neighborhood match."
+  },
+  "Siddashrama Road": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Subedarpalya": {
+    "lat": 13.0215134,
+    "lon": 77.5586428,
+    "displayName": "Subedarpalya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Subedarpalya, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Kamala Nehru Layout / Subedarpalya)."
+  },
+  "Sudeendra Nagar": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Swimming Pool Avenue / Extension": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Tata Institute Quarters": {
+    "lat": 13.007,
+    "lon": 77.569,
+    "displayName": null,
+    "queryUsed": null,
+    "resolved": false
+  },
+  "Tumkur Road": {
+    "lat": 13.0175935,
+    "lon": 77.5598242,
+    "displayName": "CV Raman Road, Subedarpalya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560022, India",
+    "queryUsed": "Tumkur Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.5km of its expected cluster zone (Yeshwanthpur / Railway / Muneshwara Nagar)."
+  },
+  "Vyalikaval": {
+    "lat": 13.0042636,
+    "lon": 77.5751704,
+    "displayName": "Vyalikaval, Kodandarampura, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India",
+    "queryUsed": "Vyalikaval, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.6km of its expected cluster zone (Malleshwaram / Vyalikaval / Sudeendra Nagar)."
+  },
+  "West Link Road": {
+    "lat": 13.0407171,
+    "lon": 77.538444,
+    "displayName": "ORR-West Line (Orange Line), HMT Link Road, HMT Ward, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560022, India",
+    "queryUsed": "West Link Road, Bengaluru, Karnataka, India",
+    "resolved": false,
+    "note": "Geocoded to \"ORR-West Line (Orange Line), HMT Link Road, HMT Ward, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560022, India\" but that's 6.4km from its expected cluster zone (Malleshwaram core / Link Roads / Guttahalli) — rejected as a likely wrong-neighborhood match."
+  },
+  "West Park Road": {
+    "lat": 12.9878815,
+    "lon": 77.5790778,
+    "displayName": "West Park Road, Kumara Park East, High Grounds, Sampangirama Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "queryUsed": "West Park Road, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 1.9km of its expected cluster zone (Malleshwaram / Vyalikaval / Sudeendra Nagar)."
+  },
+  "Yeshwanthpur": {
+    "lat": 13.0176937,
+    "lon": 77.5555009,
+    "displayName": "BMTC Depot 8 (Yeshwanthpura), Subedarpalya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "queryUsed": "Yeshwanthpur, Bengaluru, Karnataka, India",
+    "resolved": true,
+    "note": "Within 0.0km of its expected cluster zone (Yeshwanthpur / Railway / Muneshwara Nagar)."
+  }
+}

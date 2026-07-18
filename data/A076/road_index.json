@@ -1,0 +1,997 @@
+[
+  {
+    "road": "Akkiyappa Garden",
+    "parts": [
+      34,
+      35
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "BK Nagar / Mohan Kumar Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Akkiyappa%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Anjaneya Block",
+    "parts": [
+      195
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Anjaneya%20Block%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Anjaneya Temple Street",
+    "parts": [
+      173
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram core / Link Roads / Guttahalli",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Anjaneya%20Temple%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "B. Ramaiyanagar",
+    "parts": [
+      1
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Muthyalanagar / Bandappa Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=B.%20Ramaiyanagar%2C%20Bengaluru",
+    "pinStatus": null
+  },
+  {
+    "road": "Baiyanna Layout",
+    "parts": [
+      53
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Baiyanna%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "BK Nagar",
+    "parts": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      33
+    ],
+    "partCount": "7",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "BK Nagar / Mohan Kumar Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=BK%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Brindavan Nagar",
+    "parts": [
+      10
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Gokula / HMT / Brindavan Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Brindavan%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Coconut Avenue Road",
+    "parts": [
+      159,
+      166,
+      167,
+      168
+    ],
+    "partCount": "4",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram / Vyalikaval / Sudeendra Nagar | Malleshwaram core / Link Roads / Guttahalli",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Coconut%20Avenue%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Dattatreya Temple Road",
+    "parts": [
+      175,
+      176
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram core / Link Roads / Guttahalli",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Dattatreya%20Temple%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Divakar Palya",
+    "parts": [
+      79
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Gokula 1st Stage / HMT Road",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Divakar%20Palya%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "East Link Road",
+    "parts": [
+      171
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram core / Link Roads / Guttahalli",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=East%20Link%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "East Park Road",
+    "parts": [
+      163
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram core / Link Roads / Guttahalli",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=East%20Park%20Road%2C%20Bengaluru",
+    "pinStatus": null
+  },
+  {
+    "road": "Gayathri Temple / Layout",
+    "parts": [
+      50
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gayathri%20Temple%20/%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Gokula",
+    "parts": [
+      9,
+      13,
+      14,
+      17,
+      18,
+      19,
+      20,
+      22,
+      23,
+      24,
+      25,
+      74,
+      75,
+      76,
+      77,
+      78,
+      80,
+      81,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "partCount": "24",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Gokula / HMT / Brindavan Nagar | Gokula 1st Stage / HMT Road",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Gokula%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Guttahalli",
+    "parts": [
+      175,
+      177,
+      188
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram core / Link Roads / Guttahalli | Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Guttahalli%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Harijan Colony, Mathikere",
+    "parts": [
+      67
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Mathikere / MSR Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Harijan%20Colony%2C%20Mathikere%2C%20Bengaluru",
+    "pinStatus": null
+  },
+  {
+    "road": "Jai Bharat Industries",
+    "parts": [
+      53
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Jai%20Bharat%20Industries%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Kamala Nehru Layout",
+    "parts": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      100,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "partCount": "14",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Kamala Nehru Layout / Subedarpalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Kamala%20Nehru%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "KEB Colony",
+    "parts": [
+      54
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=KEB%20Colony%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Mahamadan Block",
+    "parts": [
+      127
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram core / institutional quarters",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mahamadan%20Block%2C%20Bengaluru",
+    "pinStatus": null
+  },
+  {
+    "road": "Mallenahalli Layout",
+    "parts": [
+      183
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mallenahalli%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Malleshwaram",
+    "parts": [
+      108,
+      109,
+      111,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      133,
+      135,
+      136,
+      137,
+      145,
+      151,
+      159,
+      161,
+      162,
+      163,
+      165,
+      166,
+      167,
+      168,
+      170
+    ],
+    "partCount": "34",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Kamala Nehru Layout / Subedarpalya | Malleshwaram / Vyalikaval / Sudeendra Nagar | Malleshwaram core / Link Roads / Guttahalli | Malleshwaram core / institutional quarters",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Malleshwaram%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Maruthi Extension",
+    "parts": [
+      155,
+      156
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram / Vyalikaval / Sudeendra Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Maruthi%20Extension%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Mathikere",
+    "parts": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "partCount": "16",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Mathikere / MSR Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mathikere%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "MES Road",
+    "parts": [
+      1
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Muthyalanagar / Bandappa Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=MES%20Road%2C%20Bengaluru",
+    "pinStatus": null
+  },
+  {
+    "road": "Mohan Kumar Nagar",
+    "parts": [
+      34,
+      35
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "BK Nagar / Mohan Kumar Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mohan%20Kumar%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Muneshwara Block",
+    "parts": [
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "partCount": "6",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muneshwara%20Block%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Muneshwara Nagar",
+    "parts": [
+      52
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muneshwara%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Muthyalanagar",
+    "parts": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "partCount": "4",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Muthyalanagar / Bandappa Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Muthyalanagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Mysore Bank Colony",
+    "parts": [
+      54
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Mysore%20Bank%20Colony%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Nagappa Street",
+    "parts": [
+      177,
+      181,
+      183,
+      185
+    ],
+    "partCount": "4",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Nagappa%20Street%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Pampa Nagar",
+    "parts": [
+      8
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Muthyalanagar / Bandappa Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pampa%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Parsee Garden",
+    "parts": [
+      152
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram / Vyalikaval / Sudeendra Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Parsee%20Garden%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Pipeline",
+    "parts": [
+      43,
+      59,
+      103,
+      182,
+      186,
+      188
+    ],
+    "partCount": "6",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Kamala Nehru Layout / Subedarpalya | Mathikere / MSR Nagar | Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram | Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Pipeline%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Puttaranganna Layout",
+    "parts": [
+      185,
+      191
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Puttaranganna%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Railway Parallel Road",
+    "parts": [
+      44,
+      49
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Railway%20Parallel%20Road%2C%20Bengaluru",
+    "pinStatus": null
+  },
+  {
+    "road": "Railway Quarters",
+    "parts": [
+      40,
+      41,
+      49
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Railway%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Ramaiah Colony",
+    "parts": [
+      2
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Muthyalanagar / Bandappa Garden",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramaiah%20Colony%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Ramanujam Apartments",
+    "parts": [
+      129
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram core / institutional quarters",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ramanujam%20Apartments%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Ranganathapura",
+    "parts": [
+      132
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram core / institutional quarters",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Ranganathapura%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Rudra Layout",
+    "parts": [
+      12
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Gokula / HMT / Brindavan Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Rudra%20Layout%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Sanjay Gandhi Nagar",
+    "parts": [
+      52
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sanjay%20Gandhi%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Sheshadripuram",
+    "parts": [
+      185,
+      191,
+      195
+    ],
+    "partCount": "3",
+    "matchedEntries": null,
+    "minConfidence": "90",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Pipeline / Muneshwara Block / Nagappa Street / Sheshadripuram",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sheshadripuram%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Siddashrama Road",
+    "parts": [
+      132
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram core / institutional quarters",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Siddashrama%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Subedarpalya",
+    "parts": [
+      95,
+      101
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Kamala Nehru Layout / Subedarpalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Subedarpalya%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Sudeendra Nagar",
+    "parts": [
+      152,
+      153,
+      154,
+      157,
+      158,
+      159
+    ],
+    "partCount": "6",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram / Vyalikaval / Sudeendra Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Sudeendra%20Nagar%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Swimming Pool Avenue / Extension",
+    "parts": [
+      137,
+      141
+    ],
+    "partCount": "2",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram / Vyalikaval / Sudeendra Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Swimming%20Pool%20Avenue%20/%20Extension%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Tata Institute Quarters",
+    "parts": [
+      97
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Source-confirmed",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Kamala Nehru Layout / Subedarpalya",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Tata%20Institute%20Quarters%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Tumkur Road",
+    "parts": [
+      50
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "98",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Tumkur%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Vyalikaval",
+    "parts": [
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151
+    ],
+    "partCount": "10",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram / Vyalikaval / Sudeendra Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Vyalikaval%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "West Link Road",
+    "parts": [
+      169
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram core / Link Roads / Guttahalli",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=West%20Link%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "West Park Road",
+    "parts": [
+      133
+    ],
+    "partCount": "1",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Malleshwaram / Vyalikaval / Sudeendra Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=West%20Park%20Road%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  },
+  {
+    "road": "Yeshwanthpur",
+    "parts": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      48,
+      49,
+      50,
+      51
+    ],
+    "partCount": "11",
+    "matchedEntries": null,
+    "minConfidence": "78",
+    "status": "Verified",
+    "numberedRoadDetails": null,
+    "mapAreaCheck": null,
+    "clusterZone": "Yeshwanthpur / Railway / Muneshwara Nagar",
+    "evidenceUrl": null,
+    "googleMapsSearch": "https://www.google.com/maps/search/?api=1&query=Yeshwanthpur%2C%20Bengaluru",
+    "pinStatus": "Suppressed unless independently corroborated"
+  }
+]
